@@ -359,6 +359,36 @@
 			"website": "",
 			"logo": "logos/ETHMT.png",
 			"data": ["csvs/triple-ethmoji.csv"]
+		},
+		{
+			"name": "Nouns",
+			"description": "Nouns.",
+			"abbreviation": "NOUNS",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/NOUNS.png",
+			"data": ["csvs/nouns.csv"]
+		},
+		{
+			"name": "Adjectives",
+			"description": "Adjective Names.",
+			"abbreviation": "ETHMT",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/ADJ.png",
+			"data": ["csvs/adjectives.csv"]
+		},
+		{
+			"name": "4LetterDictionary",
+			"description": "English 4 Letter Dictionary Words.",
+			"abbreviation": "4LD",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/4LD.png",
+			"data": ["csvs/4-letter-dictionary.csv"]
 		}
 	]
 }

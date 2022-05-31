@@ -1,0 +1,364 @@
+{
+	"categories": [
+		{
+			"name": "0x10kclub",
+			"description": "Names with 0x4Digits.",
+			"abbreviation": "H4D",
+			"twitter": "@0x10kClub",
+			"discord": "DYMCCHG5gP",
+			"website": "",
+			"logo": "logos/H4D.png",
+			"data": ["csvs/0x10k-club.csv"]
+		},
+		{
+			"name": "0x99club",
+			"description": "Names with 0x2Digits.",
+			"abbreviation": "H2D",
+			"twitter": "@0x10kClub",
+			"discord": "DYMCCHG5gP",
+			"website": "",
+			"logo": "logos/H2D.png",
+			"data": ["csvs/0x99-club.csv"]
+		},
+		{
+			"name": "0x999club",
+			"description": "Names with 0x3Digits.",
+			"abbreviation": "H3D",
+			"twitter": "@0x10kClub",
+			"discord": "DYMCCHG5gP",
+			"website": "",
+			"logo": "logos/H3D.png",
+			"data": ["csvs/0x999-club.csv"]
+		},
+		{
+			"name": "0xEmojis",
+			"description": "0x Emojis Names",
+			"abbreviation": "0xEMJ",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/0xEMJ.png",
+			"data": ["csvs/0xemojis.csv"]
+		},
+		{
+			"name": "1Hexclub",
+			"description": "0x1Hex Names.",
+			"abbreviation": "1HXC",
+			"twitter": "@HexClubXYZ",
+			"discord": "3y8xUv3bPB",
+			"website": "",
+			"logo": "logos/1HXC.png",
+			"data": ["csvs/1-hex.csv"]
+		},
+		{
+			"name": "2Hexclub",
+			"description": "0x2Hex Names.",
+			"abbreviation": "2HXC",
+			"twitter": "@HexClubXYZ",
+			"discord": "3y8xUv3bPB",
+			"website": "",
+			"logo": "logos/2HXC.png",
+			"data": ["csvs/2-hex.csv"]
+		},
+		{
+			"name": "3Hexclub",
+			"description": "0x3Hex Names.",
+			"abbreviation": "3HXC",
+			"twitter": "@HexClubXYZ",
+			"discord": "3y8xUv3bPB",
+			"website": "",
+			"logo": "logos/3HXC.png",
+			"data": ["csvs/3-hex.csv"]
+		},
+		{
+			"name": "ThreeLetterclub",
+			"description": "Names with 3 Letters.",
+			"abbreviation": "TLC",
+			"twitter": "@ENSletters",
+			"discord": "9maV66mE2e",
+			"website": "",
+			"logo": "logos/TLC.png",
+			"data": ["csvs/3-letter-club.csv"]
+		},
+		{
+			"name": "3LetterDictionary",
+			"description": "English 3 letter dictionary words.",
+			"abbreviation": "3LW",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/3LW.png",
+			"data": ["csvs/3-letter-dictionary.csv"]
+		},
+		{
+			"name": "3LetterFirstNames",
+			"description": "3 Letter first Names.",
+			"abbreviation": "3LFN",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/3LFN.png",
+			"data": ["csvs/3-letter-first-names.csv"]
+		},
+		{
+			"name": "3LetterPalindromes",
+			"description": "Palindromes with 3 letters.",
+			"abbreviation": "3LP",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/3LP.png",
+			"data": ["csvs/3-letter-palindroms.csv"]
+		},
+		{
+			"name": "3AllVowel",
+			"description": "Names with only 3 vowels.",
+			"abbreviation": "3AV",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/3AV.png",
+			"data": ["csvs/3-all-vowel.csv"]
+		},
+		{
+			"name": "4DigitPalindromes",
+			"description": "Palindromes with 4 digits",
+			"abbreviation": "4DP",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/4DP.png",
+			"data": ["csvs/4-digit-palindroms.csv"]
+		},
+		{
+			"name": "4LetterDictionary",
+			"description": "English 4 Letter Dictionary Words.",
+			"abbreviation": "4LD",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/4LD.png",
+			"data": ["csvs/"]
+		},
+		{
+			"name": "5DigitPalindromes",
+			"description": "Palindromes with 5 digits.",
+			"abbreviation": "5DP",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/5DP.png",
+			"data": ["csvs/5-digit-palindroms.csv"]
+		},
+		{
+			"name": "10kclub",
+			"description": "Names with 4 Digits.",
+			"abbreviation": "4D",
+			"twitter": "@10kClubOfficial  ",
+			"discord": "aUemBKUuZ5",
+			"website": "",
+			"logo": "logos/4D.png",
+			"data": ["csvs/10k-club.csv"]
+		},
+		{
+			"name": "24hclub",
+			"description": "The eternal #TimeKeepers.",
+			"abbreviation": "24H",
+			"twitter": "@24hClubOfficial",
+			"discord": "K3wsdq3n",
+			"website": "",
+			"logo": "logos/24H.png",
+			"data": ["csvs/24h-club.csv"]
+		},
+		{
+			"name": "100kclub",
+			"description": "Names with 5 Digits.",
+			"abbreviation": "5D",
+			"twitter": "@100kClubENS",
+			"discord": "EmcSN6EJpY",
+			"website": "",
+			"logo": "logos/5D.png",
+			"data": ["csvs/100k-club.csv"]
+		},
+		{
+			"name": "999club",
+			"description": "Names with 3 Digits.",
+			"abbreviation": "3D",
+			"twitter": "@10kClubOfficial  ",
+			"discord": "aUemBKUuZ5",
+			"website": "",
+			"logo": "logos/3D.png",
+			"data": ["csvs/999-club.csv"]
+		},
+		{
+			"name": "٩٩٩club",
+			"description": "Arabic numerals.",
+			"abbreviation": "A3D",
+			"twitter": "@999ENSArabic",
+			"discord": "43a76yuMCU",
+			"website": "",
+			"logo": "logos/A3D.png",
+			"data": ["csvs/٩٩٩-club.csv"]
+		},
+		{
+			"name": "Binaryclub",
+			"description": "Names in Binary.",
+			"abbreviation": "BC",
+			"twitter": "@BinaryClubENS",
+			"discord": "",
+			"website": "",
+			"logo": "logos/BC.png",
+			"data": ["csvs/binary-club.csv"]
+		},
+		{
+			"name": "CapitalCities",
+			"description": "Capital City Names.",
+			"abbreviation": "CAPITAL",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/CAPITAL.png",
+			"data": ["csvs/capital-cities.csv"]
+		},
+		{
+			"name": "Countries",
+			"description": "Country names.",
+			"abbreviation": "CN",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/CN.png",
+			"data": ["csvs/countries.csv"]
+		},
+		{
+			"name": "CountryCodes",
+			"description": "Country Code Names.",
+			"abbreviation": "CC",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/CC.png",
+			"data": ["csvs/country-codes.csv"]
+		},
+		{
+			"name": "DoubleETHmoji",
+			"description": "Names with True Double Emojis.",
+			"abbreviation": "ETHMD",
+			"twitter": "@EthmojiClub",
+			"discord": "vv6H4Rjuzm",
+			"website": "",
+			"logo": "logos/ETHMD.png",
+			"data": ["csvs/double-ethmoji.csv"]
+		},
+		{
+			"name": "Emoji99Club",
+			"description": "Names with 2 Emoji Digits.",
+			"abbreviation": "2ED",
+			"twitter": "@Official99Club",
+			"discord": "vv6H4Rjuzm",
+			"website": "",
+			"logo": "logos/2ED.png",
+			"data": ["csvs/emoji-99-club.csv"]
+		},
+		{
+			"name": "Emoji999Club",
+			"description": "Names with 3 Emoji Digits.",
+			"abbreviation": "3ED",
+			"twitter": "@999OfficialClub",
+			"discord": "vv6H4Rjuzm",
+			"website": "",
+			"logo": "logos/3ED.png",
+			"data": ["csvs/emoji-999-club.csv"]
+		},
+		{
+			"name": "ENSDateClub",
+			"description": "1Jan.eth - 31dec.eth",
+			"abbreviation": "365",
+			"twitter": "@EnsDateClub",
+			"discord": "gqAxF7uqUq",
+			"website": "",
+			"logo": "logos/365.png",
+			"data": ["csvs/ens-date-club.csv"]
+		},
+		{
+			"name": "Hyphens-LL",
+			"description": "Hyphenated ENS domains.",
+			"abbreviation": "HYPHLL",
+			"twitter": "@hyphENSclub",
+			"discord": "X2bKAUdb6k",
+			"website": "",
+			"logo": "logos/HYPHLL.png",
+			"data": ["csvs/hyphens-ll.csv"]
+		},
+		{
+			"name": "Hyphens-LN-NL",
+			"description": "Hyphenated ENS domains.",
+			"abbreviation": "HYPHLNNL",
+			"twitter": "@hyphENSclub",
+			"discord": "X2bKAUdb6k",
+			"website": "",
+			"logo": "logos/HYPHLNNL.png",
+			"data": ["csvs/hyphens-ln-nl.csv"]
+		},
+		{
+			"name": "Hyphens-NN",
+			"description": "Hyphenated ENS domains.",
+			"abbreviation": "HYPHNN",
+			"twitter": "@hyphENSclub",
+			"discord": "X2bKAUdb6k",
+			"website": "",
+			"logo": "logos/HYPHNN.png",
+			"data": ["csvs/hyphens-nn.csv"]
+		},
+		{
+			"name": "JPokemonTrainerDAO",
+			"description": "Japanese Pokemon ENS.",
+			"abbreviation": "JPKD",
+			"twitter": "@TrainerDAO",
+			"discord": "nfWYw9mctW",
+			"website": "",
+			"logo": "logos/JPKD.png",
+			"data": ["csvs/japanese-pokemon-trainer-dao.csv"]
+		},
+		{
+			"name": "PokemonTrainerDAO",
+			"description": "Pokemon ENS.",
+			"abbreviation": "PKD",
+			"twitter": "@TrainerDAO",
+			"discord": "nfWYw9mctW",
+			"website": "",
+			"logo": "logos/PKD.png",
+			"data": ["csvs/pokemon-trainer-dao.csv"]
+		},
+		{
+			"name": "PrePunkClub",
+			"description": "Names minted before Crypto Punks.",
+			"abbreviation": "PP",
+			"twitter": "",
+			"discord": "",
+			"website": "",
+			"logo": "logos/PP.png",
+			"data": ["csvs/pre-punks-club.csv"]
+		},
+		{
+			"name": "SingleETHmoji",
+			"description": "Names with True Single Emojis",
+			"abbreviation": "ETHMS",
+			"twitter": "@EthmojiClub",
+			"discord": "vv6H4Rjuzm",
+			"website": "",
+			"logo": "logos/ethms.png",
+			"data": ["csvs/single-ethmoji.csv"]
+		},
+		{
+			"name": "TripleETHmoji",
+			"description": "Names with True Triple Emojis",
+			"abbreviation": "ETHMT",
+			"twitter": "@EthmojiClub",
+			"discord": "vv6H4Rjuzm",
+			"website": "",
+			"logo": "logos/ETHMT.png",
+			"data": ["csvs/triple-ethmoji.csv"]
+		}
+	]
+}

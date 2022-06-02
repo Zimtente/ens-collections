@@ -108,7 +108,7 @@
 			"discord": "",
 			"website": "",
 			"logo": "logos/3LP.png",
-			"data": ["csvs/3-letter-palindroms.csv"]
+			"data": ["csvs/3-letter-palindromes.csv"]
 		},
 		{
 			"name": "3AllVowel",
@@ -128,7 +128,7 @@
 			"discord": "",
 			"website": "",
 			"logo": "logos/4DP.png",
-			"data": ["csvs/4-digit-palindroms.csv"]
+			"data": ["csvs/4-digit-palindromes.csv"]
 		},
 		{
 			"name": "4LetterDictionary",
@@ -148,7 +148,7 @@
 			"discord": "",
 			"website": "",
 			"logo": "logos/5DP.png",
-			"data": ["csvs/5-digit-palindroms.csv"]
+			"data": ["csvs/5-digit-palindromes.csv"]
 		},
 		{
 			"name": "10kclub",
@@ -156,7 +156,7 @@
 			"abbreviation": "4D",
 			"twitter": "@10kClubOfficial  ",
 			"discord": "aUemBKUuZ5",
-			"website": "",
+			"website": "www.10kClub.com",
 			"logo": "logos/4D.png",
 			"data": ["csvs/10k-club.csv"]
 		},
@@ -361,24 +361,24 @@
 			"data": ["csvs/triple-ethmoji.csv"]
 		},
 		{
-			"name": "Nouns",
-			"description": "Nouns.",
-			"abbreviation": "NOUNS",
+			"name": "EnglishNouns",
+			"description": "English nouns.",
+			"abbreviation": "ENOUNS",
 			"twitter": "",
 			"discord": "",
 			"website": "",
 			"logo": "logos/NOUNS.png",
-			"data": ["csvs/nouns.csv"]
+			"data": ["csvs/english-nouns.csv"]
 		},
 		{
-			"name": "Adjectives",
-			"description": "Adjective Names.",
-			"abbreviation": "ETHMT",
+			"name": "EnglishAdjectives",
+			"description": "English adjectives.",
+			"abbreviation": "EADJ",
 			"twitter": "",
 			"discord": "",
 			"website": "",
-			"logo": "logos/ADJ.png",
-			"data": ["csvs/adjectives.csv"]
+			"logo": "logos/EADJ.png",
+			"data": ["csvs/english-adjectives.csv"]
 		},
 		{
 			"name": "4LetterDictionary",

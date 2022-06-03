@@ -3,20 +3,20 @@
 
 ENS Collections are categories of ENS names based on specific patterns or predefined lists. This repository is an effort towards bringing all collections together into one place and standardizing their definition in order to facilitate consistent integrations across platforms and marketplaces.
 
-This repo is maintained by: @zimtente ([ENS.Vision](https://ens.vision)) and @paste ([ENS.Tools](https://ens.tools))
+This repo is maintained by: [@zimtente](https://twitter.com/zimtente) ([ENS.Vision](https://ens.vision)) and [@aoxborrow](https://twitter.com/aoxborrow) ([ENS.Tools](https://ens.tools))
 
 
 ### Metadata
-The metadata for all collections is in `ens-collections.json`.
+The metadata for all collections in `ens-collections.json`:
 
-- **name: collection name**
-- **slug: short, lowercase, url-friendly abbreviation (use hyphens instead of spaces)**
-- **description: one sentence description**
-- twitter: twitter username
-- website: full website url
-- chat: link for group chat, e.g. discord/telegram
-- logo: logo file, use slug for filename, e.g. "three-letters.png"
-- **csv: array of csv files, use slug for filename, e.g. ["three-letters.csv"]**
+- **`name`: collection name, e.g. "10K Club"**
+- **`slug`: short, lowercase, url-friendly abbreviation (use hyphens instead of spaces), e.g. "10k-club"**
+- **`description`: one sentence description**
+- `twitter`: twitter username 
+- `website`: full website url
+- `chat`: link for group chat, e.g. discord/telegram
+- `logo`: logo file, use slug for filename, e.g. "three-letters.png"
+- **`csv`: array of csv files, use slug for filename, e.g. ["three-letters.csv"]**
 
 <sub>**bold** = required field.</sub>
 
@@ -58,7 +58,7 @@ Here is a quick checklist when submitting a new collection:
   "name": "10k Club",
   "slug": "10k-club"
   "description": "Names with 4 digits, 0000-9999.",
-  "twitter": "@10kClubOfficial",
+  "twitter": "10kClubOfficial",
   "website": "https://10kClub.com",
   "chat": "https://discord.gg/aUemBKUuZ5",
   "logo": "10k-club.png",

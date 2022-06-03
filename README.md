@@ -22,7 +22,7 @@ The metadata for all collections in `ens-collections.json`:
 
 
 ### CSV files
-The .csv should include all names in the collection in ascending alphanumeric order. There are two columns: name and token ID. The names should not include the .eth extension and should be normalized using [standard ENS normalization](https://docs.ens.domains/contract-api-reference/name-processing#normalising-names). The token ID can be omitted for collections who have not yet fully been registered. New collections can be submitted without token IDs -- we can populate them if necessary.
+The .csv should include all names in the collection in ascending alphanumeric order. There are two columns: name and token ID. The names should not include the .eth extension and should be normalized using [standard ENS normalization](https://docs.ens.domains/contract-api-reference/name-processing#normalising-names). New collections can be submitted without token IDs, or use the provided script to generate them.
 
 ```
 name,token
@@ -89,3 +89,13 @@ To modify an existing collection, please create an issue or pull request and pro
 ### Additional Information
 
 - How to convert a name into a token ID: https://docs.ens.domains/dapp-developer-guide/ens-as-nft
+
+## Generate Token IDs from Names
+
+**Install**
+`npm install`
+
+**Get Tokens from List of Names**
+This takes any CSV file with one or two columns where the first column is the ENS name. The name will be normalized and the token ID will be added to second column in outfile.
+`npm run get-tokens example.csv outfile.csv`
+

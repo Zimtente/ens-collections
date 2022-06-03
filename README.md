@@ -85,18 +85,29 @@ To modify an existing collection, please create an issue or pull request and pro
 - (Optional) Token ID of the item
 
 
-## Generate Token IDs from Names
+
+&nbsp;
+&nbsp;
+
+
+# Utils
 
 **Install**
 
 `npm install`
 
-**Get Tokens from List of Names**
+### Generate Token IDs from Names
 
-This takes any CSV file where the first column is the ENS name. The name will be normalized (.eth removed) and the token ID will be added as the second column in outfile.csv. Use this outfile for the collection CSV.
+This takes any CSV file where the first column is the ENS name. The name will be normalized (.eth removed) and the token ID will be added as the second column in outfile.csv. Use this outfile for the collection CSV. It can replace the input file as well.
 
-`npm run get-tokens src/example.csv outfile.csv`
+`npm run get-tokens utils/example-names.csv outfile.csv`
 
-**Additional Information**
 
-- How to convert a name into a token ID: https://docs.ens.domains/dapp-developer-guide/ens-as-nft
+**How to convert a name into a token ID:**  
+https://docs.ens.domains/dapp-developer-guide/ens-as-nft
+
+### Verify All Lists and Logos
+
+This verifies that all CSV files and logo files that are specified in `ens-collections.json` exist. 
+
+`npm run verify-collections`

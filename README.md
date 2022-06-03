@@ -7,21 +7,21 @@ ENS Collections are categories of ENS names based on specific patterns or predef
 ### Metadata
 The metadata for all collections is in `ens-collections.json`.
 
-- **name**: collection name
-- **slug**: short, url-friendly abbreviation
-- **description**: one sentence description
+- **name: collection name**
+- **slug: short, lowercase, url-friendly abbreviation (use hyphens instead of spaces)**
+- **description: one sentence description**
 - twitter: twitter username
 - website: full website url
-- chat: chat url, e.g. discord/telegram
+- chat: link for group chat, e.g. discord/telegram
 - logo: logo file, use slug for filename, e.g. "three-letters.png"
-- **csv**: array of csv files, use slug for filename, e.g. ["three-letters.csv"]
+- **csv: array of csv files, use slug for filename, e.g. ["three-letters.csv"]**
 
 <sub>**bold** = required field.</sub>
 
 
 ### CSV files
-The .csv files in `/csvs` should include all names in the collection in ascending alphanumeric order. There are two columns: name and token ID. The names should not include the .eth extension and be normalized using [standard ENS normalization](https://docs.ens.domains/contract-api-reference/name-processing#normalising-names). The token ID can be omitted for collections who have not yet fully been registered. New collections can be submitted without token IDs -- we can populate them if necessary.
-TODO: add script to populate token IDs in CSV from TheGraph.
+The .csv files in `/csvs` should include all names in the collection in ascending alphanumeric order. There are two columns: name and token ID. The names should not include the .eth extension and should be normalized using [standard ENS normalization](https://docs.ens.domains/contract-api-reference/name-processing#normalising-names). The token ID can be omitted for collections who have not yet fully been registered. New collections can be submitted without token IDs -- we can populate them if necessary.
+
 ```
 name,token
 vitalik,79233663829379634837589865448569342784712482819484549289560981379859480642508
@@ -29,18 +29,28 @@ ens,4203364792183672070898607943702366469543635281583200976698849652885530112457
 0001,38764329101403256878217503524140705778209985981144907919668889447405219871633
 ```
 
+- [ ] TODO: add script to populate token IDs in CSV from TheGraph.
 
-### Contributing a New Collection
-Here is a general checklist when submitting a new collection:
+ 
+&nbsp;
+&nbsp;
+  
+
+# Contributing
+
+Please feel free to create issues or pull requests to contribute to this repo.
+
+## Proposing a New Collection
+Here is a quick checklist when submitting a new collection:
 
 - The collection must be significantly different from any existing collection. 
-- Provide all the required metadata fields (see above), and any additional fields if they exist.
-- CSV files should follow file naming standards and be properly formatted (see above). New collections can be submitted without token IDs.
-- (Optional) Logo file should follow file naming standards, with square dimensions that work within a circular crop. Logo files should be at least 500x500px, and no more than 1200x1200px. 
+- Provide all the required metadata fields (see above).
+- CSV filename should be the collection slug. CSVs should be properly formatted. New collections can be submitted without token IDs.
+- (Optional) Logo filename should be the collection slug. Logo files should be square dimensions that work with a circular crop (like Twitter). Logo files should be at least 500x500px, and no more than 1200x1200px. 
 
 
-**Example Collection Proposal:**
-1) Metadata content:
+### Example Collection Proposal:
+**Metadata content:**
 ```
 {
   "name": "10k Club",
@@ -53,7 +63,8 @@ Here is a general checklist when submitting a new collection:
   "csv": ["10k-club.csv"]
 }
 ```
-2) .CSV content:
+
+**.CSV content:**
 ```
 name,token
 0000,105307555225596823162770746791279321249474694422393704130067750948958748271609
@@ -61,18 +72,17 @@ name,token
 0002,37929174533718175565910670676525701091954781139941253617179119590462796771323
 ```
 
-**Adding/Removing Names from a Collection**
-To modify an existing collection: 
+### Adding/Removing Names from a Collection
+
+To modify an existing collection, please create an issue or pull request and provide:
+
+- Explanation why the item should be added/removed from a collection
 - Collection Name
 - Name of the item
-- Token ID of the item
-- Explanation why the item should be added/removed from a collection
+- (Optional) Token ID of the item
 
-**Remove an existing item from a category**
-* Name of the item
-* TokenId of the item
-* Category the item should be removed from
-* Explanation why the item should be removed from a category
-
+ 
+ 
 ### Additional Information
-* How to convert a name into a token ID: https://docs.ens.domains/dapp-developer-guide/ens-as-nft
+
+- How to convert a name into a token ID: https://docs.ens.domains/dapp-developer-guide/ens-as-nft

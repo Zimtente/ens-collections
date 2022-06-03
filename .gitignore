@@ -4,4 +4,4 @@ node_modules
 .vscode
 package-lock.json
 *.csv
-!example.csv
+!src/example.csv

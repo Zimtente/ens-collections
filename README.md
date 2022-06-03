@@ -93,9 +93,12 @@ To modify an existing collection, please create an issue or pull request and pro
 ## Generate Token IDs from Names
 
 **Install**
+
 `npm install`
 
 **Get Tokens from List of Names**
+
 This takes any CSV file with one or two columns where the first column is the ENS name. The name will be normalized and the token ID will be added to second column in outfile.
-`npm run get-tokens example.csv outfile.csv`
+
+`npm run get-tokens src/example.csv outfile.csv`
 

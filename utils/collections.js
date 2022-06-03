@@ -19,11 +19,10 @@ function getTokenId(name) {
 const json = JSON.parse(fs.readFileSync('ens-collections.json'));
 const csv_file_errors = [];
 const logo_file_errors = [];
-const csvs_path = './csvs/';
+const csvs_path = './collections/';
 const logos_path = './logos/';
 for (const collection of json.collections) {
     let slug = collection.slug,
-        abbrev = collection.abbreviation,
         intended_logo_file = slug + '.png',
         logo_file = collection.logo,
         intended_csv_file = slug + '.csv',
@@ -38,7 +37,7 @@ for (const collection of json.collections) {
     }
 
     // check logo file name
-    if (logo_file !== intended_logo_file) {
+    if (logo_file !== intended_logo_file && logo_file !== "") {
         // rename old logo to intended file name
         logo_file_errors.push([intended_logo_file, logo_file]);
         // if (fs.existsSync(logos_path + logo_file)) {

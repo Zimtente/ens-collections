@@ -1,11 +1,11 @@
 
 # ENS Collections
 
-ENS Collections are categories of ENS names based on specific patterns or predefined lists. This repository is an effort towards bringing all collections together into one place to standardize their definition and facilitate integration across platforms and marketplaces.
+ENS Collections are categories of ENS names based on specific patterns or predefined lists. This repository is an effort towards bringing all collections together into one place and standardizing their definition in order to facilitate integrations across platforms and marketplaces.
 
 
 ### Metadata
-The metadata for collections is stored in `ens-collections.json`. **Bold** = required field.
+The metadata for all collections is in `ens-collections.json`.
 
 - **name**: collection name
 - **slug**: short, url-friendly abbreviation
@@ -16,9 +16,11 @@ The metadata for collections is stored in `ens-collections.json`. **Bold** = req
 - logo: logo file, use slug for filename, e.g. "three-letters.png"
 - **csv**: array of csv files, use slug for filename, e.g. ["three-letters.csv"]
 
+<sub>**bold** = required field.</sub>
+
 
 ### CSV files
-The .csv files in `/csv` should include all names in the collection in ascending alphanumeric order. There are two columns: name and token ID. The names should not include the .eth extension and be normalized using [standard ENS normalization](https://docs.ens.domains/contract-api-reference/name-processing#normalising-names). The token ID can be omitted for collections who have not yet fully been registered. New collections can be submitted without token IDs -- we can populate them if necessary.
+The .csv files in `/csvs` should include all names in the collection in ascending alphanumeric order. There are two columns: name and token ID. The names should not include the .eth extension and be normalized using [standard ENS normalization](https://docs.ens.domains/contract-api-reference/name-processing#normalising-names). The token ID can be omitted for collections who have not yet fully been registered. New collections can be submitted without token IDs -- we can populate them if necessary.
 TODO: add script to populate token IDs in CSV from TheGraph.
 ```
 name,token

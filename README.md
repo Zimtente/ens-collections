@@ -48,7 +48,7 @@ Here is a quick checklist when submitting a new collection:
 - The collection must be significantly different from any existing collection. 
 - Provide all the required metadata fields (see above).
 - CSVs should be properly formatted and use the slug for filename. New collections can be submitted without token IDs.
-- (Optional) Logo files should be square dimensions that work with a circular crop (like Twitter). Logo files should be at least 500x500px, and no more than 1200x1200px. Logo files should use the slug for filename.
+- (Optional) Logo files should be PNG with square dimensions that work with a circular crop (like Twitter). Logo files should be at least 500x500px, and no more than 1200x1200px. Logo files should use the slug for filename.
 
 
 ### Example Collection Proposal:

@@ -2,8 +2,9 @@
   "name": "ens-collections",
   "version": "1.0.0",
   "description": "Generate token ID for ENS names",
-  "main": "src/get-tokens.js",
+  "main": "src/collections.js",
   "scripts": {
+    "verify-collections": "node src/collections.js",
     "get-tokens": "node src/get-tokens.js"
   },
   "author": "@paste",

@@ -3,5 +3,3 @@ node_modules
 .idea
 .vscode
 package-lock.json
-*.csv
-!src/example.csv

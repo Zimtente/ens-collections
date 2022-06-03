@@ -1,5 +1,5 @@
 {
-	"categories": [
+	"collections": [
 		{
 			"name": "0x10k Club",
 			"slug": "0x10k-club",
@@ -45,37 +45,37 @@
 			"csv": ["0xemojis.csv"]
 		},
 		{
-			"name": "1Hex Club",
-			"slug": "1hex-club",
+			"name": "1 Hex Club",
+			"slug": "1-hex-club",
 			"description": "0x1Hex Names.",
 			"abbreviation": "1HXC",
 			"twitter": "HexClubXYZ",
 			"chat": "https://discord.gg/3y8xUv3bPB",
 			"website": "https://hexclub.xyz/",
 			"logo": "1HXC.png",
-			"csv": ["1-hex.csv"]
+			"csv": ["1-hex-club.csv"]
 		},
 		{
-			"name": "2Hex Club",
-			"slug": "2hex-club",
+			"name": "2 Hex Club",
+			"slug": "2-hex-club",
 			"description": "0x2Hex Names.",
 			"abbreviation": "2HXC",
 			"twitter": "HexClubXYZ",
 			"chat": "https://discord.gg/3y8xUv3bPB",
 			"website": "https://hexclub.xyz/",
 			"logo": "2HXC.png",
-			"csv": ["2-hex.csv"]
+			"csv": ["2-hex-club.csv"]
 		},
 		{
-			"name": "3Hex Club",
-			"slug": "3hex-club",
+			"name": "3 Hex Club",
+			"slug": "3-hex-club",
 			"description": "0x3Hex Names.",
 			"abbreviation": "3HXC",
 			"twitter": "HexClubXYZ",
 			"chat": "https://discord.gg/3y8xUv3bPB",
 			"website": "https://hexclub.xyz/",
 			"logo": "3HXC.png",
-			"csv": ["3-hex.csv"]
+			"csv": ["3-hex-club.csv"]
 		},
 		{
 			"name": "3 Letters",
@@ -86,7 +86,7 @@
 			"chat": "https://discord.gg/9maV66mE2e",
 			"website": "",
 			"logo": "TLC.png",
-			"csv": ["3-letter-club.csv"]
+			"csv": ["3-letters.csv"]
 		},
 		{
 			"name": "3 Letter Dictionary",
@@ -130,7 +130,7 @@
 			"chat": "",
 			"website": "",
 			"logo": "3AV.png",
-			"csv": ["3-all-vowel.csv"]
+			"csv": ["3-letter-all-vowels.csv"]
 		},
 		{
 			"name": "4 Digit Palindromes",
@@ -152,7 +152,7 @@
 			"chat": "",
 			"website": "",
 			"logo": "4LD.png",
-			"csv": [""]
+			"csv": ["4-letter-dictionary.csv"]
 		},
 		{
 			"name": "5 Digit Palindromes",
@@ -218,7 +218,7 @@
 			"chat": "https://discord.gg/QNEmFx6DzW",
 			"website": "",
 			"logo": "A3D.png",
-			"csv": ["٩٩٩-club.csv"]
+			"csv": ["arabic-999-club.csv"]
 		},
 		{
 			"name": "Binary Club",
@@ -284,7 +284,7 @@
 			"chat": "https://discord.gg/vv6H4Rjuzm",
 			"website": "",
 			"logo": "2ED.png",
-			"csv": ["emoji-99-club.csv"]
+			"csv": ["ethmoji-99-club.csv"]
 		},
 		{
 			"name": "Ethmoji 999 Club",
@@ -295,7 +295,7 @@
 			"chat": "https://discord.gg/vv6H4Rjuzm",
 			"website": "",
 			"logo": "3ED.png",
-			"csv": ["emoji-999-club.csv"]
+			"csv": ["ethmoji-999-club.csv"]
 		},
 		{
 			"name": "ENS Date Club",
@@ -372,7 +372,7 @@
 			"chat": "",
 			"website": "",
 			"logo": "PP.png",
-			"csv": ["pre-punks-club.csv"]
+			"csv": ["pre-punk-club.csv"]
 		},
 		{
 			"name": "Single Ethmoji",
@@ -419,7 +419,7 @@
 			"csv": ["english-adjectives.csv"]
 		},
 		{
-			"name": "4Letter Dictionary",
+			"name": "4 Letter Dictionary",
 			"slug": "4-letter-dictionary",
 			"description": "English 4 Letter Dictionary Words.",
 			"abbreviation": "4LD",

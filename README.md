@@ -84,11 +84,6 @@ To modify an existing collection, please create an issue or pull request and pro
 - Name of the item
 - (Optional) Token ID of the item
 
- 
- 
-### Additional Information
-
-- How to convert a name into a token ID: https://docs.ens.domains/dapp-developer-guide/ens-as-nft
 
 ## Generate Token IDs from Names
 
@@ -98,7 +93,10 @@ To modify an existing collection, please create an issue or pull request and pro
 
 **Get Tokens from List of Names**
 
-This takes any CSV file with one or two columns where the first column is the ENS name. The name will be normalized and the token ID will be added to second column in outfile.
+This takes any CSV file where the first column is the ENS name. The name will be normalized (.eth removed) and the token ID will be added as the second column in outfile.csv. Use this outfile for the collection CSV.
 
 `npm run get-tokens src/example.csv outfile.csv`
 
+**Additional Information**
+
+- How to convert a name into a token ID: https://docs.ens.domains/dapp-developer-guide/ens-as-nft

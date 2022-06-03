@@ -19,6 +19,8 @@ function getTokenId(name) {
 const json = JSON.parse(fs.readFileSync('ens-collections.json'));
 const csv_file_errors = [];
 const logo_file_errors = [];
+const csvs_path = './csvs/';
+const logos_path = './logos/';
 for (const collection of json.collections) {
     let slug = collection.slug,
         abbrev = collection.abbreviation,
@@ -30,12 +32,21 @@ for (const collection of json.collections) {
 
     // check csv file name
     if (csv_file !== intended_csv_file) {
-        csv_file_errors.push([slug, intended_csv_file, csv_file]);
+        csv_file_errors.push([intended_csv_file, csv_file]);
+    } else if (!fs.existsSync(csvs_path + csv_file)) {
+        csv_file_errors.push([intended_csv_file, csv_file, "CSV FILE DOES NOT EXIST: " + csvs_path + csv_file]);
     }
 
     // check logo file name
     if (logo_file !== intended_logo_file) {
-        logo_file_errors.push([slug, intended_logo_file, logo_file]);
+        // rename old logo to intended file name
+        logo_file_errors.push([intended_logo_file, logo_file]);
+        // if (fs.existsSync(logos_path + logo_file)) {
+        //     console.log("was gonna rename:", logo_file, intended_logo_file);
+            // fs.renameSync(logos_path + logo_file, logos_path + intended_logo_file);
+        // }
+    } else if (!fs.existsSync(logos_path + logo_file)) {
+        logo_file_errors.push([intended_logo_file, logo_file, "LOGO FILE DOES NOT EXIST: " + logos_path + logo_file]);
     }
 }
 

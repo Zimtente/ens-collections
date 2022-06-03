@@ -8,7 +8,7 @@
 			"twitter": "0x10kClub",
 			"chat": "https://discord.gg/RrfsuKr2dE",
 			"website": "",
-			"logo": "H4D.png",
+			"logo": "0x10k-club.png",
 			"csv": ["0x10k-club.csv"]
 		},
 		{
@@ -19,7 +19,7 @@
 			"twitter": "0x10kClub",
 			"chat": "https://discord.gg/RrfsuKr2dE",
 			"website": "",
-			"logo": "H2D.png",
+			"logo": "0x99-club.png",
 			"csv": ["0x99-club.csv"]
 		},
 		{
@@ -30,7 +30,7 @@
 			"twitter": "0x10kClub",
 			"chat": "https://discord.gg/RrfsuKr2dE",
 			"website": "",
-			"logo": "H3D.png",
+			"logo": "0x999-club.png",
 			"csv": ["0x999-club.csv"]
 		},
 		{
@@ -41,7 +41,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "0xEMJ.png",
+			"logo": "0xemojis.png",
 			"csv": ["0xemojis.csv"]
 		},
 		{
@@ -52,7 +52,7 @@
 			"twitter": "HexClubXYZ",
 			"chat": "https://discord.gg/3y8xUv3bPB",
 			"website": "https://hexclub.xyz/",
-			"logo": "1HXC.png",
+			"logo": "1-hex-club.png",
 			"csv": ["1-hex-club.csv"]
 		},
 		{
@@ -63,7 +63,7 @@
 			"twitter": "HexClubXYZ",
 			"chat": "https://discord.gg/3y8xUv3bPB",
 			"website": "https://hexclub.xyz/",
-			"logo": "2HXC.png",
+			"logo": "2-hex-club.png",
 			"csv": ["2-hex-club.csv"]
 		},
 		{
@@ -74,7 +74,7 @@
 			"twitter": "HexClubXYZ",
 			"chat": "https://discord.gg/3y8xUv3bPB",
 			"website": "https://hexclub.xyz/",
-			"logo": "3HXC.png",
+			"logo": "3-hex-club.png",
 			"csv": ["3-hex-club.csv"]
 		},
 		{
@@ -85,7 +85,7 @@
 			"twitter": "ENSletters",
 			"chat": "https://discord.gg/9maV66mE2e",
 			"website": "",
-			"logo": "TLC.png",
+			"logo": "3-letters.png",
 			"csv": ["3-letters.csv"]
 		},
 		{
@@ -96,7 +96,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "3LW.png",
+			"logo": "3-letter-dictionary.png",
 			"csv": ["3-letter-dictionary.csv"]
 		},
 		{
@@ -107,7 +107,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "3LFN.png",
+			"logo": "3-letter-first-names.png",
 			"csv": ["3-letter-first-names.csv"]
 		},
 		{
@@ -118,7 +118,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "3LP.png",
+			"logo": "3-letter-palindromes.png",
 			"csv": ["3-letter-palindromes.csv"]
 		},
 		{
@@ -129,8 +129,19 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "3AV.png",
+			"logo": "3-letter-all-vowels.png",
 			"csv": ["3-letter-all-vowels.csv"]
+		},
+		{
+			"name": "3 Digit Palindromes",
+			"slug": "3-digit-palindromes",
+			"description": "Palindromes with 3 digits",
+			"abbreviation": "3DP",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "3-digit-palindromes.png",
+			"csv": ["3-digit-palindromes.csv"]
 		},
 		{
 			"name": "4 Digit Palindromes",
@@ -140,7 +151,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "4DP.png",
+			"logo": "4-digit-palindromes.png",
 			"csv": ["4-digit-palindromes.csv"]
 		},
 		{
@@ -151,7 +162,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "4LD.png",
+			"logo": "4-letter-dictionary.png",
 			"csv": ["4-letter-dictionary.csv"]
 		},
 		{
@@ -162,7 +173,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "5DP.png",
+			"logo": "5-digit-palindromes.png",
 			"csv": ["5-digit-palindromes.csv"]
 		},
 		{
@@ -173,7 +184,7 @@
 			"twitter": "10kClubOfficial",
 			"chat": "https://discord.gg/aUemBKUuZ5",
 			"website": "https://10kClub.com",
-			"logo": "4D.png",
+			"logo": "10k-club.png",
 			"csv": ["10k-club.csv"]
 		},
 		{
@@ -184,7 +195,7 @@
 			"twitter": "24hClubOfficial",
 			"chat": "https://discord.gg/fQazeMMkXC",
 			"website": "https://www.ensclock.com",
-			"logo": "24H.png",
+			"logo": "24h-club.png",
 			"csv": ["24h-club.csv"]
 		},
 		{
@@ -195,7 +206,7 @@
 			"twitter": "100kClubENS",
 			"chat": "https://discord.gg/EmcSN6EJpY",
 			"website": "",
-			"logo": "5D.png",
+			"logo": "100k-club.png",
 			"csv": ["100k-club.csv"]
 		},
 		{
@@ -206,7 +217,7 @@
 			"twitter": "10kClubOfficial",
 			"chat": "https://discord.gg/aUemBKUuZ5",
 			"website": "",
-			"logo": "3D.png",
+			"logo": "999-club.png",
 			"csv": ["999-club.csv"]
 		},
 		{
@@ -217,7 +228,7 @@
 			"twitter": "999ENSArabic",
 			"chat": "https://discord.gg/QNEmFx6DzW",
 			"website": "",
-			"logo": "A3D.png",
+			"logo": "arabic-999-club.png",
 			"csv": ["arabic-999-club.csv"]
 		},
 		{
@@ -228,7 +239,7 @@
 			"twitter": "BinaryClubENS",
 			"chat": "",
 			"website": "",
-			"logo": "BC.png",
+			"logo": "binary-club.png",
 			"csv": ["binary-club.csv"]
 		},
 		{
@@ -239,7 +250,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "CAPITAL.png",
+			"logo": "capital-cities.png",
 			"csv": ["capital-cities.csv"]
 		},
 		{
@@ -250,7 +261,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "CN.png",
+			"logo": "countries.png",
 			"csv": ["countries.csv"]
 		},
 		{
@@ -261,7 +272,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3",
-			"logo": "CC.png",
+			"logo": "country-codes.png",
 			"csv": ["country-codes.csv"]
 		},
 		{
@@ -272,7 +283,7 @@
 			"twitter": "EthmojiClub",
 			"chat": "https://discord.gg/vv6H4Rjuzm",
 			"website": "",
-			"logo": "ETHMD.png",
+			"logo": "double-ethmoji.png",
 			"csv": ["double-ethmoji.csv"]
 		},
 		{
@@ -283,7 +294,7 @@
 			"twitter": "Ethmoji99",
 			"chat": "https://discord.gg/vv6H4Rjuzm",
 			"website": "",
-			"logo": "2ED.png",
+			"logo": "ethmoji-99-club.png",
 			"csv": ["ethmoji-99-club.csv"]
 		},
 		{
@@ -294,7 +305,7 @@
 			"twitter": "999OfficialClub",
 			"chat": "https://discord.gg/vv6H4Rjuzm",
 			"website": "",
-			"logo": "3ED.png",
+			"logo": "ethmoji-999-club.png",
 			"csv": ["ethmoji-999-club.csv"]
 		},
 		{
@@ -305,7 +316,7 @@
 			"twitter": "EnsDateClub",
 			"chat": "https://discord.gg/gqAxF7uqUq",
 			"website": "",
-			"logo": "365.png",
+			"logo": "ens-date-club.png",
 			"csv": ["ens-date-club.csv"]
 		},
 		{
@@ -316,7 +327,7 @@
 			"twitter": "hyphENSclub",
 			"chat": "https://discord.gg/X2bKAUdb6k",
 			"website": "",
-			"logo": "HYPHLL.png",
+			"logo": "hyphens-ll.png",
 			"csv": ["hyphens-ll.csv"]
 		},
 		{
@@ -327,7 +338,7 @@
 			"twitter": "hyphENSclub",
 			"chat": "https://discord.gg/X2bKAUdb6k",
 			"website": "",
-			"logo": "HYPHLNNL.png",
+			"logo": "hyphens-ln-nl.png",
 			"csv": ["hyphens-ln-nl.csv"]
 		},
 		{
@@ -338,7 +349,7 @@
 			"twitter": "hyphENSclub",
 			"chat": "https://discord.gg/X2bKAUdb6k",
 			"website": "",
-			"logo": "HYPHNN.png",
+			"logo": "hyphens-nn.png",
 			"csv": ["hyphens-nn.csv"]
 		},
 		{
@@ -349,7 +360,7 @@
 			"twitter": "TrainerDAO",
 			"chat": "https://discord.gg/nfWYw9mctW",
 			"website": "",
-			"logo": "JPKD.png",
+			"logo": "japanese-pokemon-trainer-dao.png",
 			"csv": ["japanese-pokemon-trainer-dao.csv"]
 		},
 		{
@@ -360,7 +371,7 @@
 			"twitter": "TrainerDAO",
 			"chat": "https://discord.gg/nfWYw9mctW",
 			"website": "",
-			"logo": "PKD.png",
+			"logo": "pokemon-trainer-dao.png",
 			"csv": ["pokemon-trainer-dao.csv"]
 		},
 		{
@@ -371,7 +382,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "PP.png",
+			"logo": "pre-punk-club.png",
 			"csv": ["pre-punk-club.csv"]
 		},
 		{
@@ -382,7 +393,7 @@
 			"twitter": "EthmojiClub",
 			"chat": "https://discord.gg/vv6H4Rjuzm",
 			"website": "",
-			"logo": "ethms.png",
+			"logo": "single-ethmoji.png",
 			"csv": ["single-ethmoji.csv"]
 		},
 		{
@@ -393,7 +404,7 @@
 			"twitter": "EthmojiClub",
 			"chat": "https://discord.gg/vv6H4Rjuzm",
 			"website": "",
-			"logo": "ETHMT.png",
+			"logo": "triple-ethmoji.png",
 			"csv": ["triple-ethmoji.csv"]
 		},
 		{
@@ -404,8 +415,19 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "NOUNS.png",
+			"logo": "english-nouns.png",
 			"csv": ["english-nouns.csv"]
+		},
+		{
+			"name": "English Verbs",
+			"slug": "english-verbs",
+			"description": "English verbs.",
+			"abbreviation": "EVERBS",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "english-verbs.png",
+			"csv": ["english-verbs.csv"]
 		},
 		{
 			"name": "English Adjectives",
@@ -415,7 +437,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "EADJ.png",
+			"logo": "english-adjectives.png",
 			"csv": ["english-adjectives.csv"]
 		},
 		{
@@ -426,7 +448,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "4LD.png",
+			"logo": "4-letter-dictionary.png",
 			"csv": ["4-letter-dictionary.csv"]
 		}
 	]

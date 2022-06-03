@@ -166,6 +166,17 @@
 			"csv": ["4-letter-dictionary.csv"]
 		},
 		{
+			"name": "5 Letter Dictionary",
+			"slug": "5-letter-dictionary",
+			"description": "English 5 Letter Dictionary Words.",
+			"abbreviation": "5LD",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "",
+			"csv": ["5-letter-dictionary.csv"]
+		},
+		{
 			"name": "5 Digit Palindromes",
 			"slug": "5-digit-palindromes",
 			"description": "Palindromes with 5 digits.",

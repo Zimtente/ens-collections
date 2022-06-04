@@ -419,6 +419,16 @@
 			"website": "",
 			"logo": "4-letter-dictionary.png",
 			"csv": ["4-letter-dictionary.csv"]
+		},
+		{
+			"name": "MMDD Club",
+			"slug": "mmdd-club",
+			"description": "MMDD 4-digit ENS",
+			"twitter": "mmddclub",
+			"chat": "",
+			"website": "",
+			"logo": "mmdd-club.png",
+			"csv": ["mmdd-club.csv"]
 		}
 	]
 }

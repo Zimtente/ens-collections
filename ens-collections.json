@@ -419,6 +419,16 @@
 			"website": "",
 			"logo": "4-letter-dictionary.png",
 			"csv": ["4-letter-dictionary.csv"]
+		},
+                {
+			"name": "Gamblers Club",
+			"slug": "gamblers-club",
+			"description": "Playing card pure sequences arranged in ascending or descending order.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "gamblers-club.png",
+			"csv": ["gamblers-club.csv"]
 		}
 	]
 }

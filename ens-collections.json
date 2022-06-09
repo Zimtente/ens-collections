@@ -419,6 +419,16 @@
 			"website": "",
 			"logo": "4-letter-dictionary.png",
 			"csv": ["4-letter-dictionary.csv"]
+		},
+		{
+  			"name": "Harry Potter",
+  			"slug": "harry-potter",
+  			"description": "Harry Potter characters",
+  			"twitter": "HarryPotterENS",
+  			"website": "",
+  			"chat": "",
+  			"logo": "harry-potter.png",
+  			"csv": ["harry-potter.csv"]
 		}
 	]
 }

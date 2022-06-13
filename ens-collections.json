@@ -419,6 +419,16 @@
 			"website": "",
 			"logo": "4-letter-dictionary.png",
 			"csv": ["4-letter-dictionary.csv"]
+		},
+		{
+			"name": "999 CN Club",
+			"slug": "999-cn-club",
+			"description": "Names with 3 Chinese Digits: 零零零-九九九.",
+			"twitter": "999CNClub",
+			"chat": "",
+			"website": "",
+			"logo": "999-cn-club.png",
+			"csv": ["999-cn-club.csv"]
 		}
 	]
 }

@@ -429,6 +429,16 @@
   			"chat": "",
   			"logo": "harry-potter.png",
   			"csv": ["harry-potter.csv"]
+		},
+		{
+  			"name": "Tolkien",
+  			"slug": "tolkien",
+  			"description": "Characters from the Tolkien Legendarium",
+  			"twitter": "TolkienENS",
+  			"website": "",
+  			"chat": "",
+  			"logo": "tolkien.png",
+  			"csv": ["tolkien.csv"]
 		}
 	]
 }

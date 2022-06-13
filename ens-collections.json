@@ -419,6 +419,16 @@
 			"website": "",
 			"logo": "4-letter-dictionary.png",
 			"csv": ["4-letter-dictionary.csv"]
+		},
+		{
+			"name": "Arabic 10k Club",
+			"slug": "arabic-10k-club",
+			"description": "Arabic numerals 0000-9999.",
+			"twitter": "999ENSArabic",
+			"chat": "https://discord.gg/QNEmFx6DzW",
+			"website": "",
+			"logo": "arabic-10k-club.png",
+			"csv": ["arabic-10k-club.csv"]
 		}
 	]
 }

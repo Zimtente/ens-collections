@@ -419,6 +419,16 @@
 			"website": "",
 			"logo": "4-letter-dictionary.png",
 			"csv": ["4-letter-dictionary.csv"]
-		}
+		},
+		{
+			"name": "The Cents Club",
+			"slug": "the-cents-club",
+			"description": "Ens domains for 1cent to 100cents",
+			"twitter": "TheCentsClub",
+			"chat": "https://discord.gg/YbNGdmCNwT",
+			"website": "",
+			"logo": "the-cents-club.png",
+			"csv": ["the-cents-club.csv"]
+		}	
 	]
 }

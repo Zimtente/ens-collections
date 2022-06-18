@@ -420,5 +420,15 @@
 			"logo": "4-letter-dictionary.png",
 			"csv": ["4-letter-dictionary.csv"]
 		}
+		{
+			"name": "Naruto Names",
+			"slug": "naruto-names",
+			"description": "Names of all characters from Naruto!",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "naruto_logo.png",
+			"csv": ["naruto-names.csv"]
+		}
 	]
 }

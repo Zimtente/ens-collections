@@ -419,6 +419,16 @@
 			"website": "",
 			"logo": "4-letter-dictionary.png",
 			"csv": ["4-letter-dictionary.csv"]
+		},
+		{
+			"name": "Substances Club",
+			"slug": "substances-club",
+			"description": "Medicines, recreational drugs, pill imprints, and more.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "",
+			"csv": ["substances-club.csv"]
 		}
 	]
 }

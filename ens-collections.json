@@ -419,6 +419,16 @@
 			"website": "",
 			"logo": "4-letter-dictionary.png",
 			"csv": ["4-letter-dictionary.csv"]
+		},
+		{
+			"name": "Official Playstation Console Series",
+			"slug": "playstation-console-series",
+			"description": "The Official Playstation Console Releases.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "playstation-console-series.png",
+			"csv": ["playstation-console-series.csv"]
 		}
 	]
 }

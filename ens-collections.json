@@ -1,434 +1,556 @@
 {
-	"collections": [
-		{
-			"name": "0x10k Club",
-			"slug": "0x10k-club",
-			"description": "Names with 0x4Digits.",
-			"twitter": "0x10kClub",
-			"chat": "https://discord.gg/RrfsuKr2dE",
-			"website": "",
-			"logo": "0x10k-club.png",
-			"csv": ["0x10k-club.csv"]
-		},
-		{
-			"name": "0x99 Club",
-			"slug": "0x99-club",
-			"description": "Names with 0x2Digits.",
-			"twitter": "0x10kClub",
-			"chat": "https://discord.gg/RrfsuKr2dE",
-			"website": "",
-			"logo": "0x99-club.png",
-			"csv": ["0x99-club.csv"]
-		},
-		{
-			"name": "0x999 Club",
-			"slug": "0x999-club",
-			"description": "Names with 0x3Digits.",
-			"twitter": "0x10kClub",
-			"chat": "https://discord.gg/RrfsuKr2dE",
-			"website": "",
-			"logo": "0x999-club.png",
-			"csv": ["0x999-club.csv"]
-		},
-		{
-			"name": "0xEmojis",
-			"slug": "0xemojis",
-			"description": "0x Emojis Names",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "0xemojis.png",
-			"csv": ["0xemojis.csv"]
-		},
-		{
-			"name": "1 Hex Club",
-			"slug": "1-hex-club",
-			"description": "0x1Hex Names.",
-			"twitter": "HexClubXYZ",
-			"chat": "https://discord.gg/3y8xUv3bPB",
-			"website": "https://hexclub.xyz/",
-			"logo": "1-hex-club.png",
-			"csv": ["1-hex-club.csv"]
-		},
-		{
-			"name": "2 Hex Club",
-			"slug": "2-hex-club",
-			"description": "0x2Hex Names.",
-			"twitter": "HexClubXYZ",
-			"chat": "https://discord.gg/3y8xUv3bPB",
-			"website": "https://hexclub.xyz/",
-			"logo": "2-hex-club.png",
-			"csv": ["2-hex-club.csv"]
-		},
-		{
-			"name": "3 Hex Club",
-			"slug": "3-hex-club",
-			"description": "0x3Hex Names.",
-			"twitter": "HexClubXYZ",
-			"chat": "https://discord.gg/3y8xUv3bPB",
-			"website": "https://hexclub.xyz/",
-			"logo": "3-hex-club.png",
-			"csv": ["3-hex-club.csv"]
-		},
-		{
-			"name": "3 Letters",
-			"slug": "3-letters",
-			"description": "Names with 3 Letters.",
-			"twitter": "ENSletters",
-			"chat": "https://discord.gg/9maV66mE2e",
-			"website": "",
-			"logo": "3-letters.png",
-			"csv": ["3-letters.csv"]
-		},
-		{
-			"name": "3 Letter Dictionary",
-			"slug": "3-letter-dictionary",
-			"description": "English 3 letter dictionary words.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "3-letter-dictionary.png",
-			"csv": ["3-letter-dictionary.csv"]
-		},
-		{
-			"name": "3 Letter First Names",
-			"slug": "3-letter-first-names",
-			"description": "3 Letter first Names.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "3-letter-first-names.png",
-			"csv": ["3-letter-first-names.csv"]
-		},
-		{
-			"name": "3 Letter Palindromes",
-			"slug": "3-letter-palindromes",
-			"description": "Palindromes with 3 letters.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "3-letter-palindromes.png",
-			"csv": ["3-letter-palindromes.csv"]
-		},
-		{
-			"name": "3 Letter All Vowels",
-			"slug": "3-letter-all-vowels",
-			"description": "Names with only 3 vowels.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "3-letter-all-vowels.png",
-			"csv": ["3-letter-all-vowels.csv"]
-		},
-		{
-			"name": "3 Digit Palindromes",
-			"slug": "3-digit-palindromes",
-			"description": "Palindromes with 3 digits",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "3-digit-palindromes.png",
-			"csv": ["3-digit-palindromes.csv"]
-		},
-		{
-			"name": "4 Digit Palindromes",
-			"slug": "4-digit-palindromes",
-			"description": "Palindromes with 4 digits",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "4-digit-palindromes.png",
-			"csv": ["4-digit-palindromes.csv"]
-		},
-		{
-			"name": "4 Letter Dictionary",
-			"slug": "4-letter-dictionary",
-			"description": "English 4 Letter Dictionary Words.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "4-letter-dictionary.png",
-			"csv": ["4-letter-dictionary.csv"]
-		},
-		{
-			"name": "5 Letter Dictionary",
-			"slug": "5-letter-dictionary",
-			"description": "English 5 Letter Dictionary Words.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "5-letter-dictionary.png",
-			"csv": ["5-letter-dictionary.csv"]
-		},
-		{
-			"name": "5 Digit Palindromes",
-			"slug": "5-digit-palindromes",
-			"description": "Palindromes with 5 digits.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "5-digit-palindromes.png",
-			"csv": ["5-digit-palindromes.csv"]
-		},
-		{
-			"name": "10k Club",
-			"slug": "10k-club",
-			"description": "Names with 4 Digits: 0000-9999",
-			"twitter": "10kClubOfficial",
-			"chat": "https://discord.gg/aUemBKUuZ5",
-			"website": "https://10kClub.com",
-			"logo": "10k-club.png",
-			"csv": ["10k-club.csv"]
-		},
-		{
-			"name": "24h Club: Timekeepers",
-			"slug": "24h-club",
-			"description": "The eternal #TimeKeepers.",
-			"twitter": "24hClubOfficial",
-			"chat": "https://discord.gg/fQazeMMkXC",
-			"website": "https://www.ensclock.com",
-			"logo": "24h-club.png",
-			"csv": ["24h-club.csv"]
-		},
-		{
-			"name": "100k Club",
-			"slug": "100k-club",
-			"description": "Names with 5 Digits: 00000-99999.",
-			"twitter": "100kClubENS",
-			"chat": "https://discord.gg/EmcSN6EJpY",
-			"website": "",
-			"logo": "100k-club.png",
-			"csv": ["100k-club.csv"]
-		},
-		{
-			"name": "999 Club",
-			"slug": "999-club",
-			"description": "Name with 3 digits: 000-999.",
-			"twitter": "10kClubOfficial",
-			"chat": "https://discord.gg/aUemBKUuZ5",
-			"website": "",
-			"logo": "999-club.png",
-			"csv": ["999-club.csv"]
-		},
-		{
-			"name": "Arabic 999 Club",
-			"slug": "arabic-999-club",
-			"description": "Arabic numerals 000-999.",
-			"twitter": "999ENSArabic",
-			"chat": "https://discord.gg/QNEmFx6DzW",
-			"website": "",
-			"logo": "arabic-999-club.png",
-			"csv": ["arabic-999-club.csv"]
-		},
-		{
-			"name": "Binary Club",
-			"slug": "binary-club",
-			"description": "Names in 8-bit Binary.",
-			"twitter": "BinaryClubENS",
-			"chat": "",
-			"website": "",
-			"logo": "binary-club.png",
-			"csv": ["binary-club.csv"]
-		},
-		{
-			"name": "Capital Cities",
-			"slug": "capital-cities",
-			"description": "Country Capital City Names.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "capital-cities.png",
-			"csv": ["capital-cities.csv"]
-		},
-		{
-			"name": "Countries",
-			"slug": "countries",
-			"description": "Country names.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "countries.png",
-			"csv": ["countries.csv"]
-		},
-		{
-			"name": "Country Codes",
-			"slug": "country-codes",
-			"description": "3 Letter Country Codes.",
-			"twitter": "",
-			"chat": "",
-			"website": "https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3",
-			"logo": "country-codes.png",
-			"csv": ["country-codes.csv"]
-		},
-		{
-			"name": "Double Ethmoji",
-			"slug": "double-ethmoji",
-			"description": "Names with True Double Emojis.",
-			"twitter": "EthmojiClub",
-			"chat": "https://discord.gg/vv6H4Rjuzm",
-			"website": "",
-			"logo": "double-ethmoji.png",
-			"csv": ["double-ethmoji.csv"]
-		},
-		{
-			"name": "Ethmoji 99 Club",
-			"slug": "ethmoji-99-club",
-			"description": "Names with 2 Emoji Digits.",
-			"twitter": "Ethmoji99",
-			"chat": "https://discord.gg/vv6H4Rjuzm",
-			"website": "",
-			"logo": "ethmoji-99-club.png",
-			"csv": ["ethmoji-99-club.csv"]
-		},
-		{
-			"name": "Ethmoji 999 Club",
-			"slug": "ethmoji-999-club",
-			"description": "Names with 3 Emoji Digits.",
-			"twitter": "999OfficialClub",
-			"chat": "https://discord.gg/vv6H4Rjuzm",
-			"website": "",
-			"logo": "ethmoji-999-club.png",
-			"csv": ["ethmoji-999-club.csv"]
-		},
-		{
-			"name": "ENS Date Club",
-			"slug": "ens-date-club",
-			"description": "1Jan.eth - 31dec.eth",
-			"twitter": "EnsDateClub",
-			"chat": "https://discord.gg/gqAxF7uqUq",
-			"website": "",
-			"logo": "ens-date-club.png",
-			"csv": ["ens-date-club.csv"]
-		},
-		{
-			"name": "Hyphens-LL",
-			"slug": "hyphens-ll",
-			"description": "Hyphenated ENS domains.",
-			"twitter": "hyphENSclub",
-			"chat": "https://discord.gg/X2bKAUdb6k",
-			"website": "",
-			"logo": "hyphens-ll.png",
-			"csv": ["hyphens-ll.csv"]
-		},
-		{
-			"name": "Hyphens-LN-NL",
-			"slug": "hyphens-ln-nl",
-			"description": "Hyphenated ENS domains.",
-			"twitter": "hyphENSclub",
-			"chat": "https://discord.gg/X2bKAUdb6k",
-			"website": "",
-			"logo": "hyphens-ln-nl.png",
-			"csv": ["hyphens-ln-nl.csv"]
-		},
-		{
-			"name": "Hyphens-NN",
-			"slug": "hyphens-nn",
-			"description": "Hyphenated ENS domains.",
-			"twitter": "hyphENSclub",
-			"chat": "https://discord.gg/X2bKAUdb6k",
-			"website": "",
-			"logo": "hyphens-nn.png",
-			"csv": ["hyphens-nn.csv"]
-		},
-		{
-			"name": "Japanese Pokemon Trainer DAO",
-			"slug": "japanese-pokemon-trainer-dao",
-			"description": "Japanese Pokemon ENS.",
-			"twitter": "TrainerDAO",
-			"chat": "https://discord.gg/nfWYw9mctW",
-			"website": "",
-			"logo": "japanese-pokemon-trainer-dao.png",
-			"csv": ["japanese-pokemon-trainer-dao.csv"]
-		},
-		{
-			"name": "Pokemon Trainer DAO",
-			"slug": "pokemon-trainer-dao",
-			"description": "Pokemon ENS.",
-			"twitter": "TrainerDAO",
-			"chat": "https://discord.gg/nfWYw9mctW",
-			"website": "",
-			"logo": "pokemon-trainer-dao.png",
-			"csv": ["pokemon-trainer-dao.csv"]
-		},
-		{
-			"name": "Pre-Punk Club",
-			"slug": "pre-punk-club",
-			"description": "Names minted before Crypto Punks.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "pre-punk-club.png",
-			"csv": ["pre-punk-club.csv"]
-		},
-		{
-			"name": "Single Ethmoji",
-			"slug": "single-ethmoji",
-			"description": "Names with True Single Emojis",
-			"twitter": "EthmojiClub",
-			"chat": "https://discord.gg/vv6H4Rjuzm",
-			"website": "",
-			"logo": "single-ethmoji.png",
-			"csv": ["single-ethmoji.csv"]
-		},
-		{
-			"name": "Triple Ethmoji",
-			"slug": "triple-ethmoji",
-			"description": "Names with True Triple Emojis",
-			"twitter": "EthmojiClub",
-			"chat": "https://discord.gg/vv6H4Rjuzm",
-			"website": "",
-			"logo": "triple-ethmoji.png",
-			"csv": ["triple-ethmoji.csv"]
-		},
-		{
-			"name": "English Nouns",
-			"slug": "english-nouns",
-			"description": "English nouns.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "english-nouns.png",
-			"csv": ["english-nouns.csv"]
-		},
-		{
-			"name": "English Verbs",
-			"slug": "english-verbs",
-			"description": "English verbs.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "english-verbs.png",
-			"csv": ["english-verbs.csv"]
-		},
-		{
-			"name": "English Adjectives",
-			"slug": "english-adjectives",
-			"description": "English adjectives.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "english-adjectives.png",
-			"csv": ["english-adjectives.csv"]
-		},
-		{
-			"name": "4 Letter Dictionary",
-			"slug": "4-letter-dictionary",
-			"description": "English 4 Letter Dictionary Words.",
-			"twitter": "",
-			"chat": "",
-			"website": "",
-			"logo": "4-letter-dictionary.png",
-			"csv": ["4-letter-dictionary.csv"]
-		},
-		{
-			"name": "999 CN Club",
-			"slug": "999-cn-club",
-			"description": "Names with 3 Chinese Digits: 零零零-九九九.",
-			"twitter": "999CNClub",
-			"chat": "",
-			"website": "",
-			"logo": "999-cn-club.png",
-			"csv": ["999-cn-club.csv"]
-		}
-	]
+  "collections": [
+    {
+      "name": "0x10k Club",
+      "slug": "0x10k-club",
+      "description": "Names with 0x4Digits.",
+      "twitter": "0x10kClub",
+      "chat": "https://discord.gg/RrfsuKr2dE",
+      "website": "",
+      "logo": "0x10k-club.png",
+      "csv": [
+        "0x10k-club.csv"
+      ]
+    },
+    {
+      "name": "0x99 Club",
+      "slug": "0x99-club",
+      "description": "Names with 0x2Digits.",
+      "twitter": "0x10kClub",
+      "chat": "https://discord.gg/RrfsuKr2dE",
+      "website": "",
+      "logo": "0x99-club.png",
+      "csv": [
+        "0x99-club.csv"
+      ]
+    },
+    {
+      "name": "0x999 Club",
+      "slug": "0x999-club",
+      "description": "Names with 0x3Digits.",
+      "twitter": "0x10kClub",
+      "chat": "https://discord.gg/RrfsuKr2dE",
+      "website": "",
+      "logo": "0x999-club.png",
+      "csv": [
+        "0x999-club.csv"
+      ]
+    },
+    {
+      "name": "0xEmojis",
+      "slug": "0xemojis",
+      "description": "0x Emojis Names",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "0xemojis.png",
+      "csv": [
+        "0xemojis.csv"
+      ]
+    },
+    {
+      "name": "1 Hex Club",
+      "slug": "1-hex-club",
+      "description": "0x1Hex Names.",
+      "twitter": "HexClubXYZ",
+      "chat": "https://discord.gg/3y8xUv3bPB",
+      "website": "https://hexclub.xyz/",
+      "logo": "1-hex-club.png",
+      "csv": [
+        "1-hex-club.csv"
+      ]
+    },
+    {
+      "name": "2 Hex Club",
+      "slug": "2-hex-club",
+      "description": "0x2Hex Names.",
+      "twitter": "HexClubXYZ",
+      "chat": "https://discord.gg/3y8xUv3bPB",
+      "website": "https://hexclub.xyz/",
+      "logo": "2-hex-club.png",
+      "csv": [
+        "2-hex-club.csv"
+      ]
+    },
+    {
+      "name": "3 Hex Club",
+      "slug": "3-hex-club",
+      "description": "0x3Hex Names.",
+      "twitter": "HexClubXYZ",
+      "chat": "https://discord.gg/3y8xUv3bPB",
+      "website": "https://hexclub.xyz/",
+      "logo": "3-hex-club.png",
+      "csv": [
+        "3-hex-club.csv"
+      ]
+    },
+    {
+      "name": "3 Letters",
+      "slug": "3-letters",
+      "description": "Names with 3 Letters.",
+      "twitter": "ENSletters",
+      "chat": "https://discord.gg/9maV66mE2e",
+      "website": "",
+      "logo": "3-letters.png",
+      "csv": [
+        "3-letters.csv"
+      ]
+    },
+    {
+      "name": "3 Letter Dictionary",
+      "slug": "3-letter-dictionary",
+      "description": "English 3 letter dictionary words.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "3-letter-dictionary.png",
+      "csv": [
+        "3-letter-dictionary.csv"
+      ]
+    },
+    {
+      "name": "3 Letter First Names",
+      "slug": "3-letter-first-names",
+      "description": "3 Letter first Names.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "3-letter-first-names.png",
+      "csv": [
+        "3-letter-first-names.csv"
+      ]
+    },
+    {
+      "name": "3 Letter Palindromes",
+      "slug": "3-letter-palindromes",
+      "description": "Palindromes with 3 letters.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "3-letter-palindromes.png",
+      "csv": [
+        "3-letter-palindromes.csv"
+      ]
+    },
+    {
+      "name": "3 Letter All Vowels",
+      "slug": "3-letter-all-vowels",
+      "description": "Names with only 3 vowels.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "3-letter-all-vowels.png",
+      "csv": [
+        "3-letter-all-vowels.csv"
+      ]
+    },
+    {
+      "name": "3 Digit Palindromes",
+      "slug": "3-digit-palindromes",
+      "description": "Palindromes with 3 digits",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "3-digit-palindromes.png",
+      "csv": [
+        "3-digit-palindromes.csv"
+      ]
+    },
+    {
+      "name": "4 Digit Palindromes",
+      "slug": "4-digit-palindromes",
+      "description": "Palindromes with 4 digits",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "4-digit-palindromes.png",
+      "csv": [
+        "4-digit-palindromes.csv"
+      ]
+    },
+    {
+      "name": "4 Letter Dictionary",
+      "slug": "4-letter-dictionary",
+      "description": "English 4 Letter Dictionary Words.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "4-letter-dictionary.png",
+      "csv": [
+        "4-letter-dictionary.csv"
+      ]
+    },
+    {
+      "name": "5 Letter Dictionary",
+      "slug": "5-letter-dictionary",
+      "description": "English 5 Letter Dictionary Words.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "5-letter-dictionary.png",
+      "csv": [
+        "5-letter-dictionary.csv"
+      ]
+    },
+    {
+      "name": "5 Digit Palindromes",
+      "slug": "5-digit-palindromes",
+      "description": "Palindromes with 5 digits.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "5-digit-palindromes.png",
+      "csv": [
+        "5-digit-palindromes.csv"
+      ]
+    },
+    {
+      "name": "10k Club",
+      "slug": "10k-club",
+      "description": "Names with 4 Digits: 0000-9999",
+      "twitter": "10kClubOfficial",
+      "chat": "https://discord.gg/aUemBKUuZ5",
+      "website": "https://10kClub.com",
+      "logo": "10k-club.png",
+      "csv": [
+        "10k-club.csv"
+      ]
+    },
+    {
+      "name": "24h Club: Timekeepers",
+      "slug": "24h-club",
+      "description": "The eternal #TimeKeepers.",
+      "twitter": "24hClubOfficial",
+      "chat": "https://discord.gg/fQazeMMkXC",
+      "website": "https://www.ensclock.com",
+      "logo": "24h-club.png",
+      "csv": [
+        "24h-club.csv"
+      ]
+    },
+    {
+      "name": "100k Club",
+      "slug": "100k-club",
+      "description": "Names with 5 Digits: 00000-99999.",
+      "twitter": "100kClubENS",
+      "chat": "https://discord.gg/EmcSN6EJpY",
+      "website": "",
+      "logo": "100k-club.png",
+      "csv": [
+        "100k-club.csv"
+      ]
+    },
+    {
+      "name": "999 Club",
+      "slug": "999-club",
+      "description": "Name with 3 digits: 000-999.",
+      "twitter": "10kClubOfficial",
+      "chat": "https://discord.gg/aUemBKUuZ5",
+      "website": "",
+      "logo": "999-club.png",
+      "csv": [
+        "999-club.csv"
+      ]
+    },
+    {
+      "name": "Arabic 999 Club",
+      "slug": "arabic-999-club",
+      "description": "Arabic numerals 000-999.",
+      "twitter": "999ENSArabic",
+      "chat": "https://discord.gg/QNEmFx6DzW",
+      "website": "",
+      "logo": "arabic-999-club.png",
+      "csv": [
+        "arabic-999-club.csv"
+      ]
+    },
+    {
+      "name": "Binary Club",
+      "slug": "binary-club",
+      "description": "Names in 8-bit Binary.",
+      "twitter": "BinaryClubENS",
+      "chat": "",
+      "website": "",
+      "logo": "binary-club.png",
+      "csv": [
+        "binary-club.csv"
+      ]
+    },
+    {
+      "name": "Capital Cities",
+      "slug": "capital-cities",
+      "description": "Country Capital City Names.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "capital-cities.png",
+      "csv": [
+        "capital-cities.csv"
+      ]
+    },
+    {
+      "name": "Countries",
+      "slug": "countries",
+      "description": "Country names.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "countries.png",
+      "csv": [
+        "countries.csv"
+      ]
+    },
+    {
+      "name": "Country Codes",
+      "slug": "country-codes",
+      "description": "3 Letter Country Codes.",
+      "twitter": "",
+      "chat": "",
+      "website": "https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3",
+      "logo": "country-codes.png",
+      "csv": [
+        "country-codes.csv"
+      ]
+    },
+    {
+      "name": "Double Ethmoji",
+      "slug": "double-ethmoji",
+      "description": "Names with True Double Emojis.",
+      "twitter": "EthmojiClub",
+      "chat": "https://discord.gg/vv6H4Rjuzm",
+      "website": "",
+      "logo": "double-ethmoji.png",
+      "csv": [
+        "double-ethmoji.csv"
+      ]
+    },
+    {
+      "name": "Ethmoji 99 Club",
+      "slug": "ethmoji-99-club",
+      "description": "Names with 2 Emoji Digits.",
+      "twitter": "Ethmoji99",
+      "chat": "https://discord.gg/vv6H4Rjuzm",
+      "website": "",
+      "logo": "ethmoji-99-club.png",
+      "csv": [
+        "ethmoji-99-club.csv"
+      ]
+    },
+    {
+      "name": "Ethmoji 999 Club",
+      "slug": "ethmoji-999-club",
+      "description": "Names with 3 Emoji Digits.",
+      "twitter": "999OfficialClub",
+      "chat": "https://discord.gg/vv6H4Rjuzm",
+      "website": "",
+      "logo": "ethmoji-999-club.png",
+      "csv": [
+        "ethmoji-999-club.csv"
+      ]
+    },
+    {
+      "name": "ENS Date Club",
+      "slug": "ens-date-club",
+      "description": "1Jan.eth - 31dec.eth",
+      "twitter": "EnsDateClub",
+      "chat": "https://discord.gg/gqAxF7uqUq",
+      "website": "",
+      "logo": "ens-date-club.png",
+      "csv": [
+        "ens-date-club.csv"
+      ]
+    },
+    {
+      "name": "Hyphens-LL",
+      "slug": "hyphens-ll",
+      "description": "Hyphenated ENS domains.",
+      "twitter": "hyphENSclub",
+      "chat": "https://discord.gg/X2bKAUdb6k",
+      "website": "",
+      "logo": "hyphens-ll.png",
+      "csv": [
+        "hyphens-ll.csv"
+      ]
+    },
+    {
+      "name": "Hyphens-LN-NL",
+      "slug": "hyphens-ln-nl",
+      "description": "Hyphenated ENS domains.",
+      "twitter": "hyphENSclub",
+      "chat": "https://discord.gg/X2bKAUdb6k",
+      "website": "",
+      "logo": "hyphens-ln-nl.png",
+      "csv": [
+        "hyphens-ln-nl.csv"
+      ]
+    },
+    {
+      "name": "Hyphens-NN",
+      "slug": "hyphens-nn",
+      "description": "Hyphenated ENS domains.",
+      "twitter": "hyphENSclub",
+      "chat": "https://discord.gg/X2bKAUdb6k",
+      "website": "",
+      "logo": "hyphens-nn.png",
+      "csv": [
+        "hyphens-nn.csv"
+      ]
+    },
+    {
+      "name": "Japanese Pokemon Trainer DAO",
+      "slug": "japanese-pokemon-trainer-dao",
+      "description": "Japanese Pokemon ENS.",
+      "twitter": "TrainerDAO",
+      "chat": "https://discord.gg/nfWYw9mctW",
+      "website": "",
+      "logo": "japanese-pokemon-trainer-dao.png",
+      "csv": [
+        "japanese-pokemon-trainer-dao.csv"
+      ]
+    },
+    {
+      "name": "Pokemon Trainer DAO",
+      "slug": "pokemon-trainer-dao",
+      "description": "Pokemon ENS.",
+      "twitter": "TrainerDAO",
+      "chat": "https://discord.gg/nfWYw9mctW",
+      "website": "",
+      "logo": "pokemon-trainer-dao.png",
+      "csv": [
+        "pokemon-trainer-dao.csv"
+      ]
+    },
+    {
+      "name": "Pre-Punk Club",
+      "slug": "pre-punk-club",
+      "description": "Names minted before Crypto Punks.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "pre-punk-club.png",
+      "csv": [
+        "pre-punk-club.csv"
+      ]
+    },
+    {
+      "name": "Single Ethmoji",
+      "slug": "single-ethmoji",
+      "description": "Names with True Single Emojis",
+      "twitter": "EthmojiClub",
+      "chat": "https://discord.gg/vv6H4Rjuzm",
+      "website": "",
+      "logo": "single-ethmoji.png",
+      "csv": [
+        "single-ethmoji.csv"
+      ]
+    },
+    {
+      "name": "Triple Ethmoji",
+      "slug": "triple-ethmoji",
+      "description": "Names with True Triple Emojis",
+      "twitter": "EthmojiClub",
+      "chat": "https://discord.gg/vv6H4Rjuzm",
+      "website": "",
+      "logo": "triple-ethmoji.png",
+      "csv": [
+        "triple-ethmoji.csv"
+      ]
+    },
+    {
+      "name": "English Nouns",
+      "slug": "english-nouns",
+      "description": "English nouns.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "english-nouns.png",
+      "csv": [
+        "english-nouns.csv"
+      ]
+    },
+    {
+      "name": "English Verbs",
+      "slug": "english-verbs",
+      "description": "English verbs.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "english-verbs.png",
+      "csv": [
+        "english-verbs.csv"
+      ]
+    },
+    {
+      "name": "English Adjectives",
+      "slug": "english-adjectives",
+      "description": "English adjectives.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "english-adjectives.png",
+      "csv": [
+        "english-adjectives.csv"
+      ]
+    },
+    {
+      "name": "4 Letter Dictionary",
+      "slug": "4-letter-dictionary",
+      "description": "English 4 Letter Dictionary Words.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "4-letter-dictionary.png",
+      "csv": [
+        "4-letter-dictionary.csv"
+      ]
+    },
+    {
+      "name": "Harry Potter",
+      "slug": "harry-potter",
+      "description": "Harry Potter characters",
+      "twitter": "HarryPotterENS",
+      "website": "",
+      "chat": "",
+      "logo": "harry-potter.png",
+      "csv": [
+        "harry-potter.csv"
+      ]
+    },
+    {
+      "name": "Tolkien",
+      "slug": "tolkien",
+      "description": "Characters from the Tolkien Legendarium",
+      "twitter": "TolkienENS",
+      "website": "",
+      "chat": "",
+      "logo": "tolkien.png",
+      "csv": [
+        "tolkien.csv"
+      ]
+    },
+    {
+      "name": "Arabic 10k Club",
+      "slug": "arabic-10k-club",
+      "description": "Arabic numerals 0000-9999.",
+      "twitter": "999ENSArabic",
+      "chat": "https://discord.gg/QNEmFx6DzW",
+      "website": "",
+      "logo": "arabic-10k-club.png",
+      "csv": [
+        "arabic-10k-club.csv"
+      ]
+    },
+    {
+      "name": "Naruto Names",
+      "slug": "naruto-names",
+      "description": "Names of all characters from Naruto!",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "naruto_logo.png",
+      "csv": [
+        "naruto-names.csv"
+      ]
+    }
+  ]
 }

@@ -419,6 +419,16 @@
 			"website": "",
 			"logo": "4-letter-dictionary.png",
 			"csv": ["4-letter-dictionary.csv"]
+		},
+		{
+			"name": "Double Triples",
+			"slug": "double-triples",
+			"description": "Numbers that have double, triple digits",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "",
+			"csv": ["double-triple-club.csv"]
 		}
 	]
 }

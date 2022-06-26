@@ -221,6 +221,16 @@
 			"csv": ["arabic-999-club.csv"]
 		},
 		{
+			"name": "Arabic 3-Digit Palindromes",
+			"slug": "arabic-3-digit-palindromes",
+			"description": "Palindromes with Arabic 3 Digits.",
+			"twitter": "999ENSArabic",
+			"chat": "https://discord.gg/QNEmFx6DzW",
+			"website": "",
+			"logo": "arabic-3-digit-palindromes.png",
+			"csv": ["arabic-3-digit-palindromes.csv"]
+		},
+		{
 			"name": "Binary Club",
 			"slug": "binary-club",
 			"description": "Names in 8-bit Binary.",

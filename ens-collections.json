@@ -1056,6 +1056,16 @@
         "chat": "",
         "logo": "",
         "csv": ["got-houses-club.csv"]
+        },
+        {
+        "name": "Poker Club",
+        "slug": "poker-club"
+        "description": "poker names",
+        "twitter": "ENSPokerClub",
+        "website": "",
+        "chat": "",
+        "logo": "poker-club.png",
+        "csv": ["poker-club.csv"]
         }
   ]
 }

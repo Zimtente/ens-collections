@@ -431,6 +431,26 @@
 			"csv": ["4-letter-dictionary.csv"]
 		},
 		{
+			"name": "Male Firstnames",
+			"slug": "male-firstnames",
+			"description": "Male Firstnames.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "male-firstnames.png",
+			"csv": ["male-firstnames.csv"]
+		},
+		{
+			"name": "Female Firstnames",
+			"slug": "female-firstnames",
+			"description": "Female Firstnames.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "female-firstnames.png",
+			"csv": ["female-firstnames.csv"]
+        },
+      {
 			"name": "Official Playstation Console Series",
 			"slug": "playstation-console-series",
 			"description": "The Official Playstation Console Releases.",

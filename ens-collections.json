@@ -1014,5 +1014,16 @@
         "naruto-names.csv"
       ]
     }
+    {
+      "name": "6 Digit Palindromes",
+      "slug": "6-digit-palindromes",
+      "description": "Palindromes with 6 digits",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "6digitpalindrome_logo.png",
+      "csv": ["6digitpalindrome_csv.csv",
+      ]
+    }
   ]
 }

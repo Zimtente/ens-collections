@@ -1011,7 +1011,7 @@
       "website": "",
       "logo": "naruto_logo.png",
       "csv": [
-        "naruto-names.csv"
+        "naruto-names-csv.csv"
       ]
     }
     {
@@ -1025,5 +1025,15 @@
       "csv": ["6digitpalindrome_csv.csv",
       ]
     }
+    {
+      "name": "Gen1-Pokemon",
+      "slug": "Gen1-Pokemon"
+      "description": "Pokemon from Gen1 numbers 1-151.",
+      "twitter": "https://twitter.com/TrainerDAO",
+      "website": "N/A",
+      "chat": "https://discord.com/invite/nfWYw9mctW",
+      "logo": "gen1_logo.png",
+      "csv": ["gen1_csv.csv"]
+      }
   ]
 }

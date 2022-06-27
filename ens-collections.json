@@ -1014,27 +1014,5 @@
         "naruto-names.csv"
       ]
     }
-    {
-      "name": "Made in country",
-      "slug": "made-in-country",
-      "description": "Made in countries",
-      "twitter": "",
-      "chat": "",
-      "website": "",
-      "logo": "",
-      "csv": ["made-in-country.csv"]
-    }
-    {
-      "name": "365 Club",
-      "slug": "365-club",
-      "description": "A web3 social club for ENS holders January1st-December31st. No roadmap. There is only 365 days with suffix on the ethereum blockchain. #weowntheyear",
-      "twitter": "365cluboffical",
-      "chat": "https://discord.gg/8BTT7nre",
-      "website": "",
-      "logo": "365clublogo.png",
-      "csv": [
-        "365-club-csv.csv"
-      ]
-    }
   ]
 }

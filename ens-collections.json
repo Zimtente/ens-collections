@@ -1035,5 +1035,15 @@
       "logo": "gen1_logo.png",
       "csv": ["gen1_csv.csv"]
       }
+      {
+        "name": "GOT Houses Club",
+        "slug": "got-houses-club"
+        "description": "Game of Thrones Houses",
+        "twitter": "GOTHousesClub",
+        "website": "",
+        "chat": "",
+        "logo": "",
+        "csv": ["got-houses-club.csv"]
+        }
   ]
 }

@@ -431,7 +431,18 @@
 			"csv": ["4-letter-dictionary.csv"]
 		},
 		{
-			"name": "Male Firstnames",
+			"name": "Substances Club",
+			"slug": "substances-club",
+			"description": "Medicines, recreational drugs, pill imprints, and more.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "",
+			"csv": ["substances-club.csv"]
+		}
+	]
+  {
+    "name": "Male Firstnames",
 			"slug": "male-firstnames",
 			"description": "Male Firstnames.",
 			"twitter": "",
@@ -439,7 +450,8 @@
 			"website": "",
 			"logo": "male-firstnames.png",
 			"csv": ["male-firstnames.csv"]
-		},
+}
+			
 		{
 			"name": "Female Firstnames",
 			"slug": "female-firstnames",

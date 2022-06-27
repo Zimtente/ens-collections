@@ -994,5 +994,15 @@
         "naruto-names.csv"
       ]
     }
+    {
+      "name": "Made in country",
+      "slug": "made-in-country",
+      "description": "Made in countries",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "",
+      "csv": ["made-in-country.csv"]
+    }
   ]
 }

@@ -351,6 +351,16 @@
 			"csv": ["japanese-pokemon-trainer-dao.csv"]
 		},
 		{
+			"name": "Mnemonic Club",
+			"slug": "mnemonic-club",
+			"description": "2048 mnemonic seed phrases.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "",
+			"csv": ["mnemonic-club.csv"]
+		},
+		{
 			"name": "Pokemon Trainer DAO",
 			"slug": "pokemon-trainer-dao",
 			"description": "Pokemon ENS.",

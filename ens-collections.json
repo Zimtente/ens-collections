@@ -564,5 +564,15 @@
           "logo": "marvellogo.jpeg",
           "csv": ["marvel names.csv"]
         },
+	{
+	    "name": "NCAA",
+	    "slug": "NCAA"
+	    "description": "NCAA college abbreviations",
+	    "twitter": "",
+	    "chat": "",
+	    "website": "",
+	    "logo": "",
+	    "csv": ["NCAA.csv"]
+	  }
   ]
 }

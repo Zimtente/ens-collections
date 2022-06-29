@@ -512,9 +512,7 @@
       "chat": "https://discord.gg/QNEmFx6DzW",
       "website": "",
       "logo": "arabic-10k-club.png",
-      "csv": [
-        "arabic-10k-club.csv"
-      ]
+      "csv": ["arabic-10k-club.csv"]
     },
     {
       "name": "Naruto Names",
@@ -524,9 +522,7 @@
       "chat": "",
       "website": "",
       "logo": "naruto_logo.png",
-      "csv": [
-        "naruto-names-csv.csv"
-      ]
+      "csv": ["naruto-names-csv.csv"]
     },
     {
       "name": "6 Digit Palindromes",

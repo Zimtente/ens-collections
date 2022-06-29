@@ -554,5 +554,15 @@
         "logo": "",
         "csv": ["got-houses-club.csv"]
         },
+        {
+          "name": "Marvel Club",
+          "slug": "marvel-club"
+          "description": "Names of Marvel Characters. Top 230.",
+          "twitter": "MarvelENSClub",
+          "website": "",
+          "chat": "",
+          "logo": "marvellogo.jpeg",
+          "csv": ["marvel names.csv"]
+        },
   ]
 }

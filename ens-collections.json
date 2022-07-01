@@ -482,9 +482,7 @@
       "chat": "https://discord.gg/QNEmFx6DzW",
       "website": "",
       "logo": "arabic-10k-club.png",
-      "csv": [
-        "arabic-10k-club.csv"
-      ]
+      "csv": ["arabic-10k-club.csv"]
     },
     {
       "name": "Naruto Names",
@@ -494,9 +492,7 @@
       "chat": "",
       "website": "",
       "logo": "naruto_logo.png",
-      "csv": [
-        "naruto-names-csv.csv"
-      ]
+      "csv": ["naruto-names-csv.csv"]
     },
     {
       "name": "6 Digit Palindromes",
@@ -506,8 +502,7 @@
       "chat": "",
       "website": "",
       "logo": "6digitpalindrome_logo.png",
-      "csv": ["6digitpalindrome_csv.csv",
-      ]
+      "csv": ["6digitpalindrome_csv.csv"]
     },
     {
       "name": "Gen1-Pokemon",
@@ -528,6 +523,16 @@
         "chat": "",
         "logo": "",
         "csv": ["got-houses-club.csv"]
+        },
+        {
+          "name": "Marvel Club",
+          "slug": "marvel-club"
+          "description": "Names of Marvel Characters. Top 230.",
+          "twitter": "MarvelENSClub",
+          "website": "",
+          "chat": "",
+          "logo": "marvellogo.jpeg",
+          "csv": ["marvel names.csv"]
         },
   ]
 }

@@ -506,7 +506,7 @@
     },
     {
       "name": "Gen1-Pokemon",
-      "slug": "Gen1-Pokemon"
+      "slug": "Gen1-Pokemon",
       "description": "Pokemon from Gen1 numbers 1-151.",
       "twitter": "https://twitter.com/TrainerDAO",
       "website": "N/A",
@@ -516,7 +516,7 @@
       },
       {
         "name": "GOT Houses Club",
-        "slug": "got-houses-club"
+        "slug": "got-houses-club",
         "description": "Game of Thrones Houses",
         "twitter": "GOTHousesClub",
         "website": "",
@@ -526,7 +526,7 @@
         },
         {
           "name": "Marvel Club",
-          "slug": "marvel-club"
+          "slug": "marvel-club",
           "description": "Names of Marvel Characters. Top 230.",
           "twitter": "MarvelENSClub",
           "website": "",
@@ -534,5 +534,15 @@
           "logo": "marvellogo.jpeg",
           "csv": ["marvel names.csv"]
         },
+		{
+			"name": "5 Digit James Bond Club",
+			"slug": "5-digit-james-bond",
+			"description": "Exclusive 5 digit number which contains 007",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "5-digit-james-bond.png",
+			"csv": ["5-digit-james-bond.csv"]
+		}
   ]
 }

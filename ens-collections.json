@@ -141,6 +141,16 @@
 			"csv": ["4-digit-palindromes.csv"]
 		},
 		{
+			"name": "4 Letter Dictionary",
+			"slug": "4-letter-dictionary",
+			"description": "English 4 Letter Dictionary Words.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "4-letter-dictionary.png",
+			"csv": ["4-letter-dictionary.csv"]
+		},
+		{
 			"name": "5 Letter Dictionary",
 			"slug": "5-letter-dictionary",
 			"description": "English 5 Letter Dictionary Words.",
@@ -269,6 +279,16 @@
 			"website": "",
 			"logo": "double-ethmoji.png",
 			"csv": ["double-ethmoji.csv"]
+		},
+		{
+			"name": "Ethmoji 99 Club",
+			"slug": "ethmoji-99-club",
+			"description": "Names with 2 Emoji Digits.",
+			"twitter": "Ethmoji99",
+			"chat": "https://discord.gg/vv6H4Rjuzm",
+			"website": "",
+			"logo": "ethmoji-99-club.png",
+			"csv": ["ethmoji-99-club.csv"]
 		},
 		{
 			"name": "Ethmoji 999 Club",
@@ -411,6 +431,16 @@
 			"csv": ["english-adjectives.csv"]
 		},
 		{
+			"name": "4 Letter Dictionary",
+			"slug": "4-letter-dictionary",
+			"description": "English 4 Letter Dictionary Words.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "4-letter-dictionary.png",
+			"csv": ["4-letter-dictionary.csv"]
+		},
+		{
 			"name": "Substances Club",
 			"slug": "substances-club",
 			"description": "Medicines, recreational drugs, pill imprints, and more.",
@@ -533,8 +563,7 @@
           "chat": "",
           "logo": "marvellogo.jpeg",
           "csv": ["marvel names.csv"]
-        },
-		{
+        },{
 			"name": "5 Digit James Bond Club",
 			"slug": "5-digit-james-bond",
 			"description": "Exclusive 5 digit number which contains 007",

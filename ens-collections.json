@@ -231,6 +231,16 @@
 			"csv": ["arabic-3-digit-palindromes.csv"]
 		},
 		{
+			"name": "Bengali 999 Club",
+			"slug": "bengali-999-club",
+			"description": "3 digit numerals for the 6th most popular language in the world; Bengali numerals from 000-999.",
+			"twitter": "@999ENSBengali",
+			"website": "-",
+			"chat": "https://discord.gg/H5BsbEjh",
+			"logo": "bengali-999-club.png",
+			"csv": ["bengali-999-club.csv"]
+			},
+		{
 			"name": "Binary Club",
 			"slug": "binary-club",
 			"description": "Names in 8-bit Binary.",
@@ -563,6 +573,6 @@
           "chat": "",
           "logo": "marvellogo.jpeg",
           "csv": ["marvel names.csv"]
-        },
+        }
   ]
 }

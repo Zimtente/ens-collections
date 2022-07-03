@@ -357,7 +357,7 @@
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "",
+			"logo": "mnemonic-club.png",
 			"csv": ["mnemonic-club.csv"]
 		},
 		{
@@ -536,7 +536,7 @@
     },
     {
       "name": "Gen1-Pokemon",
-      "slug": "Gen1-Pokemon"
+      "slug": "Gen1-Pokemon",
       "description": "Pokemon from Gen1 numbers 1-151.",
       "twitter": "https://twitter.com/TrainerDAO",
       "website": "N/A",
@@ -546,7 +546,7 @@
       },
       {
         "name": "GOT Houses Club",
-        "slug": "got-houses-club"
+        "slug": "got-houses-club",
         "description": "Game of Thrones Houses",
         "twitter": "GOTHousesClub",
         "website": "",

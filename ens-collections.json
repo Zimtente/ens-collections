@@ -593,6 +593,16 @@
 			"chat": "",
 			"logo": "360-degree-club.jpeg",
 			"csv": ["360-degree-club.csv"]
+		},
+		{
+			"name": "Chinese Traditional 999 Club",
+			"slug": "chinese-trad-999-club",
+			"description": "Chinese Traditional ENS holder club. 零零零 - 玖玖玖.eth",
+			"twitter": "3dChinese",
+			"website": "",
+			"chat": "",
+			"logo": "",
+			"csv": ["chinese-trad-999-club.csv"]
 		}
   ]
 }

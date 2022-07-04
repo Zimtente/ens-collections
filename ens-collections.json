@@ -221,6 +221,16 @@
 			"csv": ["arabic-999-club.csv"]
 		},
 		{
+			"name": "Japan 999 Club",
+			"slug": "japan-999-club",
+			"description": "Japanese numerals 000-999",
+			"twitter": "999Japan",
+			"website": "",
+			"chat": "",
+			"logo": "999japan_club.png",
+			"csv": ["999-japan-club.csv"]
+		},
+		{
 			"name": "Arabic 3-Digit Palindromes",
 			"slug": "arabic-3-digit-palindromes",
 			"description": "Palindromes with Arabic 3 Digits.",

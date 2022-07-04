@@ -541,8 +541,10 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "naruto_logo.png",
-      "csv": ["naruto-names-csv.csv"]
+      "logo": "naruto-names.png",
+      "csv": [
+		  "naruto-names-csv.csv"
+		]
     },
     {
       "name": "6 Digit Palindromes",
@@ -581,8 +583,10 @@
           "twitter": "MarvelENSClub",
           "website": "",
           "chat": "",
-          "logo": "marvellogo.jpeg",
-          "csv": ["marvel names.csv"]
+          "logo": "marvel-club.png",
+          "csv": [
+			  "marvel-club.csv"
+			]
         },
 		{
 			"name": "360 Degree Club",
@@ -592,7 +596,9 @@
 			"website": "",
 			"chat": "",
 			"logo": "360-degree-club.jpeg",
-			"csv": ["360-degree-club.csv"]
+			"csv": [
+				"360-degree-club.csv"
+			]
 		},
 		{
 
@@ -613,7 +619,9 @@
 			"website": "-",
 			"chat": "https://discord.com/invite/GrEDQNKt4M",
 			"logo": "3digits-hebrew-club logo.png",
-			"csv": ["3digits-hebrew-club.csv"]
+			"csv": [
+				"3digits-hebrew-club.csv"
+			]
 			},
 			{
 				"name": "Palindrome Countries",
@@ -622,8 +630,10 @@
 				"twitter": "",
 				"website": "",
 				"chat": "",
-				"logo": "palindrome country logo.png",
-				"csv": ["palindrome countries list.csv"]
+				"logo": "palindrome-countries.png",
+				"csv": [
+					"palindrome-countries.csv"
+				]
 			},
 			{
 				"name": "Hindi 999 Club",

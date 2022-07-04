@@ -595,6 +595,7 @@
 			"csv": ["360-degree-club.csv"]
 		},
 		{
+
 			"name": "Chinese Traditional 999 Club",
 			"slug": "chinese-trad-999-club",
 			"description": "Chinese Traditional ENS holder club. 零零零 - 玖玖玖.eth",
@@ -603,6 +604,16 @@
 			"chat": "",
 			"logo": "",
 			"csv": ["chinese-trad-999-club.csv"]
-		}
+		},
+    {
+			"name": "3 Digits Hebrew Club",
+			"slug": "3digits-hebrew-club",
+			"description": "729 Juxtaposed Numbers written in Hebrew.",
+			"twitter": "@3DigitsHebrew",
+			"website": "-",
+			"chat": "https://discord.com/invite/v3udrSfe",
+			"logo": "3digits-hebrew-club logo.png",
+			"csv": ["3digits-hebrew-club.csv"]
+			}
   ]
 }

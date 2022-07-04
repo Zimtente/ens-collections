@@ -614,6 +614,16 @@
 			"chat": "https://discord.com/invite/v3udrSfe",
 			"logo": "3digits-hebrew-club logo.png",
 			"csv": ["3digits-hebrew-club.csv"]
-			}
+		},
+    {
+			"name": "FlagCountry Club",
+			"slug": "flagcountry-club",
+			"description": "254 flags & 254 countries",
+			"twitter": "@flags_with",
+			"website": "",
+			"chat": "",
+			"logo": "flagcountry-club.png",
+			"csv": ["flagcountry-club.csv"]
+		}
   ]
 }

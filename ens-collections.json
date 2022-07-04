@@ -614,6 +614,112 @@
 			"chat": "https://discord.com/invite/GrEDQNKt4M",
 			"logo": "3digits-hebrew-club logo.png",
 			"csv": ["3digits-hebrew-club.csv"]
+			},
+			{
+				"name": "Palindrome Countries",
+				"slug": "palindrome-countries",
+				"description": "24 Palindrome Countries",
+				"twitter": "",
+				"website": "",
+				"chat": "",
+				"logo": "palindrome country logo.png",
+				"csv": ["palindrome countries list.csv"]
+			},
+			{
+				"name": "Hindi 999 Club",
+				"slug": "hindi-999-club",
+				"description": "000-999 in Hindi(Devanagari Script)",
+				"twitter": "@999ENSHindi",
+				"website": "",
+				"chat": "https://discord.gg/HeyxC5nmAe",
+				"logo": "hindi-999-club.png",
+				"csv": [
+					"hindi-999-club.csv"
+				]
+			},
+			{
+				"name": "Fraction Club",
+				"slug": "fraction-club",
+				"description": "Fractional. Fantastic.",
+				"twitter": "",
+				"website": "",
+				"chat": "",
+				"logo": "fraction-club.png",
+				"csv": [
+					"fraction-club.csv"
+				]
+			},
+			{
+				"name": "Hindi 10K Club",
+				"slug": "hindi-10k-club",
+				"description": "0000-9999 in Hindi(Devanagari Script)",
+				"twitter": "999ENSHindi",
+				"website": "",
+				"chat": "http://discord.gg/h2UKStxsTS",
+				"logo": "hindi-10k-club.png",
+				"csv": [
+					"hindi-10k-club.csv"
+				]
+			},
+			{
+				"name": "Korean 999 Club",
+				"slug": "korean-999-club",
+				"description": "영영영 - 구구구 (simplified)",
+				"twitter": "Korean999Club",
+				"website": "",
+				"chat": "",
+				"logo": "korean-999-club.png",
+				"csv": [
+					"korean-999-club.csv"
+				]
+			},
+			{
+				"name": "The 969s",
+				"slug": "the-969s",
+				"description": "969 numbers of the Roman Numeral System.",
+				"twitter": "",
+				"website": "",
+				"chat": "",
+				"logo": "the-969s.png",
+				"csv": [
+					"the-969s.csv"
+				]
+			},
+			{
+				"name": "Thai 999 Club",
+				"slug": "thai-999-club",
+				"description": "Thai numerals ๐๐๐-๙๙๙.",
+				"twitter": "",
+				"website": "",
+				"chat": "",
+				"logo": "thai-999-clug.png",
+				"csv": [
+					"thai-999-clug.csv"
+				]
+			},
+			{
+				"name": "CN 10k Club",
+				"slug": "cn-10k-club",
+				"description": "零零零零-九九九九 (simplified)",
+				"twitter": "10kClubCN",
+				"website": "",
+				"chat": "https://discord.gg/EGQy6zmR",
+				"logo": "cn-10k-club.png",
+				"csv": [
+					"cn-10k-club.csv"
+				]
+			},
+			{
+				"name": "Bengali 999 Club",
+				"slug": "bengali-999-club",
+				"description": "Bengali numerals from 000-999.",
+				"twitter": "999ENSBengali",
+				"website": "",
+				"chat": "https://discord.gg/H5BsbEjh",
+				"logo": "bengali-999-club.png",
+				"csv": [
+					"bengali-999-club.csv"
+				]
 			}
   ]
 }

@@ -605,7 +605,7 @@
 			"logo": "",
 			"csv": ["chinese-trad-999-club.csv"]
 		},
-    {
+    	{
 			"name": "3 Digits Hebrew Club",
 			"slug": "3digits-hebrew-club",
 			"description": "729 Juxtaposed Numbers written in Hebrew.",
@@ -614,6 +614,16 @@
 			"chat": "https://discord.com/invite/v3udrSfe",
 			"logo": "3digits-hebrew-club logo.png",
 			"csv": ["3digits-hebrew-club.csv"]
-			}
+		},
+		{
+			"name": "BIP39 Club",
+			"slug": "bip39-club",
+			"description": "2048 words from the BIP39 English wordlist.",
+			"twitter": "BIP39Club",
+			"website": "https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt",
+			"chat": "",
+			"logo": "bip39-club.png",
+			"csv": ["bip39-club.csv"]
+		}
   ]
 }

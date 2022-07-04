@@ -603,6 +603,16 @@
 			"chat": "https://discord.com/invite/v3udrSfe",
 			"logo": "3digits-hebrew-club logo.png",
 			"csv": ["3digits-hebrew-club.csv"]
-			}
+			},
+		{
+			"name": "Braille 999 Club",
+			"slug": "braille-999-club",
+			"description": "Braille number.ens 000-999",
+			"twitter": "999BrailleClub",
+			"chat": "",
+			"website": "",
+			"logo": "braille-999-club.png",
+			"csv": ["braille-999-club.csv"]
+		}
   ]
 }

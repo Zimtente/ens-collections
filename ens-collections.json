@@ -624,15 +624,15 @@
 			]
 			},
 			{
-				"name": "Palindrome Countries",
-				"slug": "palindrome-countries",
-				"description": "24 Palindrome Countries",
+				"name": "Palindrome cities",
+				"slug": "palindrome-cities",
+				"description": "24 Palindrome Cities",
 				"twitter": "",
 				"website": "",
 				"chat": "",
-				"logo": "palindrome-countries.png",
+				"logo": "palindrome-cities.png",
 				"csv": [
-					"palindrome-countries.csv"
+					"palindrome-cities.csv"
 				]
 			},
 			{

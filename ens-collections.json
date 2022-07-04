@@ -470,8 +470,8 @@
 			"logo": "",
 			"csv": ["substances-club.csv"]
 		},
-    {
-    "name": "Male Firstnames",
+		{
+			"name": "Male Firstnames",
 			"slug": "male-firstnames",
 			"description": "Male Firstnames.",
 			"twitter": "",
@@ -479,7 +479,7 @@
 			"website": "",
 			"logo": "male-firstnames.png",
 			"csv": ["male-firstnames.csv"]
-    },	
+		},	
 		{
 			"name": "Female Firstnames",
 			"slug": "female-firstnames",
@@ -489,8 +489,8 @@
 			"website": "",
 			"logo": "female-firstnames.png",
 			"csv": ["female-firstnames.csv"]
-      },
-      {
+      	},
+    	{
 			"name": "Official Playstation Console Series",
 			"slug": "playstation-console-series",
 			"description": "The Official Playstation Console Releases.",
@@ -499,81 +499,77 @@
 			"website": "",
 			"logo": "playstation-console-series.png",
 			"csv": ["playstation-console-series.csv"]
-		  },
-      {
-      "name": "Harry Potter",
-      "slug": "harry-potter",
-      "description": "Harry Potter characters",
-      "twitter": "HarryPotterENS",
-      "website": "",
-      "chat": "",
-      "logo": "harry-potter.png",
-      "csv": [
-        "harry-potter.csv"
-      ]
-    },
-    {
-      "name": "Tolkien",
-      "slug": "tolkien",
-      "description": "Characters from the Tolkien Legendarium",
-      "twitter": "TolkienENS",
-      "website": "",
-      "chat": "",
-      "logo": "tolkien.png",
-      "csv": [
-        "tolkien.csv"
-      ]
-    },
-    {
-      "name": "Arabic 10k Club",
-      "slug": "arabic-10k-club",
-      "description": "Arabic numerals 0000-9999.",
-      "twitter": "999ENSArabic",
-      "chat": "https://discord.gg/QNEmFx6DzW",
-      "website": "",
-      "logo": "arabic-10k-club.png",
-      "csv": ["arabic-10k-club.csv"]
-    },
-    {
-      "name": "Naruto Names",
-      "slug": "naruto-names",
-      "description": "Names of all characters from Naruto!",
-      "twitter": "",
-      "chat": "",
-      "website": "",
-      "logo": "naruto_logo.png",
-      "csv": ["naruto-names-csv.csv"]
-    },
-    {
-      "name": "6 Digit Palindromes",
-      "slug": "6-digit-palindromes",
-      "description": "Palindromes with 6 digits",
-      "twitter": "",
-      "chat": "",
-      "website": "",
-      "logo": "6digitpalindrome_logo.png",
-      "csv": ["6digitpalindrome_csv.csv"]
-    },
-    {
-      "name": "Gen1-Pokemon",
-      "slug": "Gen1-Pokemon",
-      "description": "Pokemon from Gen1 numbers 1-151.",
-      "twitter": "https://twitter.com/TrainerDAO",
-      "website": "N/A",
-      "chat": "https://discord.com/invite/nfWYw9mctW",
-      "logo": "gen1_logo.png",
-      "csv": ["gen1_csv.csv"]
-      },
-      {
-        "name": "GOT Houses Club",
-        "slug": "got-houses-club",
-        "description": "Game of Thrones Houses",
-        "twitter": "GOTHousesClub",
-        "website": "",
-        "chat": "",
-        "logo": "",
-        "csv": ["got-houses-club.csv"]
-        },
+		},
+		{
+			"name": "Harry Potter",
+			"slug": "harry-potter",
+			"description": "Harry Potter characters",
+			"twitter": "HarryPotterENS",
+			"website": "",
+			"chat": "",
+			"logo": "harry-potter.png",
+			"csv": ["harry-potter.csv"]
+    	},
+		{
+			"name": "Tolkien",
+			"slug": "tolkien",
+			"description": "Characters from the Tolkien Legendarium",
+			"twitter": "TolkienENS",
+			"website": "",
+			"chat": "",
+			"logo": "tolkien.png",
+			"csv": ["tolkien.csv"]
+		},
+		{
+			"name": "Arabic 10k Club",
+			"slug": "arabic-10k-club",
+			"description": "Arabic numerals 0000-9999.",
+			"twitter": "999ENSArabic",
+			"chat": "https://discord.gg/QNEmFx6DzW",
+			"website": "",
+			"logo": "arabic-10k-club.png",
+			"csv": ["arabic-10k-club.csv"]
+		},
+		{
+			"name": "Naruto Names",
+			"slug": "naruto-names",
+			"description": "Names of all characters from Naruto!",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "naruto_logo.png",
+			"csv": ["naruto-names-csv.csv"]
+		},
+		{
+			"name": "6 Digit Palindromes",
+			"slug": "6-digit-palindromes",
+			"description": "Palindromes with 6 digits",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "6digitpalindrome_logo.png",
+			"csv": ["6digitpalindrome_csv.csv"]
+		},
+    	{
+			"name": "Gen1-Pokemon",
+			"slug": "Gen1-Pokemon",
+			"description": "Pokemon from Gen1 numbers 1-151.",
+			"twitter": "https://twitter.com/TrainerDAO",
+			"website": "N/A",
+			"chat": "https://discord.com/invite/nfWYw9mctW",
+			"logo": "gen1_logo.png",
+			"csv": ["gen1_csv.csv"]
+      	},
+		{
+			"name": "GOT Houses Club",
+			"slug": "got-houses-club",
+			"description": "Game of Thrones Houses",
+			"twitter": "GOTHousesClub",
+			"website": "",
+			"chat": "",
+			"logo": "",
+			"csv": ["got-houses-club.csv"]
+		},
         {
           "name": "Marvel Club",
           "slug": "marvel-club",
@@ -595,7 +591,6 @@
 			"csv": ["360-degree-club.csv"]
 		},
 		{
-
 			"name": "Chinese Traditional 999 Club",
 			"slug": "chinese-trad-999-club",
 			"description": "Chinese Traditional ENS holder club. 零零零 - 玖玖玖.eth",

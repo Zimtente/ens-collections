@@ -628,18 +628,20 @@
 			"chat": "",
 			"website": "",
 			"logo": "5-digit-james-bond.png",
-			"csv": ["5-digit-james-bond.csv"]
+			"csv": [
+				"5-digit-james-bond.csv"
+			]
 		},
-	{
+		{
 	    "name": "NCAA",
-	    "slug": "NCAA"
+	    "slug": "NCAA",
 	    "description": "NCAA college abbreviations",
 	    "twitter": "",
 	    "chat": "",
 	    "website": "",
 	    "logo": "",
 	    "csv": [
-      "NCAA.csv"
+      		"NCAA.csv"
       ]
 	  },
 		{

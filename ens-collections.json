@@ -733,3 +733,16 @@
 			}
   ]
 }
+
+{
+				"name": "PsalmsClub",
+				"slug": "psalms-club",
+				"description": "1st club of NFTs based on Ens domains of religious character in the world.",
+				"twitter": "Psalmsclub",
+				"website": "",
+				"chat": "https://discord.gg/43hTTVFzSC",
+				"logo": "psalmsclub.png",
+				"csv": [
+					"psalmsclub.csv"
+				]
+			}

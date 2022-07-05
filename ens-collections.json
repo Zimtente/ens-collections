@@ -730,6 +730,18 @@
 				"csv": [
 					"bengali-999-club.csv"
 				]
+			},
+			{
+				"name": "365 Club",
+				"slug": "365-club",
+				"description": "A web3 social club for ENS holders January1st-December31st. No roadmap. There is only 365 days with suffix on the ethereum blockchain. #weowntheyear",
+				"twitter": "365clubofficial",
+				"website": "",
+				"chat": "https://discord.gg/8BTT7nre",
+				"logo": "365-club.png",
+				"csv": [
+					"365-club.csv"
+				]
 			}
   ]
 }

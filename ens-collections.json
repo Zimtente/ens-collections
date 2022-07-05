@@ -752,6 +752,54 @@
 				]
 			},
 			{
+				"name": "MMDD Club",
+				"slug": "mm-dd-club",
+				"description": "366 MMDD 4-digit ENS",
+				"twitter": "mmddclub",
+				"website": "",
+				"chat": "",
+				"logo": "mmdd-club.png",
+				"csv": [
+					"mmdd-club.csv"
+				]
+			},
+			{
+				"name": "Jurrasic ENS",
+				"slug": "jurrasic-ens",
+				"description": "Jurassic Dinosaur ENS names",
+				"twitter": "",
+				"website": "",
+				"chat": "",
+				"logo": "jurassic-ens.png",
+				"csv": [
+					"jurassic-ens.csv"
+				]
+			},
+			{
+				"name": "languages of the world",
+				"slug": "languages-of-the-world",
+				"description": "ENS names of languages all around the world",
+				"twitter": "",
+				"website": "",
+				"chat": "",
+				"logo": "languages-of-the-world.png",
+				"csv": [
+					"languages-of-the-world.csv"
+				]
+			},
+			{
+				"name": "The Cents Club",
+				"slug": "the-cents-club",
+				"description": "Ens domains for 1cent to 100cents",
+				"twitter": "TheCentsClub",
+				"website": "",
+				"chat": "https://discord.gg/YbNGdmCNwT",
+				"logo": "the-cents-club.png",
+				"csv": [
+					"the-cents-club.csv"
+				]
+			},
+			{
 				"name": "365 Club",
 				"slug": "365-club",
 				"description": "A web3 social club for ENS holders January1st-December31st. No roadmap. There is only 365 days with suffix on the ethereum blockchain. #weowntheyear",

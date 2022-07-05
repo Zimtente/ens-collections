@@ -696,17 +696,15 @@
       ]
 	  },
 	  {
-	    "name": "Nasdaq 3370 club",
-	    "slug": "Nasdaq-3370-club",
-	    "description": "Nasdaq Stock Tickers, AABA-ZYNE.",
-	    "twitter": "nasdaq3370",
-	    "chat": "",
-	    "website": "",
-	    "logo": "Nasdaq-3370-club.png",
-	    "csv": [
-      		"Nasdaq-3370-club.csv"
-      ]
-	  },
+		"name":"Nasdaq ens index",
+		"slug":"Nasdaq-ens-index",
+		"description":"Nasdaq ens index AABA-ZYNE",
+		"twitter":"nasdaq_ensindex",
+		"chat":"https://discord.gg/5J9xE2X7XH",
+		"website":"",
+		"logo":"Nasdaq-ens-index.png",
+		"csv":"[Nasdaq-ens-index.csv]"
+},
 		{
 			"name": "360 Degree Club",
 			"slug": "360-degree-club",

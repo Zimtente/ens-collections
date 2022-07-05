@@ -733,3 +733,15 @@
 			}
   ]
 }
+{		
+		"name": "999 Club ENS Chinese",
+		"slug": "999-club-ens-chinese",
+		"description": "The real ENS club of chinese domains from 000-999 ",
+		"twitter": "999ClubENSCN",
+		"website": "",
+		"chat": "",
+		"logo": "999-club-ens-chinese.png",
+		"csv": [
+		"999-club-ens-chinese.csv"
+		]
+		},

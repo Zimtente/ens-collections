@@ -615,11 +615,21 @@
           "twitter": "MarvelENSClub",
           "website": "",
           "chat": "",
-          "logo": "marvel-club.png",
+         "logo": "marvel-club.png",
           "csv": [
 			  "marvel-club.csv"
 			]
         },
+        {
+			"name": "5 Digit James Bond Club",
+			"slug": "5-digit-james-bond",
+			"description": "Exclusive 5 digit number which contains 007",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "5-digit-james-bond.png",
+			"csv": ["5-digit-james-bond.csv"]
+		},
 	{
 	    "name": "NCAA",
 	    "slug": "NCAA"
@@ -628,7 +638,9 @@
 	    "chat": "",
 	    "website": "",
 	    "logo": "",
-	    "csv": ["NCAA.csv"]
+	    "csv": [
+      "NCAA.csv"
+      ]
 	  },
 		{
 			"name": "360 Degree Club",

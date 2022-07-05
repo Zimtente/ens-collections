@@ -625,7 +625,7 @@
           "twitter": "MarvelENSClub",
           "website": "",
           "chat": "",
-         "logo": "marvel-club.png",
+          "logo": "marvel-club.png",
           "csv": [
 			  "marvel-club.csv"
 			]
@@ -740,6 +740,8 @@
 				"3digits-hebrew-club.csv"
 			]
 			},
+
+
       
 		{
 			"name": "BIP39 Club",
@@ -859,6 +861,19 @@
 					"bengali-999-club.csv"
 				]
 			},
+
+            {
+                "name": "Persian 999 Club",
+                "slug": "persian-999-club",
+                "description": "Persian numerals 000-999",
+                "twitter": "Persian999Club",
+                "website": "",
+                "chat": "",
+                "logo": "999-persian-club.png",
+                "csv": [
+                "999-persian-club.csv"
+                ]
+              },
 			{
 				"name": "MMDD Club",
 				"slug": "mm-dd-club",
@@ -920,7 +935,31 @@
 				]
 			},
 			{
-				"name": "Club 69420",
+				"name": "999 Slayer Club",
+				"slug": "999-slayer-club",
+				"description": "Japanese Daiji Numbers 零零零-玖玖玖",
+				"twitter": "999SlayerClub",
+				"website": "",
+				"chat": "",
+				"logo": "999-slayer-club.png",
+				"csv": [
+					"999-slayer-club.csv"
+				]
+			},
+      {
+				"name": "PsalmsClub",
+				"slug": "psalms-club",
+				"description": "1st club of NFTs based on Ens domains of religious character in the world.",
+				"twitter": "Psalmsclub",
+				"website": "",
+				"chat": "https://discord.gg/43hTTVFzSC",
+				"logo": "psalmsclub.png",
+				"csv": [
+					"psalmsclub.csv"
+				]
+			},
+      {
+        "name": "Club 69420",
 				"slug": "club69420",
 				"description": "The degen connoisseurs of ENS",
 				"twitter": "club69420",
@@ -929,5 +968,5 @@
 				"logo": "club69420.png",
 				"csv": ["club69420.csv"]
 			}
-  ]
+   ]
 }

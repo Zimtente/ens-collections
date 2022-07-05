@@ -946,7 +946,7 @@
 					"999-slayer-club.csv"
 				]
 			},
-      {
+			{
 				"name": "PsalmsClub",
 				"slug": "psalms-club",
 				"description": "1st club of NFTs based on Ens domains of religious character in the world.",
@@ -958,8 +958,8 @@
 					"psalmsclub.csv"
 				]
 			},
-      {
-        "name": "Club 69420",
+      			{
+        			"name": "Club 69420",
 				"slug": "club69420",
 				"description": "The degen connoisseurs of ENS",
 				"twitter": "club69420",

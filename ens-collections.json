@@ -423,12 +423,32 @@
 		{
 			"name": "The Cents Club",
 			"slug": "the-cents-club",
-			"description": "Ens domains for 1cent to 100cents",
+			"description": "Ens domains for 1cent to 100cents.",
 			"twitter": "TheCentsClub",
 			"chat": "https://discord.gg/YbNGdmCNwT",
 			"website": "",
 			"logo": "the-cents-club.png",
 			"csv": ["the-cents-club.csv"]
+		},
+		{
+			"name": "LanguagENS ASCII",
+			"slug": "languages-of-the-world",
+			"description": "Different known languages of the world in ASCII.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "languages-of-the-world.png",
+			"csv": ["languages-of-the-world.csv"]
+		},
+		{
+			"name": "JurassicENS",
+			"slug": "names-of-dinosaurs",
+			"description": "Known names of Dinosaurs discovered till date.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "jurassicens.png",
+			"csv": ["jurassicens.csv"]
 		}	
 	]
 }

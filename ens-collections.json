@@ -281,6 +281,16 @@
 			"csv": ["countries.csv"]
 		},
 		{
+			"name": "Country Leaders",
+			"slug": "country-leader",
+			"description": "Names of Country Leaders.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "country-leaders.png",
+			"csv": ["country-leaders.csv"]
+		},
+		{
 			"name": "Country Codes",
 			"slug": "country-codes",
 			"description": "3 Letter Country Codes.",

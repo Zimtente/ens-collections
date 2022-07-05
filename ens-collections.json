@@ -620,6 +620,16 @@
 			  "marvel-club.csv"
 			]
         },
+	{
+	    "name": "NCAA",
+	    "slug": "NCAA"
+	    "description": "NCAA college abbreviations",
+	    "twitter": "",
+	    "chat": "",
+	    "website": "",
+	    "logo": "",
+	    "csv": ["NCAA.csv"]
+	  },
 		{
 			"name": "360 Degree Club",
 			"slug": "360-degree-club",

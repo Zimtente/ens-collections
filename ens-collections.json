@@ -461,6 +461,16 @@
 			"csv": ["4-letter-dictionary.csv"]
 		},
 		{
+			"name": "MMDD Club",
+			"slug": "mmdd-club",
+			"description": "0101.eth - 1231.eth",
+			"twitter": "mmddclub",
+			"chat": "",
+			"website": "",
+			"logo": "mmdd-club.png",
+			"csv": ["mmdd-club.csv"]
+		},
+    {
 			"name": "Substances Club",
 			"slug": "substances-club",
 			"description": "Medicines, recreational drugs, pill imprints, and more.",

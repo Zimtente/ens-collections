@@ -732,6 +732,17 @@
 				"3digits-hebrew-club.csv"
 			]
 			},
+      
+		{
+			"name": "BIP39 Club",
+			"slug": "bip39-club",
+			"description": "2048 words from the BIP39 English wordlist.",
+			"twitter": "BIP39Club",
+			"website": "https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt",
+			"chat": "",
+			"logo": "bip39-club.jpeg",
+			"csv": ["bip39-club.csv"]
+		},
 			{
 				"name": "Palindrome cities",
 				"slug": "palindrome-cities",

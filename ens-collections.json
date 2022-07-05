@@ -620,6 +620,47 @@
 			  "marvel-club.csv"
 			]
         },
+		{
+			"name": "Tamil 999 Club",
+			"slug": "tamil-999-club",
+			"description": "Names with 3 digits, 000-999 in Tamil characters.",
+			"twitter": "https://twitter.com/sin999club",
+			"website": "https://sin999.club",
+			"chat": "https://discord.gg/hEKP9a7G",
+			"logo": "tamil-999-club.png",
+			"csv": ["tamil-999-club.csv"]
+		  } ,
+		  {
+			"name": "Telugu 999 Club",
+			"slug": "telugu-999-club",
+			"description": "Names with 3 digits, 000-999 in Telugu characters.",
+			"twitter": "https://twitter.com/sin999club",
+			"website": "https://sin999.club",
+			"chat": "https://discord.gg/hEKP9a7G",
+			"logo": "telugu-999-club.png",
+			"csv": ["telugu-999-club.csv"]
+		  } ,
+		  {
+			"name": "Kannada 999 Club",
+			"slug": "kannada-999-club",
+			"description": "Names with 3 digits, 000-999 in Kannada characters.",
+			"twitter": "https://twitter.com/sin999club",
+			"website": "https://sin999.club",
+			"chat": "https://discord.gg/hEKP9a7G",
+			"logo": "kannada-999-club.png",
+			"csv": ["kannada-999-club.csv"]
+		  } ,
+		  {
+			"name": "Malayalam 999 Club",
+			"slug": "malayalam-999-club",
+			"description": "Names with 3 digits, 000-999 in Malayalam characters.",
+			"twitter": "https://twitter.com/sin999club",
+			"website": "https://sin999.club",
+			"chat": "https://discord.gg/hEKP9a7G",
+			"logo": "malayalam-999-club.png",
+			"csv": ["malayalam-999-club.csv"]
+		  },
+      
         {
 			"name": "5 Digit James Bond Club",
 			"slug": "5-digit-james-bond",

@@ -730,6 +730,15 @@
 				"csv": [
 					"bengali-999-club.csv"
 				]
-			}
+			},
+			{
+				"name": "Punjabi 999 Club",
+ 				"slug": "punjabi-999-club"
+  				"description": "Punjabi numerals 000-999.",
+  				"twitter": "999ENSPunjabi",
+  				"website": "",
+  				"chat": "",
+  				"logo": "Punjabi-999-Club.png",
+  				"csv": ["Punjabi-999-Club.csv"]
   ]
 }

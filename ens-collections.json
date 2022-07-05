@@ -918,6 +918,16 @@
 				"csv": [
 					"365-club.csv"
 				]
-			}
+			},
+			{
+				"name": "Club 69420",
+				"slug": "club69420",
+				"description": "The degen connoisseurs of ENS",
+				"twitter": "club69420",
+				"chat": "",
+				"website": "",
+				"logo": "club69420.png",
+				"csv": ["club69420.csv"]
+			},
   ]
 }

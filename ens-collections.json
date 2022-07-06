@@ -852,6 +852,18 @@
 				]
 			},
             {
+                "name": "Trad CN 999 Club",
+                "slug": "trad-cn-999-club",
+                "description": "零零零-玖玖玖 (Traditional CN)",
+                "twitter": "TradCN999",
+                "website": "",
+                "chat": "",
+                "logo": "traditional-cn-999-club.png",
+                "csv": [
+                    "traditional-cn-999-club.csv"
+                ]
+            },
+  ]
                 "name": "Persian 999 Club",
                 "slug": "persian-999-club",
                 "description": "Persian numerals 000-999",

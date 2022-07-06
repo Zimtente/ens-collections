@@ -814,15 +814,15 @@
 				]
 			},
 			{
-				"name": "The 969s",
-				"slug": "the-969s",
+				"name": "Roman Numerals 969 Club",
+				"slug": "roman-numerals-969-Club",
 				"description": "969 numbers of the Roman Numeral System.",
 				"twitter": "",
 				"website": "",
 				"chat": "",
-				"logo": "the-969s.png",
+				"logo": "Roman-Numerals-969-Club.png",
 				"csv": [
-					"the-969s.csv"
+					"Roman-Numerals-969-Club.csv"
 				]
 			},
 			{
@@ -953,9 +953,9 @@
 				"twitter": "Psalmsclub",
 				"website": "",
 				"chat": "https://discord.gg/43hTTVFzSC",
-				"logo": "psalmsclub.png",
+				"logo": "psalms-club.png",
 				"csv": [
-					"psalmsclub.csv"
+					"psalms-club.csv"
 				]
 			}
    ]

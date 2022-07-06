@@ -1071,8 +1071,20 @@
 					"chat": "",
 					"website": "",
 					"csv": ["3l-months.csv"
-					
 					]
+					
+					},
+					{
+						"name": "99 Temperature Club",
+						"slug": "99-Temperature-Club",
+						"description": "The temperature range of 1-99 degrees is where water is a liquid. One degree warmer or colder and it boils or freezes. The 99 Temperature Club brings this to ENS: 99 three-digit domains each representing one degree of liquidity.",
+						"twitter": "@99_temperature",
+						"website": "N/A",
+						"chat": "N/A",
+						"logo": "99-temperature-club.png",
+						"csv": [
+							"99-Temperature-club.csv"
+						]
 					}			
 				
    ]

@@ -543,18 +543,6 @@
       ]
     },
     {
-      "name": "Tolkien",
-      "slug": "tolkien",
-      "description": "Characters from the Tolkien Legendarium",
-      "twitter": "TolkienENS",
-      "website": "",
-      "chat": "",
-      "logo": "tolkien.png",
-      "csv": [
-        "tolkien.csv"
-      ]
-    },
-    {
       "name": "Arabic 10k Club",
       "slug": "arabic-10k-club",
       "description": "Arabic numerals 0000-9999.",

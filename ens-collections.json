@@ -629,7 +629,7 @@
 			"chat": "https://discord.gg/hEKP9a7G",
 			"logo": "tamil-999-club.png",
 			"csv": ["tamil-999-club.csv"]
-		  } ,
+		  },
 		  {
 			"name": "Telugu 999 Club",
 			"slug": "telugu-999-club",
@@ -639,7 +639,7 @@
 			"chat": "https://discord.gg/hEKP9a7G",
 			"logo": "telugu-999-club.png",
 			"csv": ["telugu-999-club.csv"]
-		  } ,
+		  },
 		  {
 			"name": "Kannada 999 Club",
 			"slug": "kannada-999-club",
@@ -863,7 +863,7 @@
                     "traditional-cn-999-club.csv"
                 ]
             },
-  ]
+			{
                 "name": "Persian 999 Club",
                 "slug": "persian-999-club",
                 "description": "Persian numerals 000-999",
@@ -1042,7 +1042,7 @@
 		        "csv": [			
 		        "999-club-ens-chinese.csv"			
 		        ]			
-		        },			
+		        }			
 				
 
    ]

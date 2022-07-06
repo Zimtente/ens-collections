@@ -1062,7 +1062,18 @@
 					"website": "",
 					"logo": "braille-999-club.png",
 					"csv": ["braille-999-club.csv"]
-				  }			
+				  },
+				  {
+					"name": "3L Months",
+					"slug": "3L Months",
+					"description": "Months in the Gregorian calendar abbreviated to 3 letters",
+					"twitter": "",
+					"chat": "",
+					"website": "",
+					"csv": ["3l-months.csv"
+					
+					]
+					}			
 				
    ]
 }

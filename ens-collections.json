@@ -1,16 +1,6 @@
 {
 	"collections": [
 		{
-			"name":"Nasdaq ens index",
-			"slug":"Nasdaq-ens-index",
-			"description":"Nasdaq ens index AABA-ZYNE",
-			"twitter":"nasdaq_ensindex",
-			"chat":"https://discord.gg/5J9xE2X7XH",
-			"website":"",
-			"logo":"Nasdaq-ens-index.png",
-			"csv":"[Nasdaq-ens-index.csv]"
-	},
-		{
 			"name": "0x10k Club",
 			"slug": "0x10k-club",
 			"description": "Names with 0x4Digits.",
@@ -573,7 +563,7 @@
       "website": "",
       "logo": "naruto-names.png",
       "csv": [
-		  "naruto-names-csv.csv"
+		  "naruto-names.csv"
 		]
     },
     {

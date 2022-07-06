@@ -1,6 +1,16 @@
 {
 	"collections": [
 		{
+			"name":"Nasdaq ens index",
+			"slug":"Nasdaq-ens-index",
+			"description":"Nasdaq ens index AABA-ZYNE",
+			"twitter":"nasdaq_ensindex",
+			"chat":"https://discord.gg/5J9xE2X7XH",
+			"website":"",
+			"logo":"Nasdaq-ens-index.png",
+			"csv":"[Nasdaq-ens-index.csv]"
+	},
+		{
 			"name": "0x10k Club",
 			"slug": "0x10k-club",
 			"description": "Names with 0x4Digits.",
@@ -281,6 +291,16 @@
 			"csv": ["countries.csv"]
 		},
 		{
+			"name": "Country Leaders",
+			"slug": "country-leader",
+			"description": "Names of Country Leaders.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "country-leaders.png",
+			"csv": ["country-leaders.csv"]
+		},
+		{
 			"name": "Country Codes",
 			"slug": "country-codes",
 			"description": "3 Letter Country Codes.",
@@ -461,6 +481,16 @@
 			"csv": ["4-letter-dictionary.csv"]
 		},
 		{
+			"name": "MMDD Club",
+			"slug": "mmdd-club",
+			"description": "0101.eth - 1231.eth",
+			"twitter": "mmddclub",
+			"chat": "",
+			"website": "",
+			"logo": "mmdd-club.png",
+			"csv": ["mmdd-club.csv"]
+		},
+    {
 			"name": "Substances Club",
 			"slug": "substances-club",
 			"description": "Medicines, recreational drugs, pill imprints, and more.",
@@ -541,8 +571,10 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "naruto_logo.png",
-      "csv": ["naruto-names-csv.csv"]
+      "logo": "naruto-names.png",
+      "csv": [
+		  "naruto-names-csv.csv"
+		]
     },
     {
       "name": "6 Digit Palindromes",
@@ -575,24 +607,115 @@
         "csv": ["got-houses-club.csv"]
         },
         {
+		"name": "Poker Club",
+        "slug": "poker-club",
+        "description": "poker names",
+        "twitter": "ENSPokerClub",
+        "website": "",
+        "chat": "",
+        "logo": "poker-club.png",
+        "csv": [
+        "poker-club.csv"
+        ]
+        },
+        {
           "name": "Marvel Club",
           "slug": "marvel-club",
           "description": "Names of Marvel Characters. Top 230.",
           "twitter": "MarvelENSClub",
           "website": "",
           "chat": "",
-          "logo": "marvellogo.jpeg",
-          "csv": ["marvel names.csv"]
+          "logo": "marvel-club.png",
+          "csv": [
+			  "marvel-club.csv"
+			]
         },
+		{
+			"name": "Tamil 999 Club",
+			"slug": "tamil-999-club",
+			"description": "Names with 3 digits, 000-999 in Tamil characters.",
+			"twitter": "https://twitter.com/sin999club",
+			"website": "https://sin999.club",
+			"chat": "https://discord.gg/hEKP9a7G",
+			"logo": "tamil-999-club.png",
+			"csv": ["tamil-999-club.csv"]
+		  } ,
+		  {
+			"name": "Telugu 999 Club",
+			"slug": "telugu-999-club",
+			"description": "Names with 3 digits, 000-999 in Telugu characters.",
+			"twitter": "https://twitter.com/sin999club",
+			"website": "https://sin999.club",
+			"chat": "https://discord.gg/hEKP9a7G",
+			"logo": "telugu-999-club.png",
+			"csv": ["telugu-999-club.csv"]
+		  } ,
+		  {
+			"name": "Kannada 999 Club",
+			"slug": "kannada-999-club",
+			"description": "Names with 3 digits, 000-999 in Kannada characters.",
+			"twitter": "https://twitter.com/sin999club",
+			"website": "https://sin999.club",
+			"chat": "https://discord.gg/hEKP9a7G",
+			"logo": "kannada-999-club.png",
+			"csv": ["kannada-999-club.csv"]
+		  } ,
+		  {
+			"name": "Malayalam 999 Club",
+			"slug": "malayalam-999-club",
+			"description": "Names with 3 digits, 000-999 in Malayalam characters.",
+			"twitter": "https://twitter.com/sin999club",
+			"website": "https://sin999.club",
+			"chat": "https://discord.gg/hEKP9a7G",
+			"logo": "malayalam-999-club.png",
+			"csv": ["malayalam-999-club.csv"]
+		  },
+      
+        {
+			"name": "5 Digit James Bond Club",
+			"slug": "5-digit-james-bond",
+			"description": "Exclusive 5 digit number which contains 007",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "5-digit-james-bond.png",
+			"csv": [
+				"5-digit-james-bond.csv"
+			]
+		},
+		{
+	    "name": "NCAA",
+	    "slug": "NCAA",
+	    "description": "NCAA college abbreviations",
+	    "twitter": "",
+	    "chat": "",
+	    "website": "",
+	    "logo": "",
+	    "csv": [
+      		"NCAA.csv"
+      ]
+	  },
+	  {
+		"name":"Nasdaq ens index",
+		"slug":"Nasdaq-ens-index",
+		"description":"Nasdaq ens index AABA-ZYNE",
+		"twitter":"nasdaq_ensindex",
+		"chat":"https://discord.gg/5J9xE2X7XH",
+		"website":"",
+		"logo":"Nasdaq-ens-index.png",
+		"csv":"[Nasdaq-ens-index.csv]"
+},
 		{
 			"name": "360 Degree Club",
 			"slug": "360-degree-club",
 			"description": "360 Degree Club",
 			"twitter": "Club360o",
 			"website": "",
-			"chat": "",
+			"chat": "discord.gg/p3mVvzePuB",
 			"logo": "360-degree-club.jpeg",
-			"csv": ["360-degree-club.csv"]
+			"csv": [
+				"360-degree-club.csv"
+			]
 		},
 		{
 
@@ -613,17 +736,238 @@
 			"website": "-",
 			"chat": "https://discord.com/invite/GrEDQNKt4M",
 			"logo": "3digits-hebrew-club logo.png",
-			"csv": ["3digits-hebrew-club.csv"]
-		},
-    {
-			"name": "FlagCountry Club",
-			"slug": "flagcountry-club",
-			"description": "254 flags & 254 countries",
-			"twitter": "@flags_with",
-			"website": "",
+			"csv": [
+				"3digits-hebrew-club.csv"
+			]
+			},
+
+
+      
+		{
+			"name": "BIP39 Club",
+			"slug": "bip39-club",
+			"description": "2048 words from the BIP39 English wordlist.",
+			"twitter": "BIP39Club",
+			"website": "https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt",
 			"chat": "",
-			"logo": "flagcountry-club.png",
-			"csv": ["flagcountry-club.csv"]
-		}
-  ]
+			"logo": "bip39-club.png",
+			"csv": ["bip39-club.csv"]
+		},
+			{
+				"name": "Palindrome cities",
+				"slug": "palindrome-cities",
+				"description": "24 Palindrome Cities",
+				"twitter": "",
+				"website": "",
+				"chat": "",
+				"logo": "palindrome-cities.png",
+				"csv": [
+					"palindrome-cities.csv"
+				]
+			},
+			{
+				"name": "Hindi 999 Club",
+				"slug": "hindi-999-club",
+				"description": "000-999 in Hindi(Devanagari Script)",
+				"twitter": "@999ENSHindi",
+				"website": "",
+				"chat": "https://discord.gg/HeyxC5nmAe",
+				"logo": "hindi-999-club.png",
+				"csv": [
+					"hindi-999-club.csv"
+				]
+			},
+			{
+				"name": "Fraction Club",
+				"slug": "fraction-club",
+				"description": "Fractional. Fantastic.",
+				"twitter": "",
+				"website": "",
+				"chat": "",
+				"logo": "fraction-club.png",
+				"csv": [
+					"fraction-club.csv"
+				]
+			},
+			{
+				"name": "Hindi 10K Club",
+				"slug": "hindi-10k-club",
+				"description": "0000-9999 in Hindi(Devanagari Script)",
+				"twitter": "999ENSHindi",
+				"website": "",
+				"chat": "http://discord.gg/h2UKStxsTS",
+				"logo": "hindi-10k-club.png",
+				"csv": [
+					"hindi-10k-club.csv"
+				]
+			},
+			{
+				"name": "Korean 999 Club",
+				"slug": "korean-999-club",
+				"description": "영영영 - 구구구 (simplified)",
+				"twitter": "Korean999Club",
+				"website": "",
+				"chat": "",
+				"logo": "korean-999-club.png",
+				"csv": [
+					"korean-999-club.csv"
+				]
+			},
+			{
+				"name": "Roman Numerals 969 Club",
+				"slug": "roman-numerals-969-Club",
+				"description": "969 numbers of the Roman Numeral System.",
+				"twitter": "",
+				"website": "",
+				"chat": "",
+				"logo": "Roman-Numerals-969-Club.png",
+				"csv": [
+					"Roman-Numerals-969-Club.csv"
+				]
+			},
+			{
+				"name": "Thai 999 Club",
+				"slug": "thai-999-club",
+				"description": "Thai numerals ๐๐๐-๙๙๙.",
+				"twitter": "",
+				"website": "",
+				"chat": "",
+				"logo": "thai-999-clug.png",
+				"csv": [
+					"thai-999-clug.csv"
+				]
+			},
+			{
+				"name": "CN 10k Club",
+				"slug": "cn-10k-club",
+				"description": "零零零零-九九九九 (simplified)",
+				"twitter": "10kClubCN",
+				"website": "",
+				"chat": "https://discord.gg/EGQy6zmR",
+				"logo": "cn-10k-club.png",
+				"csv": [
+					"cn-10k-club.csv"
+				]
+			},
+			{
+				"name": "Bengali 999 Club",
+				"slug": "bengali-999-club",
+				"description": "Bengali numerals from 000-999.",
+				"twitter": "999ENSBengali",
+				"website": "",
+				"chat": "https://discord.gg/H5BsbEjh",
+				"logo": "bengali-999-club.png",
+				"csv": [
+					"bengali-999-club.csv"
+				]
+			},
+
+            {
+                "name": "Persian 999 Club",
+                "slug": "persian-999-club",
+                "description": "Persian numerals 000-999",
+                "twitter": "Persian999Club",
+                "website": "",
+                "chat": "",
+                "logo": "999-persian-club.png",
+                "csv": [
+                "999-persian-club.csv"
+                ]
+              },
+			{
+				"name": "MMDD Club",
+				"slug": "mm-dd-club",
+				"description": "366 MMDD 4-digit ENS",
+				"twitter": "mmddclub",
+				"website": "",
+				"chat": "",
+				"logo": "mmdd-club.png",
+				"csv": [
+					"mmdd-club.csv"
+				]
+			},
+			{
+				"name": "Jurrasic ENS",
+				"slug": "jurrasic-ens",
+				"description": "Jurassic Dinosaur ENS names",
+				"twitter": "",
+				"website": "",
+				"chat": "",
+				"logo": "jurassic-ens.png",
+				"csv": [
+					"jurassic-ens.csv"
+				]
+			},
+			{
+				"name": "languages of the world",
+				"slug": "languages-of-the-world",
+				"description": "ENS names of languages all around the world",
+				"twitter": "",
+				"website": "",
+				"chat": "",
+				"logo": "languages-of-the-world.png",
+				"csv": [
+					"languages-of-the-world.csv"
+				]
+			},
+			{
+				"name": "The Cents Club",
+				"slug": "the-cents-club",
+				"description": "Ens domains for 1cent to 100cents",
+				"twitter": "TheCentsClub",
+				"website": "",
+				"chat": "https://discord.gg/YbNGdmCNwT",
+				"logo": "the-cents-club.png",
+				"csv": [
+					"the-cents-club.csv"
+				]
+			},
+			{
+				"name": "365 Club",
+				"slug": "365-club",
+				"description": "A web3 social club for ENS holders January1st-December31st. No roadmap. There is only 365 days with suffix on the ethereum blockchain. #weowntheyear",
+				"twitter": "365clubofficial",
+				"website": "",
+				"chat": "https://discord.gg/8BTT7nre",
+				"logo": "365-club.png",
+				"csv": [
+					"365-club.csv"
+				]
+			},
+			{
+				"name": "999 Slayer Club",
+				"slug": "999-slayer-club",
+				"description": "Japanese Daiji Numbers 零零零-玖玖玖",
+				"twitter": "999SlayerClub",
+				"website": "",
+				"chat": "",
+				"logo": "999-slayer-club.png",
+				"csv": [
+					"999-slayer-club.csv"
+				]
+			},
+      {
+				"name": "PsalmsClub",
+				"slug": "psalms-club",
+				"description": "1st club of NFTs based on Ens domains of religious character in the world.",
+				"twitter": "Psalmsclub",
+				"website": "",
+				"chat": "https://discord.gg/43hTTVFzSC",
+				"logo": "psalms-club.png",
+				"csv": [
+					"psalms-club.csv"
+				]
+			},
+      {
+        "name": "FlagCountry Club",
+        "slug": "flagcountry-club",
+        "description": "254 flags & 254 countries",
+        "twitter": "@flags_with",
+        "website": "",
+        "chat": "",
+        "logo": "flagcountry-club.png",
+        "csv": ["flagcountry-club.csv"]
+      }
+   ]
 }
+

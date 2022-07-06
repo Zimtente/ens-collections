@@ -499,7 +499,7 @@
 			"website": "",
 			"logo": "male-firstnames.png",
 			"csv": ["male-firstnames.csv"]
-    },	
+    },
 		{
 			"name": "Female Firstnames",
 			"slug": "female-firstnames",
@@ -660,7 +660,7 @@
 			"logo": "malayalam-999-club.png",
 			"csv": ["malayalam-999-club.csv"]
 		  },
-      
+
         {
 			"name": "5 Digit James Bond Club",
 			"slug": "5-digit-james-bond",
@@ -732,7 +732,7 @@
 			},
 
 
-      
+
 		{
 			"name": "BIP39 Club",
 			"slug": "bip39-club",
@@ -851,19 +851,18 @@
 					"bengali-999-club.csv"
 				]
 			},
-
             {
                 "name": "Persian 999 Club",
                 "slug": "persian-999-club",
                 "description": "Persian numerals 000-999",
                 "twitter": "Persian999Club",
                 "website": "",
-                "chat": "",
-                "logo": "999-persian-club.png",
+                "chat": "https://discord.gg/8u2v2wS2",
+                "logo": "persian-999-club.png",
                 "csv": [
-                "999-persian-club.csv"
+                    "persian-999-club.csv"
                 ]
-              },
+            },
 			{
 				"name": "MMDD Club",
 				"slug": "mm-dd-club",
@@ -1002,7 +1001,7 @@
 						"csv": ["single-digit-multiplication.csv"]
 					}
 				
-			
+
    ]
 }
 

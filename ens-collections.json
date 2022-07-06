@@ -1002,6 +1002,16 @@
 					"logo": "kanye-ens-club.png",
 					"csv": ["kanye-ens-club.csv"]
 					},
+        {
+          "name": "FlagCountry Club",
+          "slug": "flagcountry-club",
+          "description": "254 flags & 254 countries",
+          "twitter": "@flags_with",
+          "website": "",
+          "chat": "",
+          "logo": "flagcountry-club.png",
+          "csv": ["flagcountry-club.csv"]
+        },
 					{
 						"name": "Single Digit Multiplication",
 						"slug": "single-digit-multiplication",
@@ -1044,7 +1054,6 @@
 		        ]			
 		        }			
 				
-
    ]
 }
 

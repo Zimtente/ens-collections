@@ -959,7 +959,38 @@
 				"csv": [
 					"3-letter-greek-alphabet.csv"
 				]
-			}
+			},
+			{
+				"name": "ENS Full Date Club",
+				"slug": "ens-full-date-club",
+				"description": "1January.eth – 31December.eth",
+				"twitter": "@EnsFullDateClub",
+				"chat": "https://discord.gg/FnYyqDkmRX",
+				"logo": "ens-full-date-club.png ",
+				"csv": [
+					"ens-full-date-club.csv"
+				]
+				},
+				{
+					"name": "24ClockTimes",
+					"slug": "24-Clock-Times",
+					"description": "Collection with 1am-12am and 1pm-12pm",
+					"twitter": "24ClockTimes",
+					"website": "",
+					"chat": "https://discord.gg/eWEdvcT5SS",
+					"logo": "24-Clock-Times.png",
+					"csv": ["24-Clock-Times.csv"]
+				},
+				{
+					"name": "Kanye Ens Club",
+					"slug": "kanye-ens-club",
+					"description": "All kanye song titles in Ens format",
+					"twitter": "KanyeEnsClub",
+					"website": "",
+					"chat": "",
+					"logo": "kanye-ens-club.png",
+					"csv": ["kanye-ens-club.csv"]
+					}
 			
    ]
 }

@@ -709,14 +709,14 @@
 		},
 		{
 
-			"name": "Chinese Traditional 999 Club",
-			"slug": "chinese-trad-999-club",
-			"description": "Chinese Traditional ENS holder club. 零零零 - 玖玖玖.eth",
+			"name": "999 CN Capitalized Club",
+			"slug": "999-cn-capitalized-club",
+			"description": "零零零 - 玖玖玖 (capitalized)",
 			"twitter": "3dChinese",
 			"website": "",
 			"chat": "",
-			"logo": "",
-			"csv": ["chinese-trad-999-club.csv"]
+			"logo": "999-cn-capitalized-club.png",
+			"csv": ["999-cn-capitalized-club.csv"]
 		},
     {
 			"name": "3 Digits Hebrew Club",

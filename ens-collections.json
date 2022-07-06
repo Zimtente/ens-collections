@@ -936,7 +936,7 @@
 					"999-slayer-club.csv"
 				]
 			},
-      {
+      		{
 				"name": "PsalmsClub",
 				"slug": "psalms-club",
 				"description": "1st club of NFTs based on Ens domains of religious character in the world.",
@@ -947,7 +947,20 @@
 				"csv": [
 					"psalms-club.csv"
 				]
+			},
+			{
+				"name": "3 Letter Greek Alphabet",
+				"slug": "3-letter-greek-alphabet",
+				"description": "The 24 letters of the Greek alphabet in 3 characters.",
+				"twitter": "GreekAlphabetClub",
+				"website": "",
+				"chat": "",
+				"logo": "3-letter-greek-alphabet.png",
+				"csv": [
+					"3-letter-greek-alphabet.csv"
+				]
 			}
+			
    ]
 }
 

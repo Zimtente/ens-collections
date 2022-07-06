@@ -1030,9 +1030,22 @@
 						"logo": "",
 						"csv": ["months.csv"
 						]
-						}
+						},
+            { 					
+		        "name": "999 Club ENS Chinese",			
+		        "slug": "999-club-ens-chinese",			
+		        "description": "零零一 - 九百九十九 (001-999) Chinese Club (Simplified)",			
+		        "twitter": "999ClubENSCN",			
+		        "website": "",			
+		        "chat": "https://discord.gg/sazTKfrGYY",			
+		        "logo": "999-club-ens-chinese.png",			
+		        "csv": [			
+		        "999-club-ens-chinese.csv"			
+		        ]			
+		        },			
 				
 
    ]
 }
+
 

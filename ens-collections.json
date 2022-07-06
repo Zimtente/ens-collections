@@ -409,6 +409,18 @@
       ]
     },
     {
+      "name": "Perfect Palindromes",
+      "slug": "perfect-palindromes",
+      "description": "41 perfect palindromes.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "perfect-palindromes.png",
+      "csv": [
+        "perfect-palindromes.csv"
+      ]
+    },
+    {
       "name": "Pokemon Trainer DAO",
       "slug": "pokemon-trainer-dao",
       "description": "Pokemon ENS.",

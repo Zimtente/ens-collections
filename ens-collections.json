@@ -1,16 +1,6 @@
 {
 	"collections": [
 		{
-			"name":"Nasdaq ens index",
-			"slug":"Nasdaq-ens-index",
-			"description":"Nasdaq ens index AABA-ZYNE",
-			"twitter":"nasdaq_ensindex",
-			"chat":"https://discord.gg/5J9xE2X7XH",
-			"website":"",
-			"logo":"Nasdaq-ens-index.png",
-			"csv":"[Nasdaq-ens-index.csv]"
-	},
-		{
 			"name": "0x10k Club",
 			"slug": "0x10k-club",
 			"description": "Names with 0x4Digits.",
@@ -573,7 +563,7 @@
       "website": "",
       "logo": "naruto-names.png",
       "csv": [
-		  "naruto-names-csv.csv"
+		  "naruto-names.csv"
 		]
     },
     {
@@ -946,7 +936,7 @@
 					"999-slayer-club.csv"
 				]
 			},
-      {
+      		{
 				"name": "PsalmsClub",
 				"slug": "psalms-club",
 				"description": "1st club of NFTs based on Ens domains of religious character in the world.",
@@ -958,16 +948,59 @@
 					"psalms-club.csv"
 				]
 			},
-      {
-        "name": "FlagCountry Club",
-        "slug": "flagcountry-club",
-        "description": "254 flags & 254 countries",
-        "twitter": "@flags_with",
-        "website": "",
-        "chat": "",
-        "logo": "flagcountry-club.png",
-        "csv": ["flagcountry-club.csv"]
-      }
+			{
+				"name": "3 Letter Greek Alphabet",
+				"slug": "3-letter-greek-alphabet",
+				"description": "The 24 letters of the Greek alphabet in 3 characters.",
+				"twitter": "GreekAlphabetClub",
+				"website": "",
+				"chat": "",
+				"logo": "3-letter-greek-alphabet.png",
+				"csv": [
+					"3-letter-greek-alphabet.csv"
+				]
+			},
+			{
+				"name": "ENS Full Date Club",
+				"slug": "ens-full-date-club",
+				"description": "1January.eth – 31December.eth",
+				"twitter": "@EnsFullDateClub",
+				"chat": "https://discord.gg/FnYyqDkmRX",
+				"logo": "ens-full-date-club.png ",
+				"csv": [
+					"ens-full-date-club.csv"
+				]
+				},
+				{
+					"name": "24ClockTimes",
+					"slug": "24-Clock-Times",
+					"description": "Collection with 1am-12am and 1pm-12pm",
+					"twitter": "24ClockTimes",
+					"website": "",
+					"chat": "https://discord.gg/eWEdvcT5SS",
+					"logo": "24-Clock-Times.png",
+					"csv": ["24-Clock-Times.csv"]
+				},
+				{
+					"name": "Kanye Ens Club",
+					"slug": "kanye-ens-club",
+					"description": "All kanye song titles in Ens format",
+					"twitter": "KanyeEnsClub",
+					"website": "",
+					"chat": "",
+					"logo": "kanye-ens-club.png",
+					"csv": ["kanye-ens-club.csv"]
+					},
+        {
+          "name": "FlagCountry Club",
+          "slug": "flagcountry-club",
+          "description": "254 flags & 254 countries",
+          "twitter": "@flags_with",
+          "website": "",
+          "chat": "",
+          "logo": "flagcountry-club.png",
+          "csv": ["flagcountry-club.csv"]
+        }
    ]
 }
 

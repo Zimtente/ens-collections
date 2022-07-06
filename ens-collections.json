@@ -1072,7 +1072,7 @@
 					"website": "",
 					"csv": ["3l-months.csv"
 					]
-					
+
 					},
 					{
 						"name": "99 Temperature Club",
@@ -1085,7 +1085,18 @@
 						"csv": [
 							"99-Temperature-club.csv"
 						]
-					}			
+					},
+					{
+						"name": "Hyphens-NNN",
+						"slug": "hyphens-nnn",
+						"description": "Hyphenated N-N-N ENS domains 0-0-0 to 9-9-9",
+						"twitter": "@HyphensNNNClub",
+						"chat": "https://discord.com/channels/970489721602080798/970632628652900372",
+						"logo": "hyphens-nnn.png",
+						"csv": [
+							"hyphens-nnn.csv"
+						]
+						}			
 				
    ]
 }

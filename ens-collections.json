@@ -499,7 +499,7 @@
 			"website": "",
 			"logo": "male-firstnames.png",
 			"csv": ["male-firstnames.csv"]
-    },	
+    },
 		{
 			"name": "Female Firstnames",
 			"slug": "female-firstnames",
@@ -629,7 +629,7 @@
 			"chat": "https://discord.gg/hEKP9a7G",
 			"logo": "tamil-999-club.png",
 			"csv": ["tamil-999-club.csv"]
-		  } ,
+		  },
 		  {
 			"name": "Telugu 999 Club",
 			"slug": "telugu-999-club",
@@ -639,7 +639,7 @@
 			"chat": "https://discord.gg/hEKP9a7G",
 			"logo": "telugu-999-club.png",
 			"csv": ["telugu-999-club.csv"]
-		  } ,
+		  },
 		  {
 			"name": "Kannada 999 Club",
 			"slug": "kannada-999-club",
@@ -660,7 +660,7 @@
 			"logo": "malayalam-999-club.png",
 			"csv": ["malayalam-999-club.csv"]
 		  },
-      
+
         {
 			"name": "5 Digit James Bond Club",
 			"slug": "5-digit-james-bond",
@@ -709,14 +709,14 @@
 		},
 		{
 
-			"name": "Chinese Traditional 999 Club",
-			"slug": "chinese-trad-999-club",
-			"description": "Chinese Traditional ENS holder club. 零零零 - 玖玖玖.eth",
+			"name": "999 CN Capitalized Club",
+			"slug": "999-cn-capitalized-club",
+			"description": "零零零 - 玖玖玖 (capitalized)",
 			"twitter": "3dChinese",
 			"website": "",
 			"chat": "",
-			"logo": "",
-			"csv": ["chinese-trad-999-club.csv"]
+			"logo": "999-cn-capitalized-club.png",
+			"csv": ["999-cn-capitalized-club.csv"]
 		},
     {
 			"name": "3 Digits Hebrew Club",
@@ -732,7 +732,7 @@
 			},
 
 
-      
+
 		{
 			"name": "BIP39 Club",
 			"slug": "bip39-club",
@@ -851,19 +851,30 @@
 					"bengali-999-club.csv"
 				]
 			},
-
             {
+                "name": "Trad CN 999 Club",
+                "slug": "trad-cn-999-club",
+                "description": "零零零-玖玖玖 (Traditional CN)",
+                "twitter": "TradCN999",
+                "website": "",
+                "chat": "",
+                "logo": "traditional-cn-999-club.png",
+                "csv": [
+                    "traditional-cn-999-club.csv"
+                ]
+            },
+			{
                 "name": "Persian 999 Club",
                 "slug": "persian-999-club",
                 "description": "Persian numerals 000-999",
                 "twitter": "Persian999Club",
                 "website": "",
-                "chat": "",
-                "logo": "999-persian-club.png",
+                "chat": "https://discord.gg/8u2v2wS2",
+                "logo": "persian-999-club.png",
                 "csv": [
-                "999-persian-club.csv"
+                    "persian-999-club.csv"
                 ]
-              },
+            },
 			{
 				"name": "MMDD Club",
 				"slug": "mm-dd-club",
@@ -1000,7 +1011,50 @@
           "chat": "",
           "logo": "flagcountry-club.png",
           "csv": ["flagcountry-club.csv"]
-        }
+        },
+					{
+						"name": "Single Digit Multiplication",
+						"slug": "single-digit-multiplication",
+						"description": "Single Digit Multiplication 0x0 to 9x9",
+						"twitter": "1_digitx1_digit",
+						"chat": "https://discord.gg/5J9xE2X7XH",
+						"website": "discord.gg/VSFUAYh9dG",
+						"logo": "single-digit-multiplication.png",
+						"csv": ["single-digit-multiplication.csv"]
+					},
+					{"name": "Punjabi 999 Club",
+						"slug": "punjabi-999-club",
+						"description": "Punjabi numerals 000-999.",
+						"twitter": "999ENSPunjabi",
+						"website": "",
+						"chat": "",
+						"logo": "Punjabi-999-Club.png",
+						"csv": ["Punjabi-999-Club.csv"]
+					},
+					{
+						"name": "Months",
+						"slug": "Months",
+						"description": "Months in the Gregorian calendar",
+						"website": "",
+						"chat": "",
+						"logo": "",
+						"csv": ["months.csv"
+						]
+						},
+            { 					
+		        "name": "999 Club ENS Chinese",			
+		        "slug": "999-club-ens-chinese",			
+		        "description": "零零一 - 九百九十九 (001-999) Chinese Club (Simplified)",			
+		        "twitter": "999ClubENSCN",			
+		        "website": "",			
+		        "chat": "https://discord.gg/sazTKfrGYY",			
+		        "logo": "999-club-ens-chinese.png",			
+		        "csv": [			
+		        "999-club-ens-chinese.csv"			
+		        ]			
+		        }			
+				
    ]
 }
+
 

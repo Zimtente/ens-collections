@@ -1092,11 +1092,24 @@
 						"description": "Hyphenated N-N-N ENS domains 0-0-0 to 9-9-9",
 						"twitter": "@HyphensNNNClub",
 						"chat": "https://discord.com/channels/970489721602080798/970632628652900372",
+						"website": "N/A",
 						"logo": "hyphens-nnn.png",
 						"csv": [
 							"hyphens-nnn.csv"
 						]
-						}			
+						},
+						{
+							"name": "Ordinal Club",
+							"slug": "ordinal-club",
+							"description": "A web3 social club for ENS holders 1st-999th. No roadmap. Just the first 999 Ordinal numbers on the Ethereum blockchain",
+							"twitter": "@OrdinalClub",
+							"chat": "https://discord.gg/HkWudGJr6m",
+							"website": "https://twitter.com/OrdinalClub",
+							"logo": "Ordinal-Club.png",
+							"csv": [
+								"Ordinal-Club.csv"
+							]
+							}			
 				
    ]
 }

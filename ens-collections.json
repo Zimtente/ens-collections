@@ -362,13 +362,13 @@
 		},
 		{
 			"name": "Double-Hyphens-LV-LV",
-			"slug": "double-hyphens-lv-lv",
+			"slug": "lv-lv",
 			"description": "Hyphenated ENS domains.",
 			"twitter": "LV_LV_club",
 			"chat": "",
 			"website": "",
-			"logo": "LV-LV.png",
-			"csv": ["LV-LV.csv"]
+			"logo": "lv-lv.png",
+			"csv": ["lv-lv.csv"]
 		},
 		{
 			"name": "Double-Hyphens-VV-VV",

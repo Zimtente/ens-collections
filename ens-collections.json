@@ -361,6 +361,26 @@
 			"csv": ["hyphens-ln-nl.csv"]
 		},
 		{
+			"name": "Double-Hyphens-LV-LV",
+			"slug": "double-hyphens-lv-lv",
+			"description": "Hyphenated ENS domains.",
+			"twitter": "LV_LV_club",
+			"chat": "",
+			"website": "",
+			"logo": "LV-LV.png",
+			"csv": ["LV-LV.csv"]
+		},
+		{
+			"name": "Double-Hyphens-VV-VV",
+			"slug": "double-hyphens-vv-vv",
+			"description": "Hyphenated ENS domains.",
+			"twitter": "VV_VV_Club",
+			"chat": "",
+			"website": "",
+			"logo": "VV-VV.png",
+			"csv": ["VV-VV.csv"]
+		},
+		{
 			"name": "Hyphens-NN",
 			"slug": "hyphens-nn",
 			"description": "Hyphenated ENS domains.",

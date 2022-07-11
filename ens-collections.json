@@ -1129,7 +1129,20 @@
 							"csv": [
 								"Ordinal-Club.csv"
 							]
-							}			
+							},
+							
+							{
+								"name": "Porn Club",
+								"slug": "porn-club",
+								"description": "A web3 social club for porn related ENS holders. No roadmap",
+								"twitter": "@EnsPornClub",
+								"chat": "https://discord.gg/pn473Q366t",
+								"website": "https://twitter.com/EnsPornClub",
+								"logo": "porn-club.png",
+								"csv": [
+									"porn-club.csv"
+								]
+								}	
 				
    ]
 }

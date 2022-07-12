@@ -741,11 +741,11 @@
     {
 			"name": "3 Digits Hebrew Club",
 			"slug": "3digits-hebrew-club",
-			"description": "729 Juxtaposed Numbers written in Hebrew.",
-			"twitter": "@3DigitsHebrew",
+			"description": "729 Juxtaposed Numbers Written in Hebrew.",
+			"twitter": "3DigitsHebrew",
 			"website": "-",
 			"chat": "https://discord.com/invite/GrEDQNKt4M",
-			"logo": "3digits-hebrew-club logo.png",
+			"logo": "3digits-hebrew-club.jpeg",
 			"csv": [
 				"3digits-hebrew-club.csv"
 			]

@@ -581,7 +581,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "naruto-names.png",
+      "logo": "naruto-names.jpg",
       "csv": [
 		  "naruto-names.csv"
 		]
@@ -722,7 +722,7 @@
 			"twitter": "Club360o",
 			"website": "",
 			"chat": "https://discord.gg/p3mVvzePuB",
-			"logo": "360-degree-club.jpeg",
+			"logo": "360-degree-club.jpg",
 			"csv": [
 				"360-degree-club.csv"
 			]
@@ -741,11 +741,11 @@
     {
 			"name": "3 Digits Hebrew Club",
 			"slug": "3digits-hebrew-club",
-			"description": "729 Juxtaposed Numbers written in Hebrew.",
-			"twitter": "@3DigitsHebrew",
+			"description": "729 Juxtaposed Numbers Written in Hebrew.",
+			"twitter": "3DigitsHebrew",
 			"website": "-",
 			"chat": "https://discord.com/invite/GrEDQNKt4M",
-			"logo": "3digits-hebrew-club logo.png",
+			"logo": "3digits-hebrew-club.jpg",
 			"csv": [
 				"3digits-hebrew-club.csv"
 			]

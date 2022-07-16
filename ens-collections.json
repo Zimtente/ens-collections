@@ -1130,7 +1130,8 @@
 								"Ordinal-Club.csv"
 							]
 															
-{
+		},
+			{
   "name": "AUS 999 Club",
   "slug": "aus-999-club",
   "description": "AUS Flags with digits, 0-999.",

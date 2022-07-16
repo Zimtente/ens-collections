@@ -1126,7 +1126,9 @@
 							"chat": "https://discord.gg/HkWudGJr6m",
 							"website": "https://twitter.com/OrdinalClub",
 							"logo": "Ordinal-Club.png",
-							"csv": ["Ordinal-Club.csv"]
+							"csv": [
+"Ordinal-Club.csv"
+]
 }
 {
   "name": "AUS 999 Club",

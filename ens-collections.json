@@ -1129,7 +1129,7 @@
 							"csv": [
 								"Ordinal-Club.csv"
 							]
-				
+										
 		{
   "name": "999 AUS Club",
   "slug": "999-aus-club",
@@ -1139,7 +1139,7 @@
   "chat": "https://discord.com/invite/QqSPHBSu",
   "logo": "aus-999-club.png",
   "csv": ["aus-999.csv"]
-	]
+		
 	},
 		
 				

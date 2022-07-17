@@ -1131,9 +1131,9 @@
 							]
 							},
                                                         {
-                                                        "name": "us999 passport club",
-                                                        "slug": "us999-passport-club"
-                                                        "description": "US passports with 3 digits, 000-999.",
+                                                        "name": "US 999 Club",
+                                                        "slug": "us-999-club"
+                                                        "description": "US Flags with digits, 0-999.",
                                                         "twitter": "us999passport",
                                                         "website": "",
                                                         "chat": "https://discord.gg/NaTzeU8PNj",

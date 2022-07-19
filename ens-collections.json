@@ -224,11 +224,11 @@
 			"name": "Japan 999 Club",
 			"slug": "japan-999-club",
 			"description": "Japanese numerals 000-999",
-			"twitter": "999Japan",
+			"twitter": "",
 			"website": "",
 			"chat": "",
-			"logo": "999japan_club.png",
-			"csv": ["999-japan-club.csv"]
+			"logo": "japan-999-club.png",
+			"csv": ["japan-999-club.csv"]
 		},
 		{
 			"name": "Arabic 3-Digit Palindromes",
@@ -946,10 +946,10 @@
 			{
 				"name": "365 Club",
 				"slug": "365-club",
-				"description": "A web3 social club for ENS holders January1st-December31st. No roadmap. There is only 365 days with suffix on the ethereum blockchain. #weowntheyear",
+				"description": "Official 365 Club of ENS names January1st.eth - December31st.eth",
 				"twitter": "365clubofficial",
 				"website": "",
-				"chat": "https://discord.gg/8BTT7nre",
+				"chat": "",
 				"logo": "365-club.png",
 				"csv": [
 					"365-club.csv"
@@ -1121,10 +1121,10 @@
 						{
 							"name": "Ordinal Club",
 							"slug": "ordinal-club",
-							"description": "A web3 social club for ENS holders 1st-999th. No roadmap. Just the first 999 Ordinal numbers on the Ethereum blockchain",
-							"twitter": "@OrdinalClub",
+							"description": "Official Ordinal Club of ENS names 1st.eth - 999th.eth",
+							"twitter": "OrdinalClub",
 							"chat": "https://discord.gg/HkWudGJr6m",
-							"website": "https://twitter.com/OrdinalClub",
+							"website": "",
 							"logo": "Ordinal-Club.png",
 							"csv": [
 								"Ordinal-Club.csv"

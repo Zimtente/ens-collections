@@ -1129,7 +1129,19 @@
 							"csv": [
 								"Ordinal-Club.csv"
 							]
-							}			
+							},
+							{
+								"name": "Skateboard Tricks",
+								"slug": "skateboard-tricks",
+								"description": "ENS category of Skateboard Tricks for all Skateboard Lovers!",
+								"twitter": "",
+								"chat": "",
+								"website": "",
+								"logo": "skateboard-tricks.png",
+								"csv": [
+									"skateboard-tricks.csv"
+								]
+								}			
 				
    ]
 }

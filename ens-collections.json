@@ -716,15 +716,15 @@
 		"csv":"[Nasdaq-ens-index.csv]"
 },
 		{
-			"name": "360 Degree Club",
-			"slug": "360-degree-club",
-			"description": "360 Degree Club",
+			"name": "360 Degrees Club",
+			"slug": "360-degrees-club",
+			"description": "360 Degrees Club",
 			"twitter": "Club360o",
 			"website": "",
 			"chat": "https://discord.gg/p3mVvzePuB",
-			"logo": "360-degree-club.jpg",
+			"logo": "360-degrees-club.jpg",
 			"csv": [
-				"360-degree-club.csv"
+				"360-degrees-club.csv"
 			]
 		},
 		{

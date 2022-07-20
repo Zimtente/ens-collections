@@ -956,15 +956,15 @@
 				]
 			},
 			{
-				"name": "999 Slayer Club",
-				"slug": "999-slayer-club",
-				"description": "Japanese Daiji Numbers 零零零-玖玖玖",
+				"name": "999 JP Official",
+				"slug": "999-jp-official",
+				"description": "999 JP Official is the official club for the native Japanese ENS community and Japanese culture lovers. The club uses formal numbers called "Daiji" that are used in popular anime such as Demon Slayer. As such, members are called Slayers. Using Japanese wordplay, each number has a Japanese meaning, which determines the name or abilities of each Slayer. Are you ready to join the Slayers in their mission to save the world from demons? ",
 				"twitter": "999JPclub",
 				"website": "",
-				"chat": "",
-				"logo": "999-slayer-club.png",
+				"chat": "https://discord.gg/YH89m7Afvy",
+				"logo": "999-jp-official.png",
 				"csv": [
-					"999-slayer-club.csv"
+					"999-jp-official.csv"
 				]
 			},
       		{

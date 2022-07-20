@@ -956,15 +956,15 @@
 				]
 			},
 			{
-				"name": "999 Slayer Club",
-				"slug": "999-slayer-club",
+				"name": "999 Japan Official",
+				"slug": "999-Japan-Official",
 				"description": "Japanese Daiji Numbers 零零零-玖玖玖",
 				"twitter": "999SlayerClub",
 				"website": "",
 				"chat": "",
-				"logo": "999-slayer-club.png",
+				"logo": "999-Japan-Official.png",
 				"csv": [
-					"999-slayer-club.csv"
+					"999-Japan-Official.csv"
 				]
 			},
       		{

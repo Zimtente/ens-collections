@@ -956,12 +956,12 @@
 				]
 			},
 			{
-				"name": "999 Slayer Club",
+				"name": "999 JP Club (Slayer Club) ",
 				"slug": "999-slayer-club",
-				"description": "Japanese Daiji Numbers 零零零-玖玖玖",
+				"description": "Japan's official ENS 999 Club using Japanese Daiji Numbers found in popular animes built by the Japanese community for everyone who loves Japan! (零零零-玖玖玖)",
 				"twitter": "999SlayerClub",
-				"website": "",
-				"chat": "",
+				"website": "https://twitter.com/999SlayerClub",
+				"chat": "https://discord.gg/SYsKAZKy",
 				"logo": "999-slayer-club.png",
 				"csv": [
 					"999-slayer-club.csv"

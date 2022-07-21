@@ -221,14 +221,14 @@
 			"csv": ["arabic-999-club.csv"]
 		},
 		{
-			"name": "Japan 999 Club",
-			"slug": "japan-999-club",
-			"description": "Japanese numerals 000-999",
-			"twitter": "999Japan",
+			"name": "999-Japan-Simplified",
+			"slug": "999-japan-simplified",
+			"description": "Simplified Japanese numerals 000-999",
+			"twitter": "",
 			"website": "",
 			"chat": "",
-			"logo": "999japan_club.png",
-			"csv": ["999-japan-club.csv"]
+			"logo": "999-japan-simplified.png",
+			"csv": ["999-japan-simplified.csv"]
 		},
 		{
 			"name": "Arabic 3-Digit Palindromes",
@@ -716,15 +716,15 @@
 		"csv":"[Nasdaq-ens-index.csv]"
 },
 		{
-			"name": "360 Degree Club",
-			"slug": "360-degree-club",
-			"description": "360 Degree Club",
+			"name": "360 Degrees Club",
+			"slug": "360-degrees-club",
+			"description": "360 Degrees Club",
 			"twitter": "Club360o",
 			"website": "",
 			"chat": "https://discord.gg/p3mVvzePuB",
-			"logo": "360-degree-club.jpg",
+			"logo": "360-degrees-club.jpg",
 			"csv": [
-				"360-degree-club.csv"
+				"360-degrees-club.csv"
 			]
 		},
 		{
@@ -734,7 +734,7 @@
 			"description": "零零零 - 玖玖玖 (capitalized)",
 			"twitter": "3dChinese",
 			"website": "",
-			"chat": "",
+			"chat": "https://discord.gg/82fuK42RyV",
 			"logo": "999-cn-capitalized-club.png",
 			"csv": ["999-cn-capitalized-club.csv"]
 		},
@@ -872,8 +872,8 @@
 				]
 			},
             {
-                "name": "Trad CN 999 Club",
-                "slug": "trad-cn-999-club",
+                "name": "Traditional CN 999 Club",
+                "slug": "traditional-cn-999-club",
                 "description": "零零零-玖玖玖 (Traditional CN)",
                 "twitter": "TradCN999",
                 "website": "",
@@ -946,25 +946,25 @@
 			{
 				"name": "365 Club",
 				"slug": "365-club",
-				"description": "A web3 social club for ENS holders January1st-December31st. No roadmap. There is only 365 days with suffix on the ethereum blockchain. #weowntheyear",
+				"description": "Official 365 Club of ENS names January1st.eth - December31st.eth",
 				"twitter": "365clubofficial",
 				"website": "",
-				"chat": "https://discord.gg/8BTT7nre",
+				"chat": "",
 				"logo": "365-club.png",
 				"csv": [
 					"365-club.csv"
 				]
 			},
 			{
-				"name": "999 Slayer Club",
-				"slug": "999-slayer-club",
+				"name": "999 Japan Official",
+				"slug": "999-japan-official",
 				"description": "Japanese Daiji Numbers 零零零-玖玖玖",
 				"twitter": "999SlayerClub",
 				"website": "",
 				"chat": "",
-				"logo": "999-slayer-club.png",
+				"logo": "999-japan-official.png",
 				"csv": [
-					"999-slayer-club.csv"
+					"999-japan-official.csv"
 				]
 			},
       		{
@@ -1121,17 +1121,66 @@
 						{
 							"name": "Ordinal Club",
 							"slug": "ordinal-club",
-							"description": "A web3 social club for ENS holders 1st-999th. No roadmap. Just the first 999 Ordinal numbers on the Ethereum blockchain",
-							"twitter": "@OrdinalClub",
+							"description": "Official Ordinal Club of ENS names 1st.eth - 999th.eth",
+							"twitter": "OrdinalClub",
 							"chat": "https://discord.gg/HkWudGJr6m",
-							"website": "https://twitter.com/OrdinalClub",
+							"website": "",
 							"logo": "Ordinal-Club.png",
 							"csv": [
 								"Ordinal-Club.csv"
 							]
-							}			
+							},
+
+              {
+              "name": "AUS 999 Club",
+              "slug": "aus-999-club",
+              "description": "AUS Flags with digits, 0-999.",
+              "twitter": "au999passport",
+              "website": "",
+              "chat": "https://discord.com/invite/QqSPHBSu",
+              "logo": "aus-999-club.png",
+              "csv": ["aus-999-club.csv"]
+		
+							},
+							{
+								"name": "Skateboard Tricks",
+								"slug": "skateboard-tricks",
+								"description": "ENS category of Skateboard Tricks for all Skateboard Lovers!",
+								"twitter": "",
+								"chat": "",
+								"website": "",
+								"logo": "skateboard-tricks.png",
+								"csv": [
+									"skateboard-tricks.csv"
+								]
+								},	
+								{
+								"name": "US 999 Club",
+                            	"slug": "us-999-club",
+                                "description": "US Flags with digits, 0-999.",
+                                "twitter": "us999passport",
+                                "website": "",
+                                "chat": "https://discord.gg/NaTzeU8PNj",
+                                "logo": "us999-club.png",
+                                "csv": ["us999-club.csv"
+								]
+									},
+								{
+								"name": "DBZ-Characters",
+								"slug": "dbz-characters",
+								"description": "Characters appearing in Dragon Ball Z.",
+								"twitter": "",
+								"website": "",
+								"chat": "",
+								"logo": "dbz-characters.png",
+								"csv": ["dbz-characters.csv"]
+										}					
 				
    ]
 }
+		
+				
+   
+
 
 

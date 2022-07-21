@@ -1152,7 +1152,17 @@
                                 "logo": "us999-club.png",
                                 "csv": ["us999-club.csv"
 								]
-									}					
+									},
+								{
+								"name": "DBZ-Characters",
+								"slug": "dbz-characters",
+								"description": "Characters appearing in Dragon Ball Z.",
+								"twitter": "",
+								"website": "",
+								"chat": "",
+								"logo": "dbz-characters.png",
+								"csv": ["dbz-characters.csv"]
+										}					
 				
    ]
 }

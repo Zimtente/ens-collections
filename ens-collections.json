@@ -221,14 +221,14 @@
 			"csv": ["arabic-999-club.csv"]
 		},
 		{
-			"name": "Japan 999 Club",
-			"slug": "japan-999-club",
-			"description": "Japanese numerals 000-999",
+			"name": "999-Japan-Simplified",
+			"slug": "999-japan-simplified",
+			"description": "Simplified Japanese numerals 000-999",
 			"twitter": "",
 			"website": "",
 			"chat": "",
-			"logo": "japan-999-club.png",
-			"csv": ["japan-999-club.csv"]
+			"logo": "999-japan-simplified.png",
+			"csv": ["999-japan-simplified.csv"]
 		},
 		{
 			"name": "Arabic 3-Digit Palindromes",
@@ -957,14 +957,14 @@
 			},
 			{
 				"name": "999 Japan Official",
-				"slug": "999-Japan-Official",
+				"slug": "999-japan-official",
 				"description": "Japanese Daiji Numbers 零零零-玖玖玖",
 				"twitter": "999SlayerClub",
 				"website": "",
 				"chat": "",
-				"logo": "999-Japan-Official.png",
+				"logo": "999-japan-official.png",
 				"csv": [
-					"999-Japan-Official.csv"
+					"999-japan-official.csv"
 				]
 			},
       		{

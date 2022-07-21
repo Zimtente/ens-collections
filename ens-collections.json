@@ -1130,6 +1130,18 @@
 								"Ordinal-Club.csv"
 							]
 							},
+
+              {
+              "name": "AUS 999 Club",
+              "slug": "aus-999-club",
+              "description": "AUS Flags with digits, 0-999.",
+              "twitter": "au999passport",
+              "website": "",
+              "chat": "https://discord.com/invite/QqSPHBSu",
+              "logo": "aus-999-club.png",
+              "csv": ["aus-999-club.csv"]
+		
+							},
 							{
 								"name": "Skateboard Tricks",
 								"slug": "skateboard-tricks",
@@ -1166,5 +1178,9 @@
 				
    ]
 }
+		
+				
+   
+
 
 

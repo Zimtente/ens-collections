@@ -1,0 +1,18 @@
+name: Verify collections
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  verify-collections:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: verify collections
+        uses: actions/setup-node@v3
+        with:
+          node-version: "12.x"
+      - run: npm run verify-collections

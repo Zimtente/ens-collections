@@ -8,3 +8,13 @@
   "logo": "Nasdaq-3370-club.png",
   "csv": ["Nasdaq-3370-club.csv"]
 }
+{
+  "name": "R Club",
+  "slug": "Rclub"
+  "description": "Names and words ending in "®" .",
+  "twitter": "RClubENS",
+  "website": "",
+  "chat": "",
+  "logo": "https://static.vecteezy.com/system/resources/previews/000/581/610/original/registered-trademark-icon-vector-illustration.jpg",
+  "csv": ["r-club.csv"]
+}

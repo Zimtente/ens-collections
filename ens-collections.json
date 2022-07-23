@@ -1174,6 +1174,16 @@
 								"chat": "",
 								"logo": "dbz-characters.png",
 								"csv": ["dbz-characters.csv"]
+										},
+								{
+								"name": "3HEXCLUB",
+								"slug": "3hexclub",
+								"description": "a collection of 4,096 3-digit hex colors. the only way to initially claim a color is by owning a corresponding 3-digit ENS.",
+								"twitter": "https://twitter.com/3hexclub",
+								"website": "https://3hexclub.com/",
+								"chat": "https://discord.gg/sHpnBdKgyH",
+								"logo": "3hexclub.png",
+								"csv": ["3hexclub.csv"]
 										}					
 				
    ]

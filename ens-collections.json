@@ -1174,13 +1174,17 @@
 								"chat": "",
 								"logo": "dbz-characters.png",
 								"csv": ["dbz-characters.csv"]
+										},
+								{
+									"name": "Double Flagmoji",
+									"slug": "double-flagmoji",
+									"description": "Double Flag Emojis of Countries",
+									"twitter": "",
+									"chat": "https://discord.gg/g43YP3rQ",
+									"website": "",
+									"logo": "double-flagmoji.png",
+									"csv": ["double-flagmoji.csv"]
 										}					
 				
    ]
 }
-		
-				
-   
-
-
-

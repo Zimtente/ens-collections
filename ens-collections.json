@@ -1174,6 +1174,16 @@
 								"chat": "",
 								"logo": "dbz-characters.png",
 								"csv": ["dbz-characters.csv"]
+										}
+								{
+								"name": "Malicous Softwares",
+								"slug": "malicous-softwares",
+								"description": "names of most harmful mailcious softwares in cyber history",
+								"twitter": "",
+								"website": "",
+								"chat": "",
+								"logo": "",
+								"csv": ["malicous-softwares.csv"]
 										}					
 				
    ]

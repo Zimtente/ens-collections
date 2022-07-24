@@ -1,6 +1,26 @@
 {
 	"collections": [
 		{
+			"name": "nft999 Club",
+			"slug": "nft999-club",
+			"description": "Names start with nft, nft1-nft999",
+			"twitter": "",
+			"chat": "",
+			"website": "https://www.nft10k.club/",
+			"logo": "nft999-club.png",
+			"csv": ["nft999-club.csv"]
+		},
+		{
+			"name": "nft10k Club",
+			"slug": "nft10k-club",
+			"description": "Names start with nft, nft1-nft10000",
+			"twitter": "",
+			"chat": "",
+			"website": "https://www.nft10k.club/",
+			"logo": "nft10k-club.png",
+			"csv": ["nft10k-club.csv"]
+		},
+		{
 			"name": "0x10k Club",
 			"slug": "0x10k-club",
 			"description": "Names with 0x4Digits.",

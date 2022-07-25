@@ -1214,7 +1214,17 @@
 											"website": "",
 											"logo": "ethmoji-0x99-club.png",
 											"csv": ["ethmoji-0x99-club.csv"]
-										}					
+										},	
+										{
+											"name": "999Bubble Club",
+											"slug": "999bubble-club",
+											"description": "000-999 Bubble Digits!.",
+											"twitter": "999BubbleClub",
+											"chat": "",
+											"website": "",
+											"logo": "999bubble-club.png",
+											"csv": ["999bubble-club.csv"]
+										}				
 				
    ]
 }

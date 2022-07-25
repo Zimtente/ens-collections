@@ -1174,6 +1174,16 @@
 								"chat": "",
 								"logo": "dbz-characters.png",
 								"csv": ["dbz-characters.csv"]
+										},
+										{
+											"name": "Ethmoji 0️x10k Club",
+											"slug": "ethmoji-0x10k-club",
+											"description": "Names with 4 Emoji Digits beginning in 0️⃣❎.",
+											"twitter": "EthmojiClub",
+											"chat": "https://discord.gg/vv6H4Rjuzm",
+											"website": "",
+											"logo": "ethmoji-0x10k-club.png",
+											"csv": ["ethmoji-0x10k-club.csv"]
 										}					
 				
    ]

@@ -1184,6 +1184,16 @@
 											"website": "",
 											"logo": "ethmoji-0x10k-club.png",
 											"csv": ["ethmoji-0x10k-club.csv"]
+										},
+										{
+											"name": "Ethmoji ID99 Club",
+											"slug": "ethmoji-id99-club",
+											"description": "Names with 1-2 Emoji Digits beginning in 🆔.",
+											"twitter": "EthmojiClub",
+											"chat": "https://discord.gg/vv6H4Rjuzm",
+											"website": "",
+											"logo": "ethmoji-id-99-club.png",
+											"csv": ["ethmoji-id-99-club.csv"]
 										}					
 				
    ]

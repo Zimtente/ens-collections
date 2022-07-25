@@ -1194,6 +1194,26 @@
 											"website": "",
 											"logo": "ethmoji-id-99-club.png",
 											"csv": ["ethmoji-id-99-club.csv"]
+										},
+										{
+											"name": "Ethmoji 0x999 Club",
+											"slug": "ethmoji-0x999-club",
+											"description": "Names with 3 Emoji Digits beginning in 0️⃣❎.",
+											"twitter": "EthmojiClub",
+											"chat": "https://discord.gg/vv6H4Rjuzm",
+											"website": "",
+											"logo": "ethmoji-0x999-club.png",
+											"csv": ["ethmoji-0x999-club.csv"]
+										},
+										{
+											"name": "Ethmoji 0x99 Club",
+											"slug": "ethmoji-0x99-club",
+											"description": "Names with 2 Emoji Digits beginning in 0️⃣❎.",
+											"twitter": "EthmojiClub",
+											"chat": "https://discord.gg/vv6H4Rjuzm",
+											"website": "",
+											"logo": "ethmoji-0x99-club.png",
+											"csv": ["ethmoji-0x99-club.csv"]
 										}					
 				
    ]

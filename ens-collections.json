@@ -1224,8 +1224,17 @@
 											"website": "",
 											"logo": "999bubble-club.png",
 											"csv": ["999bubble-club.csv"]
-										}				
-				
+										},
+		{
+			"name": "Aniamls Españoles",
+			"slug": "aniamls-españoles",
+			"description": "Animales en Idioma española.",
+			"twitter": "https://twitter.com/EspanolAnimales",
+			"chat": "",
+			"website": "",
+			"logo": "espanol-animales.png",
+			"csv": ["espanol-animales.csv"]
+		}
    ]
 }
 		

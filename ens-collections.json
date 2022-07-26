@@ -1229,11 +1229,31 @@
 			"name": "Aniamls Españoles",
 			"slug": "aniamls-españoles",
 			"description": "Animales en Idioma española.",
-			"twitter": "https://twitter.com/EspanolAnimales",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
 			"chat": "",
 			"website": "",
 			"logo": "espanol-animales.png",
 			"csv": ["espanol-animales.csv"]
+		},
+		{
+			"name": "Españoles Sustantivo",
+			"slug": "españoles-sustantivo",
+			"description": "Sustantivos españoles.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "espanoles-sustantivo.png",
+			"csv": ["espanoles-sustantivo.csv"]
+		},
+		{
+			"name": "Españoles Verbos",
+			"slug": "españoles-verbos",
+			"description": "verbos españoles.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "espanoles-verbos.png",
+			"csv": ["espanoles-verbos.csv"]
 		}
    ]
 }

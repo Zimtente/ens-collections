@@ -1226,35 +1226,45 @@
 											"csv": ["999bubble-club.csv"]
 										},
 		{
-			"name": "Españoles Animales",
-			"slug": "españoles-animales",
-			"description": "Animales en Idioma española.",
-			"twitter": "https://twitter.com/EnsSpanishW3W",
-			"chat": "",
-			"website": "",
-			"logo": "espanol-animales.png",
-			"csv": ["espanol-animales.csv"]
-		},
-		{
-			"name": "Españoles Sustantivo",
-			"slug": "españoles-sustantivo",
+			"name": "Spanish Nouns",
+			"slug": "spanish-nouns",
 			"description": "Spanish Nouns based off the english nouns list.",
 			"twitter": "https://twitter.com/EnsSpanishW3W",
 			"chat": "",
 			"website": "",
-			"logo": "espanoles-sustantivo.png",
-			"csv": ["espanoles-sustantivo.csv"]
+			"logo": "spanish-nouns.png",
+			"csv": ["spanish-nouns.csv"]
 		},
 		{
-			"name": "Españoles Verbos",
-			"slug": "españoles-verbos",
+			"name": "Spanish Verbs",
+			"slug": "spanish-verbs",
 			"description": "Spanish verbs based off the english verbs list.",
 			"twitter": "https://twitter.com/EnsSpanishW3W",
 			"chat": "",
 			"website": "",
-			"logo": "espanoles-verbos.png",
-			"csv": ["espanoles-verbos.csv"]
-		}
+			"logo": "spanish-verbs.png",
+			"csv": ["spanish-verbs.csv"]
+		},
+		{
+			"name": "English Animals",
+			"slug": "english-animals",
+			"description": "Animals in the English language.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "english-animals.png",
+			"csv": ["english-animals.csv"]
+		},
+		{
+			"name": "Spanish Animals",
+			"slug": "spanish-animals",
+			"description": "Animales en Idioma española.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "spanish-animals.png",
+			"csv": ["spanish-animals.csv"]
+		},
    ]
 }
 		

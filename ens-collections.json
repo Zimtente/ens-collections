@@ -1,6 +1,16 @@
 {
 	"collections": [
 		{
+			"name": "Ethmoji Quads",
+			"slug": "ethmoji-quads",
+			"description": "Names with triple 4x emojis",
+			"twitter": "ethmojiclub",
+			"website": "",
+			"chat": "",
+			"logo": "ethmoji-quads.png",
+			"csv": ["ethmoji-quads.csv"]
+		},
+		{
 			"name": "0x10k Club",
 			"slug": "0x10k-club",
 			"description": "Names with 0x4Digits.",
@@ -1186,5 +1196,95 @@
 									"csv": ["double-flagmoji.csv"]
 										}					
 				
+										{
+											"name": "Ethmoji 0️x10k Club",
+											"slug": "ethmoji-0x10k-club",
+											"description": "Names with 4 Emoji Digits beginning in 0️⃣❎.",
+											"twitter": "EthmojiClub",
+											"chat": "https://discord.gg/vv6H4Rjuzm",
+											"website": "",
+											"logo": "ethmoji-0x10k-club.png",
+											"csv": ["ethmoji-0x10k-club.csv"]
+										},
+										{
+											"name": "Ethmoji ID99 Club",
+											"slug": "ethmoji-id99-club",
+											"description": "Names with 1-2 Emoji Digits beginning in 🆔.",
+											"twitter": "EthmojiClub",
+											"chat": "https://discord.gg/vv6H4Rjuzm",
+											"website": "",
+											"logo": "ethmoji-id-99-club.png",
+											"csv": ["ethmoji-id-99-club.csv"]
+										},
+										{
+											"name": "Ethmoji 0x999 Club",
+											"slug": "ethmoji-0x999-club",
+											"description": "Names with 3 Emoji Digits beginning in 0️⃣❎.",
+											"twitter": "EthmojiClub",
+											"chat": "https://discord.gg/vv6H4Rjuzm",
+											"website": "",
+											"logo": "ethmoji-0x999-club.png",
+											"csv": ["ethmoji-0x999-club.csv"]
+										},
+										{
+											"name": "Ethmoji 0x99 Club",
+											"slug": "ethmoji-0x99-club",
+											"description": "Names with 2 Emoji Digits beginning in 0️⃣❎.",
+											"twitter": "EthmojiClub",
+											"chat": "https://discord.gg/vv6H4Rjuzm",
+											"website": "",
+											"logo": "ethmoji-0x99-club.png",
+											"csv": ["ethmoji-0x99-club.csv"]
+										},	
+										{
+											"name": "999Bubble Club",
+											"slug": "999bubble-club",
+											"description": "000-999 Bubble Digits!.",
+											"twitter": "999BubbleClub",
+											"chat": "",
+											"website": "",
+											"logo": "999bubble-club.png",
+											"csv": ["999bubble-club.csv"]
+										},
+		{
+			"name": "Spanish Nouns",
+			"slug": "spanish-nouns",
+			"description": "Spanish Nouns based off the english nouns list.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "spanish-nouns.png",
+			"csv": ["spanish-nouns.csv"]
+		},
+		{
+			"name": "Spanish Verbs",
+			"slug": "spanish-verbs",
+			"description": "Spanish verbs based off the english verbs list.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "spanish-verbs.png",
+			"csv": ["spanish-verbs.csv"]
+		},
+		{
+			"name": "English Animals",
+			"slug": "english-animals",
+			"description": "Animals in the English language.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "english-animals.png",
+			"csv": ["english-animals.csv"]
+		},
+		{
+			"name": "Spanish Animals",
+			"slug": "spanish-animals",
+			"description": "Animales en Idioma española.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "spanish-animals.png",
+			"csv": ["spanish-animals.csv"]
+		},
    ]
 }

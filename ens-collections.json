@@ -893,6 +893,16 @@
                     "traditional-cn-999-club.csv"
                 ]
             },
+		{
+		  "name": "Vietnamese ENS",
+		  "slug": "vietnamese"
+		  "description": "Vietnamese words and names",
+		  "twitter": "VietnameseENS",
+		  "website": "",
+		  "chat": "",
+		  "logo": "vietnamese.png",
+		  "csv": ["vietnamese.csv"]
+		}
 			{
                 "name": "Persian 999 Club",
                 "slug": "persian-999-club",

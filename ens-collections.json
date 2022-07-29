@@ -1275,6 +1275,18 @@
 			"logo": "spanish-animals.png",
 			"csv": ["spanish-animals.csv"]
 		},
+		{
+			"name": "países",
+			"slug": "países",
+			"description": "Countries in Spanish.",
+			"twitter": "https://twitter.com/paises_ens",
+			"chat": "",
+			"website": "",
+			"logo": "países.png",
+			"csv": ["países.csv"]
+		}
+		
+		
    ]
 }
 		

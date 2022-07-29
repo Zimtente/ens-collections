@@ -1275,6 +1275,16 @@
 			"logo": "spanish-animals.png",
 			"csv": ["spanish-animals.csv"]
 		},
+		{
+			"name": "Anon 1K Club",
+			"slug": "anon-1k-club",
+			"description": "ENS Category of 1000 anons",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "anon-1k-club.png",
+			"csv": ["anon-1k-club.csv"]
+		}
    ]
 }
 		

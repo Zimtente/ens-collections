@@ -1277,13 +1277,13 @@
 		},
 		{
 			"name": "Anon 1K Club",
-			"slug": "anon-1k-club",
+			"slug": "anon1kclub",
 			"description": "ENS Category of 1000 anons",
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "anon-1k-club.png",
-			"csv": ["anon-1k-club.csv"]
+			"logo": "anon1kclub.png",
+			"csv": ["anon1kclub.csv"]
 		}
    ]
 }

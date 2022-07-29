@@ -1275,6 +1275,17 @@
 			"logo": "spanish-animals.png",
 			"csv": ["spanish-animals.csv"]
 		},
+		{
+ 			 "name": "eth999 club",
+			  "slug": "eth999-club"
+ 			 "description": "ethNames with 1,2, and 3 digits. eth-eth9, eth10-eth99, eth100-eth999. it all started with eth.eth #freevirgil.",
+ 			 "twitter": "ethethclub",
+ 			 "chat": "https://discord.gg/QQnczHDw",
+			"website": "https://eth999.wixsite.com/eth-eth-club--eth999",
+			  "logo": "eth999-club.png",
+ 			 "csv": ["eth999-club.csv"]
+		},
+
    ]
 }
 		

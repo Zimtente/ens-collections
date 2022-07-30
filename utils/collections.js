@@ -3,6 +3,8 @@ import { parse } from 'csv-parse/sync';
 import { stringify } from 'csv-stringify/sync';
 import uts46 from 'idna-uts46-hx'
 import { ethers } from 'ethers';
+import core from '@actions/core';
+
 
 // ENS normalization
 function normalize(name) {
@@ -31,7 +33,7 @@ for (const collection of json.collections) {
 
     // check csv file name
     if (csv_file !== intended_csv_file) {
-        csv_file_errors.push([intended_csv_file, csv_file]);
+        csv_file_errors.push([intended_csv_file, csv_file, "CSV FILE DOES NOT MATCH CLUB SLUG"]);
     } else if (!fs.existsSync(csvs_path + csv_file)) {
         csv_file_errors.push([intended_csv_file, csv_file, "CSV FILE DOES NOT EXIST: " + csvs_path + csv_file]);
     }
@@ -56,5 +58,9 @@ if (process.argv[2] !== undefined && actions.includes(process.argv[2])) {
     action = process.argv[2];
 }
 
-console.log(['csv_file_errors', csv_file_errors]);
-console.log(['logo_file_errors', logo_file_errors]);
+core.info(`csv_file_errors: \n ${csv_file_errors.join('\r\n')}`);
+core.info(`logo_file_errors: \n ${logo_file_errors.join('\r\n')}`);
+
+if (csv_file_errors.length > 0 || logo_file_errors.length > 0) {
+  core.setFailed("Verify collections failed");
+}

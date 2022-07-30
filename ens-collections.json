@@ -1275,6 +1275,18 @@
 			"logo": "spanish-animals.png",
 			"csv": ["spanish-animals.csv"]
 		},
+		{
+			"name": "English 999 Club",
+			"slug": "english-999-club",
+			"description": "Names from zerozerozero-nineninenine.",
+			"twitter": "999clubEnglish",
+			"website": "",
+			"chat": "",
+			"logo": "english-999-club.jpg",
+			"csv": [
+				"english-999-club.csv"
+			]
+		},
    ]
 }
 		

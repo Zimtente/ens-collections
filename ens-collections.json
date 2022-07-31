@@ -1,6 +1,16 @@
 {
 	"collections": [
 		{
+			"name": "Ethmoji Quads",
+			"slug": "ethmoji-quads",
+			"description": "Names with triple 4x emojis",
+			"twitter": "ethmojiclub",
+			"website": "",
+			"chat": "",
+			"logo": "ethmoji-quads.png",
+			"csv": ["ethmoji-quads.csv"]
+		},
+		{
 			"name": "0x10k Club",
 			"slug": "0x10k-club",
 			"description": "Names with 0x4Digits.",
@@ -1224,8 +1234,47 @@
 											"website": "",
 											"logo": "999bubble-club.png",
 											"csv": ["999bubble-club.csv"]
-										}				
-				
+										},
+		{
+			"name": "Spanish Nouns",
+			"slug": "spanish-nouns",
+			"description": "Spanish Nouns based off the english nouns list.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "spanish-nouns.png",
+			"csv": ["spanish-nouns.csv"]
+		},
+		{
+			"name": "Spanish Verbs",
+			"slug": "spanish-verbs",
+			"description": "Spanish verbs based off the english verbs list.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "spanish-verbs.png",
+			"csv": ["spanish-verbs.csv"]
+		},
+		{
+			"name": "English Animals",
+			"slug": "english-animals",
+			"description": "Animals in the English language.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "english-animals.png",
+			"csv": ["english-animals.csv"]
+		},
+		{
+			"name": "Spanish Animals",
+			"slug": "spanish-animals",
+			"description": "Animales en Idioma española.",
+			"twitter": "https://twitter.com/EnsSpanishW3W",
+			"chat": "",
+			"website": "",
+			"logo": "spanish-animals.png",
+			"csv": ["spanish-animals.csv"]
+		},
    ]
 }
 		

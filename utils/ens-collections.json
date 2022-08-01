@@ -1,10 +1,21 @@
-{
-  "name": "Nasdaq 3370 club",
-  "slug": "Nasdaq-3370-club"
+[
+  {"name": "Nasdaq 3370 club",
+  "slug": "Nasdaq-3370-club",
   "description": "Nasdaq Stock Tickers, AABA-ZYNE.",
   "twitter": "nasdaq3370",
   "website": "",
   "chat": "",
   "logo": "Nasdaq-3370-club.png",
-  "csv": ["Nasdaq-3370-club.csv"]
-}
+  "csv": ["Nasdaq-3370-club.csv"]},
+  {
+    "name": "Hamro Alien club",
+    "slug": "hamro-alien-club",
+    "description": "Hi! we are aliens",
+    "twitter": "",
+    "website": "",
+    "chat": "",
+    "logo": "hamro-alien-club.png",
+    "csv": ["hamro-alien-club.csv"]
+  }
+]
+

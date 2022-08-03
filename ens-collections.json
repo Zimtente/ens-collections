@@ -969,7 +969,7 @@
 				"name": "999 Japan Official",
 				"slug": "999-japan-official",
 				"description": "Japanese Daiji Numbers 零零零-玖玖玖",
-				"twitter": "999SlayerClub",
+				"twitter": "999JPclub",
 				"website": "",
 				"chat": "",
 				"logo": "999-japan-official.png",
@@ -1278,8 +1278,26 @@
    ]
 }
 		
-				
+{
+			"name": "Surnames-Top3000-Globally",
+			"slug": "Surnames-Top3000-Globally",
+			"description": "Top 3000 surnames have gloabl incidences of more than 182,000 and above, as per forebears.io",
+			"twitter": "https://twitter.com/ensnameclub",
+			"chat": "discord.gg/RJwf4ncQ2h",
+			"website": "",
+			"logo": "Surnames-Top3000-Globally.png",
+			"csv": ["Surnames-Top3000-Globally.csv"]
+		}				
    
-
+{
+			"name": "Forenames-Top3000-Globally",
+			"slug": "Forenames-Top3000-Globally",
+			"description": "Top 3000 forenames have gloabl incidences of more than 340,000 and above, as per forebears.io",
+			"twitter": "https://twitter.com/ensnameclub",
+			"chat": "discord.gg/RJwf4ncQ2h",
+			"website": "",
+			"logo": "Forenames-Top3000-Globally.png",
+			"csv": ["Forenames-Top3000-Globally.csv"]
+		}
 
 

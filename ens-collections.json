@@ -1275,6 +1275,26 @@
 			"logo": "spanish-animals.png",
 			"csv": ["spanish-animals.csv"]
 		},
+		{
+			"name": "Quadruple Emoji Club",
+			"slug": "quadruple-emoji-club",
+			"description": "Names with True Quadruple (4x) Emojis.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "",
+			"csv": ["quadruple-emoji-club.csv"]
+		},
+		{
+			"name": "Quintuple Emoji Club",
+			"slug": "quintuple-emoji-club",
+			"description": "Names with True Quintuple (5x) Emojis.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "",
+			"csv": ["quintuple-emoji-club.csv"]
+		}
    ]
 }
 		

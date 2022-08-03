@@ -1275,9 +1275,16 @@
 			"logo": "spanish-animals.png",
 			"csv": ["spanish-animals.csv"]
 		},
-   ]
-}
-		
+ 		{
+		  "name": "Muhammad-name-club",
+		  "slug": "Muhammad-name-club"
+		  "description": "This colelction contains the names Muhammad (of root Ḥ-M-D.) and its varaiations in multiple languages..",
+		  "twitter": "https://twitter.com/EnsNameClub",
+		  "website": 
+		  "chat": "discord.gg/RJwf4ncQ2h",
+		  "logo": "Muhammad-name-club.png",
+		  "csv": ["Muhammad-name-club.csv"]
+		},
 				
    
 

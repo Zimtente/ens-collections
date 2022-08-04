@@ -1314,6 +1314,16 @@
 			"website": "",
 			"logo": "spanish-months-days.png",
 			"csv": ["spanish-months-days.csv"]
+		},
+		{
+			"name": "English Goddesses",
+			"slug": "english-goddesses",
+			"description": "",
+			"twitter": "https://twitter.com/BTCbuddah",
+			"chat": "",
+			"website": "",
+			"logo": "english-goddesses.png",
+			"csv": ["english-goddesses.csv"]
 		}
    ]
 }

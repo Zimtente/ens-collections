@@ -1334,6 +1334,16 @@
 			"website": "",
 			"logo": "english-dinosaurs.png",
 			"csv": ["english-dinosaurs.csv"]
+		},
+		{
+			"name": "Spanish Dinosaurs",
+			"slug": "spanish-dinosaurs",
+			"description": "",
+			"twitter": "https://twitter.com/BTCbuddah",
+			"chat": "",
+			"website": "",
+			"logo": "spanish-dinosaurs.png",
+			"csv": ["spanish-dinosaurs.csv"]
 		}
    ]
 }

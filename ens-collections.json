@@ -1275,6 +1275,16 @@
 			"logo": "spanish-animals.png",
 			"csv": ["spanish-animals.csv"]
 		},
+		{
+			"name": "Male Firstname Arabic club",
+			"slug": "male-firstname-arabic-club"
+			"description": "Arabic Male First Names ",
+			"twitter": " @ArabicMfn ",
+			"website": "NA",
+			"chat": "NA",
+			"logo": "male-firstname-arabic-club.png",
+			"csv": ["male-firstname-arabic-club.csv"]
+		  }
    ]
 }
 		

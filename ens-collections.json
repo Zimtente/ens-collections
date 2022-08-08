@@ -1284,6 +1284,16 @@
 			"chat": "NA",
 			"logo": "male-firstname-arabic-club.png",
 			"csv": ["male-firstname-arabic-club.csv"]
+		  },
+		  {
+			"name": "10k Club Dates DDMM",
+			"slug": "10k-club-dates-ddmm"
+			"description": "Dates in the DDMM format from the 10kClub collection ",
+			"twitter": " @10kClubDates",
+			"website": "NA",
+			"chat": "NA",
+			"logo": "NA",
+			"csv": ["10k-club-dates-ddmm.csv"]
 		  }
    ]
 }

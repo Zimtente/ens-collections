@@ -1117,14 +1117,14 @@
     },
     {
       "name": "24ClockTimes",
-      "slug": "24-Clock-Times",
+      "slug": "24-clock-times",
       "description": "Collection with 1am-12am and 1pm-12pm",
       "twitter": "24ClockTimes",
       "website": "",
       "chat": "https://discord.gg/eWEdvcT5SS",
-      "logo": "24-Clock-Times.png",
+      "logo": "24-clock-times.png",
       "csv": [
-        "24-Clock-Times.csv"
+        "24-clock-times.csv"
       ]
     },
     {

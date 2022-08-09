@@ -703,7 +703,7 @@
       "twitter": "",
       "chat": "",
       "website": "",
-      "logo": "naruto-names.jpg",
+      "logo": "naruto-names.png",
       "csv": [
         "naruto-names.csv"
       ]
@@ -847,7 +847,7 @@
       "twitter": "nasdaq_ensindex",
       "chat": "https://discord.gg/5J9xE2X7XH",
       "website": "",
-      "logo": "Nasdaq-ens-index.png",
+      "logo": "nasdaq-ens-index.png",
       "csv": [
         "nasdaq-ens-index.csv"
       ]
@@ -859,7 +859,7 @@
       "twitter": "Club360o",
       "website": "",
       "chat": "https://discord.gg/p3mVvzePuB",
-      "logo": "360-degrees-club.jpg",
+      "logo": "360-degrees-club.png",
       "csv": [
         "360-degrees-club.csv"
       ]
@@ -878,14 +878,14 @@
     },
     {
       "name": "3 Digits Hebrew Club",
-      "slug": "3digits-hebrew-club",
+      "slug": "3-digits-hebrew-club",
       "description": "729 Juxtaposed Numbers Written in Hebrew.",
       "twitter": "3DigitsHebrew",
       "website": "-",
       "chat": "https://discord.com/invite/GrEDQNKt4M",
-      "logo": "3digits-hebrew-club.jpg",
+      "logo": "3-digits-hebrew-club.png",
       "csv": [
-        "3digits-hebrew-club.csv"
+        "3-digits-hebrew-club.csv"
       ]
     },
     {
@@ -922,18 +922,6 @@
       "logo": "hindi-999-club.png",
       "csv": [
         "hindi-999-club.csv"
-      ]
-    },
-    {
-      "name": "Fraction Club",
-      "slug": "fraction-club",
-      "description": "Fractional. Fantastic.",
-      "twitter": "",
-      "website": "",
-      "chat": "",
-      "logo": "fraction-club.png",
-      "csv": [
-        "fraction-club.csv"
       ]
     },
     {
@@ -1033,18 +1021,6 @@
       ]
     },
     {
-      "name": "MMDD Club",
-      "slug": "mm-dd-club",
-      "description": "366 MMDD 4-digit ENS",
-      "twitter": "mmddclub",
-      "website": "",
-      "chat": "",
-      "logo": "mm-dd-club.png",
-      "csv": [
-        "mm-dd-club.csv"
-      ]
-    },
-    {
       "name": "Jurassic ENS",
       "slug": "jurassic-ens",
       "description": "Jurassic Dinosaur ENS names",
@@ -1134,7 +1110,7 @@
       "description": "1January.eth – 31December.eth",
       "twitter": "@EnsFullDateClub",
       "chat": "https://discord.gg/FnYyqDkmRX",
-      "logo": "ens-full-date-club.png ",
+      "logo": "ens-full-date-club.png",
       "csv": [
         "ens-full-date-club.csv"
       ]

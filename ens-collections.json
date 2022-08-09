@@ -877,6 +877,18 @@
       ]
     },
     {
+      "name": "999 CN Club",
+      "slug": "999-cn-club",
+      "description": "零零零 - 九九九 (western simplified)",
+      "twitter": "999cndigit",
+      "website": "",
+      "chat": "https://discord.gg/EGQy6zmR",
+      "logo": "999-cn-club.png",
+      "csv": [
+        "999-cn-club.csv"
+      ]
+    },
+    {
       "name": "3 Digits Hebrew Club",
       "slug": "3-digits-hebrew-club",
       "description": "729 Juxtaposed Numbers Written in Hebrew.",
@@ -1424,6 +1436,30 @@
       "logo": "male-firstname-arabic-club.png",
       "csv": [
         "male-firstname-arabic-club.csv"
+      ]
+    },
+    {
+      "name": "Ethmoji 10k Club",
+      "slug": "ethmoji-10k-club",
+      "description": "Names with 4 Emoji Digits.",
+      "twitter": " @ethmojiclub",
+      "website": "",
+      "chat": "https://discord.gg/vv6H4Rjuzm",
+      "logo": "ethmoji-10k-club.png",
+      "csv": [
+        "ethmoji-10k-club.csv"
+      ]
+    },
+    {
+      "name": "Surnames",
+      "slug": "surnames",
+      "description": "Top surnames.",
+      "twitter": " ",
+      "website": "",
+      "chat": "",
+      "logo": "surnames.png",
+      "csv": [
+        "surnames.csv"
       ]
     }
   ]

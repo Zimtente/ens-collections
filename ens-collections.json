@@ -1462,6 +1462,30 @@
         "surnames.csv"
       ]
     },
+    {
+      "name": "Pre-Punk 1k",
+      "slug": "pre-punk-1k",
+      "description": "The first 1,000 ENS names ever registered, predating CryptoPunks in May of 2017.",
+      "twitter": "prepunkclub",
+      "website": "https://pre-punk.club/",
+      "chat": "https://discord.gg/XSudfGtVCx",
+      "logo": "pre-punk-1k.png",
+      "csv": [
+        "pre-punk-1k.csv"
+      ]
+    },
+    {
+      "name": "Pre-Punk 10k",
+      "slug": "pre-punk-10k",
+      "description": "The first 10,000 ENS names ever registered, predating CryptoPunks in May of 2017.",
+      "twitter": "prepunkclub",
+      "website": "https://pre-punk.club/",
+      "chat": "https://discord.gg/XSudfGtVCx",
+      "logo": "pre-punk-10k.png",
+      "csv": [
+        "pre-punk-10k.csv"
+      ]
+    },
 		{
 			"name": "Spanish Adjectives",
 			"slug": "spanish-adjectives",

@@ -1,6 +1,18 @@
 {
   "collections": [
     {
+      "name": "BAYC Holders Club",
+      "slug": "bayc-holders-club",
+      "description": "Names for bayc nfts",
+      "twitter":"",
+      "website":"",
+      "chat":"",
+      "logo":"bayc-holders-club.png",
+      "csv": [
+        "bayc-holders-club.csv"
+      ]
+    },
+    {
       "name": "Ethmoji Quads",
       "slug": "ethmoji-quads",
       "description": "Names with triple 4x emojis",

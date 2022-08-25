@@ -1277,7 +1277,7 @@
 		},
 		{
 			"name": "Male Firstname Arabic club",
-			"slug": "male-firstname-arabic-club"
+			"slug": "male-firstname-arabic-club",
 			"description": "Arabic Male First Names ",
 			"twitter": " @ArabicMfn ",
 			"website": "NA",
@@ -1287,7 +1287,7 @@
 		  },
 		  {
 			"name": "10k Club Dates DDMM",
-			"slug": "10k-club-dates-ddmm"
+			"slug": "10k-club-dates-ddmm",
 			"description": "Dates in the DDMM format from the 10kClub collection ",
 			"twitter": " @10kClubDates",
 			"website": "NA",
@@ -1295,6 +1295,7 @@
 			"logo": "10k-club-dates-ddmm.png",
 			"csv": ["10k-club-dates-ddmm.csv"]
 		  }
+    
    ]
 }
 		

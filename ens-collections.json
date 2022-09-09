@@ -1485,6 +1485,54 @@
       "csv": [
         "pre-punk-10k.csv"
       ]
+    },
+    {
+      "name": "5 Letter Palindromes",
+      "slug": "5-letter-palindromes",
+      "description": "Palindromes with 5 letters.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "5-letter-palindromes.png",
+      "csv": [
+        "5-letter-palindromes.csv"
+      ]
+    },
+    {
+      "name": "4 Letter Palindromes",
+      "slug": "4-letter-palindromes",
+      "description": "Palindromes with 4 letters.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "4-letter-palindromes.png",
+      "csv": [
+        "4-letter-palindromes.csv"
+      ]
+    },
+    {
+      "name": "6 Letter Palindromes",
+      "slug": "6-letter-palindromes",
+      "description": "Palindromes with 6 letters.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "6-letter-palindromes.png",
+      "csv": [
+        "6-letter-palindromes.csv"
+      ]
+    },
+    {
+      "name": "Golden Single Ethmoji",
+      "slug": "golden-single-ethmoji",
+      "description": "Single emojis in the purest form.",
+      "twitter": "EthmojiClub",
+      "chat": "discord.gg/ethmoji",
+      "website": "",
+      "logo": "golden-single-ethmoji.png",
+      "csv": [
+        "golden-single-ethmoji.csv"
+      ]
     }
   ]
 }

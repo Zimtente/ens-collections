@@ -1485,6 +1485,18 @@
       "csv": [
         "pre-punk-10k.csv"
       ]
+    },
+    {
+      "name": "Pokemon Moves",
+      "slug": "pokemon-moves",
+      "description": "Names of Pokemon moves.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "pokemon-moves.png",
+      "csv": [
+        "pokemon-moves.csv"
+      ]
     }
   ]
 }

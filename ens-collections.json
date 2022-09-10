@@ -1533,6 +1533,17 @@
       "csv": [
         "golden-single-ethmoji.csv"
       ]
+    },
+    {
+      "name": "7 Digits Palindromes",
+      "slug": "7-Digits-palindromes",
+      "description": "Palindromes with 7 digits.",
+      "twitter": "7DPalindromes",
+      "chat": "",
+      "website": "",
+      "logo": "7-Digits-Palindromes.png",
+      "csv": [
+        "7-Digits-Palindromes.csv"
+      ]
     }
-  ]
-}
+    

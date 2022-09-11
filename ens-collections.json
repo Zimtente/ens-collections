@@ -1485,6 +1485,42 @@
       "csv": [
         "pre-punk-10k.csv"
       ]
+    },
+    {
+      "name": "_99 Club",
+      "slug": "_99-club"
+      "description": "Underscore names with 2 digits, 00-99.",
+      "twitter": "_99ClubENS",
+      "website": "https://linktr.ee/underscore_ens",
+      "chat": "https://discord.gg/W5YP3UKSkW",
+      "logo": "_99-club.png",
+      "csv": [
+        "_99-club.csv"
+	  ]
+    },
+    {
+      "name": "_999 Club",
+      "slug": "_999-club"
+      "description": "Underscore names with 3 digits, 000-999.",
+      "twitter": "_999clubENS",
+      "website": "https://linktr.ee/underscore_ens",
+      "chat": "https://discord.gg/W5YP3UKSkW",
+      "logo": "_999-club.png",
+      "csv": [
+        "_999-club.csv"
+	  ]
+    },
+    {
+      "name": "_10k Club",
+      "slug": "_10k-club"
+      "description": "Underscore names with 4 digits, 0000-9999.",
+      "twitter": "_10kClub",
+      "website": "https://linktr.ee/underscore_ens",
+      "chat": "https://discord.gg/W5YP3UKSkW",
+      "logo": "_10k-club.png",
+      "csv": [
+        "_10k-club.csv"
+	  ]
     }
   ]
 }

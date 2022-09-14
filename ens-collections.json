@@ -1523,15 +1523,15 @@
       ]
     },
     {
-      "name": "Golden Single Ethmoji",
-      "slug": "golden-single-ethmoji",
-      "description": "Single emojis in the purest form.",
+      "name": "Base Single Emojis",
+      "slug": "base-single-ethmoji",
+      "description": "Gold & Unique Single Emojis.",
       "twitter": "EthmojiClub",
       "chat": "discord.gg/ethmoji",
       "website": "",
-      "logo": "golden-single-ethmoji.png",
+      "logo": "base-single-ethmoji.png",
       "csv": [
-        "golden-single-ethmoji.csv"
+        "base-single-ethmoji.csv"
       ]
     }
   ]

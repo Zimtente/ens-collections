@@ -1533,8 +1533,8 @@
       "csv": [
         "base-single-ethmoji.csv"
       ]
-    }
-        {
+    },
+    {
       "name": "$99 Club",
       "slug": "$99-club",
       "description": "Cashtag names with 2 digits, $00-$99.",

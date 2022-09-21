@@ -1534,5 +1534,41 @@
         "base-single-ethmoji.csv"
       ]
     }
+        {
+      "name": "$99 Club",
+      "slug": "$99-club",
+      "description": "Cashtag names with 2 digits, $00-$99.",
+      "twitter": "99cashclub",
+      "website": "https://linktr.ee/enscash",
+      "chat": "https://discord.gg/4rgDEaZzzX",
+      "logo": "$99-club.png",
+      "csv": [
+        "$99-club.csv"
+	  ]
+    },
+    {
+      "name": "$999 Club",
+      "slug": "$999-club",
+      "description": "Cashtag names with 3 digits, $000-$999.",
+      "twitter": "999cashclub",
+      "website": "https://linktr.ee/enscash",
+      "chat": "https://discord.gg/4rgDEaZzzX",
+      "logo": "$999-club.png",
+      "csv": [
+        "$999-club.csv"
+	  ]
+    },
+    {
+      "name": "$10k Club",
+      "slug": "$10k-club",
+      "description": "Cashtag names with 4 digits, $0000-$9999.",
+      "twitter": "10kcashclub",
+      "website": "https://linktr.ee/enscash",
+      "chat": "https://discord.gg/4rgDEaZzzX",
+      "logo": "$10k-club.png",
+      "csv": [
+        "$10k-club.csv"
+	  ]
+    }
   ]
 }

@@ -1544,7 +1544,7 @@
       "logo": "$99-club.png",
       "csv": [
         "$99-club.csv"
-	  ]
+      ]
     },
     {
       "name": "$999 Club",
@@ -1556,7 +1556,7 @@
       "logo": "$999-club.png",
       "csv": [
         "$999-club.csv"
-	  ]
+      ]
     },
     {
       "name": "$10k Club",
@@ -1568,7 +1568,7 @@
       "logo": "$10k-club.png",
       "csv": [
         "$10k-club.csv"
-	  ]
-    },
+      ]
+    }
   ]
 }

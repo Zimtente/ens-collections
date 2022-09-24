@@ -1533,6 +1533,21 @@
       "csv": [
         "base-single-ethmoji.csv"
       ]
+    },
+    {
+      "name": "Ancient Tamil 999",
+      "slug": "ancient-tamil-999",
+      "description": "999 digits of the Oldest living language on earth ~ ancient Tamizh consists of 3 ,4 5 chars.",
+      "twitter": "Tamil999digits",
+      "chat": "https://discord.com/invite/tXR2zY2a",
+      "website": "",
+      "logo": "AncientTamil-999.png",
+      "csv": [
+        "AncientTamil-999.csv"
+      ]
     }
+
+
+
   ]
 }

@@ -1533,6 +1533,18 @@
       "csv": [
         "base-single-ethmoji.csv"
       ]
+    },
+    {
+      "name": "Triple Face Ethmoji",
+      "slug": "triple-face-ethmoji",
+      "description": "Names with three of the same Smiley Face Emoji.",
+      "twitter": "EthmojiClub",
+      "chat": "discord.gg/ethmoji",
+      "website": "",
+      "logo": "triple-face-ethmoji.png",
+      "csv": [
+        "triple-face-ethmoji.csv"
+      ]
     }
   ]
 }

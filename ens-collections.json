@@ -1,6 +1,16 @@
 {
   "collections": [
     {
+      "name": "Day Month Club",
+      "slug": "day-month-club"
+      "description": "1january.eth - 31december.eth",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "day-month-club.png",
+      "csv": ["day-month-club.csv"]
+    },
+    {
       "name": "Ethmoji Quads",
       "slug": "ethmoji-quads",
       "description": "Names with triple 4x emojis",

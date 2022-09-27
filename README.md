@@ -1,18 +1,17 @@
-
 # ENS Collections
 
-ENS Collections are categories of ENS names based on specific patterns or predefined lists. This repository is an effort towards bringing all collections together into one place and standardizing their definition in order to facilitate consistent integrations across platforms and marketplaces.
+ENS Collections are categories of ENS names based on specific patterns or predefined lists. This repository is an effort toward bringing all collections together into one place and standardizing their definition to facilitate consistent integrations across platforms and marketplaces.
 
 This repo is maintained by: [@zimtente](https://twitter.com/zimtente) ([ENS.Vision](https://ens.vision)) and [@aoxborrow](https://twitter.com/aoxborrow) ([ENS.Tools](https://ens.tools))
 
-
 ### Metadata
+
 The metadata for all collections in `ens-collections.json`:
 
 - **`name`: collection name, e.g. "10K Club"**
-- **`slug`: short, lowercase, url-friendly abbreviation (use hyphens instead of spaces), e.g. "10k-club"**
+- **`slug`: short, lowercase, URL-friendly abbreviation (use hyphens instead of spaces), e.g. "10k-club"**
 - **`description`: one sentence description**
-- `twitter`: twitter username 
+- `twitter`: twitter username
 - `website`: full website url
 - `chat`: link for group chat, e.g. discord/telegram
 - `logo`: logo file, use slug for filename, e.g. "three-letters.png"
@@ -20,8 +19,8 @@ The metadata for all collections in `ens-collections.json`:
 
 <sub>**bold** = required field.</sub>
 
-
 ### CSV files
+
 The .csv should include all names in the collection in ascending alphanumeric order. There are two columns: name and token ID. The names should not include the .eth extension and should be normalized using [standard ENS normalization](https://docs.ens.domains/contract-api-reference/name-processing#normalising-names). New collections can be submitted without token IDs, or use the provided script to generate them.
 
 ```
@@ -31,26 +30,26 @@ ens,4203364792183672070898607943702366469543635281583200976698849652885530112457
 0001,38764329101403256878217503524140705778209985981144907919668889447405219871633
 ```
 
- 
 &nbsp;
 &nbsp;
-  
 
 # Contributing
 
 Please create issues or pull requests to contribute to this repo.
 
 ### Proposing a New Collection
+
 Here is a quick checklist when submitting a new collection:
 
-- The collection must be significantly different from any existing collection. 
+- The collection must be significantly different from any existing collection.
 - Provide all the required metadata fields (see above).
 - CSVs should be properly formatted and use the slug for filename. New collections can be submitted without token IDs.
-- (Optional) Logo files should be PNG with square dimensions that work with a circular crop (like Twitter). Logo files should be at least 500x500px, and no more than 1200x1200px. Logo files should use the slug for filename.
-
+- (Optional) Logo files should be PNG with square dimensions that work with a circular crop (like Twitter). Logo files should be at least 500x500px, and no more than 1200x1200px. Logo files should use the slug for the filename.
 
 ### Example Collection Proposal:
+
 **Metadata content:**
+
 ```
 {
   "name": "10k Club",
@@ -65,6 +64,7 @@ Here is a quick checklist when submitting a new collection:
 ```
 
 **.CSV content:**
+
 ```
 name,token
 0000,105307555225596823162770746791279321249474694422393704130067750948958748271609
@@ -77,16 +77,13 @@ name,token
 
 To modify an existing collection, please create an issue or pull request and provide:
 
-- Explanation why the item should be added/removed from a collection
+- Explanation of why the item should be added/removed from a collection
 - Collection Name
 - Name of the item
 - (Optional) Token ID of the item
 
-
-
 &nbsp;
 &nbsp;
-
 
 # Utils
 
@@ -100,12 +97,11 @@ This takes any CSV file where the first column is the ENS name. The name will be
 
 `npm run get-tokens utils/example-names.csv outfile.csv`
 
-
 **How to convert a name into a token ID:**  
 https://docs.ens.domains/dapp-developer-guide/ens-as-nft
 
 ### Verify All Lists and Logos
 
-This verifies that all CSV files and logo files that are specified in `ens-collections.json` exist. 
+This verifies that all CSV files and logo files that are specified in `ens-collections.json` exist.
 
 `npm run verify-collections`

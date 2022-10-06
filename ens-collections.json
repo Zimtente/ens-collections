@@ -1509,6 +1509,18 @@
       "csv": [
         "base-single-ethmoji.csv"
       ]
+    },
+    {
+      "name": "Chinese 10K Club Official",
+      "slug": "chinese-10k-club-official",
+      "description": "Chinese 10K Club Official",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "",
+      "csv": [
+        "chinese-10k-club-official"
+      ]
     }
   ]
 }

@@ -1545,26 +1545,6 @@
 			"csv": ["spanish-adjectives.csv"]
 		},
 		{
-			"name": "Spanish Female First Names",
-			"slug": "spanish-female-firstnames",
-			"description": "Primero nombres femeninos españoles.",
-			"twitter": "https://twitter.com/EnsSpanishW3W",
-			"chat": "",
-			"website": "",
-			"logo": "spanish-female-firstnames.png",
-			"csv": ["spanish-female-firstnames.csv"]
-		},
-		{
-			"name": "Spanish Male First Names",
-			"slug": "spanish-male-firstnames",
-			"description": "Primero nombres masculino españoles.",
-			"twitter": "https://twitter.com/EnsSpanishW3W",
-			"chat": "",
-			"website": "",
-			"logo": "spanish-male-firstnames.png",
-			"csv": ["spanish-male-firstnames.csv"]
-		},
-		{
 			"name": "Spanish Months and Days",
 			"slug": "spanish-months-days",
 			"description": "Meses y días españoles",

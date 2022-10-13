@@ -1259,15 +1259,15 @@
       ]
     },
     {
-      "name": "Ordinal Club",
-      "slug": "ordinal-club",
+      "name": "999th Club",
+      "slug": "999th-club",
       "description": "Official Ordinal Club of ENS names 1st.eth - 999th.eth",
-      "twitter": "OrdinalClub",
+      "twitter": "@999thClub",
       "chat": "https://discord.gg/HkWudGJr6m",
       "website": "",
-      "logo": "ordinal-club.png",
+      "logo": "999th-club.png",
       "csv": [
-        "ordinal-club.csv"
+        "999th-club.csv"
       ]
     },
     {
@@ -1486,7 +1486,55 @@
         "pre-punk-10k.csv"
       ]
     },
-		{
+    {
+      "name": "5 Letter Palindromes",
+      "slug": "5-letter-palindromes",
+      "description": "Palindromes with 5 letters.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "5-letter-palindromes.png",
+      "csv": [
+        "5-letter-palindromes.csv"
+      ]
+    },
+    {
+      "name": "4 Letter Palindromes",
+      "slug": "4-letter-palindromes",
+      "description": "Palindromes with 4 letters.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "4-letter-palindromes.png",
+      "csv": [
+        "4-letter-palindromes.csv"
+      ]
+    },
+    {
+      "name": "6 Letter Palindromes",
+      "slug": "6-letter-palindromes",
+      "description": "Palindromes with 6 letters.",
+      "twitter": "",
+      "chat": "",
+      "website": "",
+      "logo": "6-letter-palindromes.png",
+      "csv": [
+        "6-letter-palindromes.csv"
+      ]
+    },
+    {
+      "name": "Base Single Emojis",
+      "slug": "base-single-ethmoji",
+      "description": "Gold & Unique Single Emojis.",
+      "twitter": "EthmojiClub",
+      "chat": "discord.gg/ethmoji",
+      "website": "",
+      "logo": "base-single-ethmoji.png",
+      "csv": [
+        "base-single-ethmoji.csv"
+      ]
+    },
+    {
 			"name": "Spanish Adjectives",
 			"slug": "spanish-adjectives",
 			"description": "Adjetivos españoles.",

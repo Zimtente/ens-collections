@@ -1539,9 +1539,9 @@
 		{
 			"name": "Negative 999 Club",
 			"slug": "negative-999-club",
-			"description": "Negative 999 Club.",
-			"twitter": "",
-			"chat": "",
+			"description": "Negative Names with 3 digits: -000 to -999",
+			"twitter": "negative999club",
+			"chat": "https://discord.com/invite/QuYJupxU6P",
 			"website": "",
 			"logo": "negative-999-club.png",
 			"csv": [
@@ -1551,9 +1551,9 @@
 		{
 			"name": "Negative 10k Club",
 			"slug": "negative-10k-club",
-			"description": "Negative 10k Club.",
-			"twitter": "",
-			"chat": "",
+			"description": "Negative Names with 4 digits: -0000 to -9999",
+			"twitter": "negative10kclub",
+			"chat": "https://discord.com/invite/QuYJupxU6P",
 			"website": "",
 			"logo": "negative-10k-club.png",
 			"csv": [
@@ -1563,9 +1563,9 @@
 		{
 			"name": "Negative 99 Club",
 			"slug": "negative-99-club",
-			"description": "Negative 99 Club.",
-			"twitter": "",
-			"chat": "",
+			"description": "Negative Names with 2 digits: -00 to -99",
+			"twitter": "negative999club",
+			"chat": "https://discord.com/invite/QuYJupxU6P",
 			"website": "",
 			"logo": "negative-99-club.png",
 			"csv": [

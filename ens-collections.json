@@ -327,27 +327,27 @@
 			]
 		},
 		{
-			"name": "Capital Cities",
-			"slug": "capital-cities",
-			"description": "Country Capital City Names.",
+			"name": "UN Capital Cities",
+			"slug": "un-capital-cities",
+			"description": "Official UN Country Members Capital Cities.",
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "capital-cities.png",
+			"logo": "un-capital-cities.png",
 			"csv": [
-				"capital-cities.csv"
+				"un-capital-cities.csv"
 			]
 		},
 		{
-			"name": "Countries",
-			"slug": "countries",
-			"description": "Country names.",
+			"name": "UN Countries",
+			"slug": "un-countries",
+			"description": "Official UN Countries.",
 			"twitter": "",
 			"chat": "",
 			"website": "",
-			"logo": "countries.png",
+			"logo": "un-countries.png",
 			"csv": [
-				"countries.csv"
+				"un-countries.csv"
 			]
 		},
 		{
@@ -363,15 +363,15 @@
 			]
 		},
 		{
-			"name": "Country Codes",
-			"slug": "country-codes",
-			"description": "3 Letter Country Codes.",
+			"name": "UN Country Codes",
+			"slug": "un-country-codes",
+			"description": "Official UN 3 Letter Country Codes.",
 			"twitter": "",
 			"chat": "",
 			"website": "https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3",
-			"logo": "country-codes.png",
+			"logo": "un-country-codes.png",
 			"csv": [
-				"country-codes.csv"
+				"un-country-codes.csv"
 			]
 		},
 		{

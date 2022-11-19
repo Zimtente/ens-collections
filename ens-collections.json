@@ -329,10 +329,10 @@
 		{
 			"name": "UN Capital Cities",
 			"slug": "un-capital-cities",
-			"description": "Official UN Country Members Capital Cities.",
+			"description": "Official UN Member Countries Capital Cities.",
 			"twitter": "",
 			"chat": "",
-			"website": "",
+			"website": "https://www.un.org/en/about-us/member-states",
 			"logo": "un-capital-cities.png",
 			"csv": [
 				"un-capital-cities.csv"
@@ -341,10 +341,10 @@
 		{
 			"name": "UN Countries",
 			"slug": "un-countries",
-			"description": "Official UN Countries.",
+			"description": "Official UN Member Countries.",
 			"twitter": "",
 			"chat": "",
-			"website": "",
+			"website": "https://www.un.org/en/about-us/member-states",
 			"logo": "un-countries.png",
 			"csv": [
 				"un-countries.csv"
@@ -365,10 +365,10 @@
 		{
 			"name": "UN Country Codes",
 			"slug": "un-country-codes",
-			"description": "Official UN 3 Letter Country Codes.",
+			"description": "Official UN 3 Letter ISO Country Codes.",
 			"twitter": "",
 			"chat": "",
-			"website": "https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3",
+			"website": "https://unstats.un.org/unsd/methodology/m49/",
 			"logo": "un-country-codes.png",
 			"csv": [
 				"un-country-codes.csv"

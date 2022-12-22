@@ -1,8 +1,8 @@
-name: Pokémon
-slug: Pokemon
-description: The Generation 9 Official pokedex list
-twitter: @TrainerDAO
-website: pokemontrainer.xyz
-chat: discord.gg/nfWYw9mctW
-logo: same as prior
-csv: "gen9_pokemon_ids.csv"
+"name": "Pokémon"
+"slug": "Pokemon"
+"description": "The Generation 9 Official Pokedex list"
+"twitter": "@TrainerDAO"
+"website": "pokemontrainer.xyz"
+"chat": "discord.gg/nfWYw9mctW"
+"logo": same as prior
+"csv": "gen9_pokemon_ids.csv"

@@ -723,15 +723,39 @@
 			]
 		},
 		{
-			"name": "Gen1-Pokemon",
-			"slug": "gen1-pokemon",
-			"description": "Pokemon from Gen1 numbers 1-151.",
+			"name": "Pokemon Gen 1",
+			"slug": "pokemon-gen-1",
+			"description": "Gen-1 Pokemon.[1-151]",
 			"twitter": "https://twitter.com/TrainerDAO",
 			"website": "N/A",
 			"chat": "https://discord.com/invite/nfWYw9mctW",
-			"logo": "gen1-pokemon.png",
+			"logo": "pokemon-gen-1.png",
 			"csv": [
-				"gen1-pokemon.csv"
+				"pokemon-gen-1.csv"
+			]
+		},
+		{
+			"name": "Pokemon Gen 2",
+			"slug": "pokemon-gen-2",
+			"description": "Gen-2 Pokemon. [152-251]",
+			"twitter": "https://twitter.com/TrainerDAO",
+			"website": "N/A",
+			"chat": "https://discord.com/invite/nfWYw9mctW",
+			"logo": "pokemon-gen-2.png",
+			"csv": [
+				"pokemon-gen-2.csv"
+			]
+		},
+		{
+			"name": "Pokemon Gen 3",
+			"slug": "pokemon-gen-3",
+			"description": "Gen-3 Pokemon. [252-386]",
+			"twitter": "https://twitter.com/TrainerDAO",
+			"website": "N/A",
+			"chat": "https://discord.com/invite/nfWYw9mctW",
+			"logo": "pokemon-gen-3.png",
+			"csv": [
+				"pokemon-gen-3.csv"
 			]
 		},
 		{

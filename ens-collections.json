@@ -1655,6 +1655,30 @@
 			"csv": [
 				"pre-punk-digits.csv"
 			]
+		},
+		{
+			"name": "1K Forebears Surnames",
+			"slug": "1k-forebears-surnames",
+			"description": "1K Forebears.io Surnames (excl. names with only 2 character)",
+			"twitter": "",
+			"website": "https://forebears.io/earth/surnames",
+			"chat": "",
+			"logo": "1k-forebears-surnames.png",
+			"csv": [
+				"1k-forebears-surnames.csv"
+			]
+		},
+		{
+			"name": "1K Forebears First Names",
+			"slug": "1k-forebears-first-names",
+			"description": "1K Forebears.io female and male first names (excl. names with only 2 character)",
+			"twitter": "",
+			"website": "https://forebears.io/earth/forenames",
+			"chat": "",
+			"logo": "1k-forebears-first-names.png",
+			"csv": [
+				"1k-forebears-first-names.csv"
+			]
 		}
 	]
 }

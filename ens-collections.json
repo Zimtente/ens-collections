@@ -667,7 +667,7 @@
 			"slug": "harry-potter",
 			"description": "Harry Potter characters",
 			"twitter": "HarryPotterENS",
-			"website": "",
+			"website": "https://warnerbros.fandom.com/wiki/Category:Harry_Potter_characters",
 			"chat": "",
 			"logo": "harry-potter.png",
 			"csv": [
@@ -704,7 +704,7 @@
 			"description": "Names of all characters from Naruto!",
 			"twitter": "",
 			"chat": "",
-			"website": "",
+			"website": "https://naruto.fandom.com/wiki/Category:Characters",
 			"logo": "naruto-names.png",
 			"csv": [
 				"naruto-names.csv"

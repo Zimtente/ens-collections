@@ -1679,6 +1679,18 @@
 			"csv": [
 				"1k-forebears-first-names.csv"
 			]
+		},
+		{
+			"name": "Star Wars",
+			"slug": "star-wars",
+			"description": "Significant characters from the Star Wars universe.",
+			"twitter": "@starwars_ens",
+			"website": "",
+			"chat": "",
+			"logo": "star-wars.png",
+			"csv": [
+				"star-wars.csv"
+			]
 		}
 	]
 }

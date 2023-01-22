@@ -1679,6 +1679,18 @@
 			"csv": [
 				"1k-forebears-first-names.csv"
 			]
+		},
+		{
+			"name": "League of Legends",
+			"slug": "league-of-legends",
+			"description": "Champions of League of Legends",
+			"twitter": "",
+			"website": "",
+			"chat": "",
+			"logo": "",
+			"csv": [
+				"league-of-legends.csv"
+			]
 		}
 	]
 }

@@ -1691,6 +1691,42 @@
 			"csv": [
 				"star-wars.csv"
 			]
+		},
+		{
+			"name": "9’s",
+			"slug": "9s",
+			"description": "9’s apostrophe club",
+			"twitter": "@999Apostrophe",
+			"website": "",
+			"chat": "https://discord.gg/AntmjJpe",
+			"logo": "9s.png",
+			"csv": [
+				"9s.csv"
+			]
+		},
+		{
+			"name": "99’s",
+			"slug": "99s",
+			"description": "99’s apostrophe club",
+			"twitter": "@999Apostrophe",
+			"website": "",
+			"chat": "https://discord.gg/AntmjJpe",
+			"logo": "99s.png",
+			"csv": [
+				"99s.csv"
+			]
+		},
+		{
+			"name": "999’s",
+			"slug": "999s",
+			"description": "999’s apostrophe club",
+			"twitter": "@999Apostrophe",
+			"website": "",
+			"chat": "https://discord.gg/AntmjJpe",
+			"logo": "999s.png",
+			"csv": [
+				"999s.csv"
+			]
 		}
 	]
 }

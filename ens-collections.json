@@ -37,6 +37,16 @@
 			]
 		},
 		{
+			"name": "0x-NN Club",
+			"slug": "0x-NN-club",
+			"description": "0x-NumberNumber",
+			"twitter": "0x_NN_Club",
+			"chat": "https://discord.gg/snU92mehSy",
+			"website": "",
+			"logo": "0x-NN Club.png",
+			"csv": ["0x-NN CSV.csv"]
+		},
+		{
 			"name": "0x999 Club",
 			"slug": "0x999-club",
 			"description": "Names with 0x3Digits.",

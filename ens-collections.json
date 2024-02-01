@@ -26,6 +26,20 @@
         "subdomain"
       ]
     },
+	{
+      "name": "Govermint",
+      "slug": "govermint",
+      "description": "Mint your position on Govermint.eth. Subdomain holders become members of Congress, and receive a free allocation of $CONG, the official token of the project.",
+      "twitter": "congress_tech",
+      "website": "https://congress.tech/",
+      "chat": "https://t.me/Congress_tech",
+      "logo": "govermint.png",
+      "parent": "govermint.eth",
+      "csv": "govermint.csv",
+      "tags": [
+        "subdomain"
+      ]
+    },
     {
       "name": "0x10k Club",
       "slug": "0x10k-club",
@@ -305,18 +319,6 @@
       ]
     },
     {
-      "name": "Arabic 3-Digit Palindromes",
-      "slug": "arabic-3-digit-palindromes",
-      "description": "Palindromes with Arabic 3 Digits.",
-      "twitter": "999ENSArabic",
-      "chat": "https://discord.gg/QNEmFx6DzW",
-      "website": "",
-      "logo": "arabic-3-digit-palindromes.png",
-      "csv": [
-        "arabic-3-digit-palindromes.csv"
-      ]
-    },
-    {
       "name": "Bengali 999 Club",
       "slug": "bengali-999-club",
       "description": "3 digit numerals for the 6th most popular language in the world; Bengali numerals from 000-999.",
@@ -362,18 +364,6 @@
       "logo": "un-countries.png",
       "csv": [
         "un-countries.csv"
-      ]
-    },
-    {
-      "name": "Country Leaders",
-      "slug": "country-leaders",
-      "description": "Names of Country Leaders.",
-      "twitter": "",
-      "chat": "",
-      "website": "",
-      "logo": "country-leaders.png",
-      "csv": [
-        "country-leaders.csv"
       ]
     },
     {
@@ -461,30 +451,6 @@
       ]
     },
     {
-      "name": "Double-Hyphens-LV-LV",
-      "slug": "double-hyphens-lv-lv",
-      "description": "Hyphenated ENS domains.",
-      "twitter": "LV_LV_club",
-      "chat": "",
-      "website": "",
-      "logo": "double-hyphens-lv-lv.png",
-      "csv": [
-        "double-hyphens-lv-lv.csv"
-      ]
-    },
-    {
-      "name": "Double-Hyphens-VV-VV",
-      "slug": "double-hyphens-vv-vv",
-      "description": "Hyphenated ENS domains.",
-      "twitter": "VV_VV_Club",
-      "chat": "",
-      "website": "",
-      "logo": "double-hyphens-vv-vv.png",
-      "csv": [
-        "double-hyphens-vv-vv.csv"
-      ]
-    },
-    {
       "name": "Hyphens-NN",
       "slug": "hyphens-nn",
       "description": "Hyphenated ENS domains.",
@@ -506,18 +472,6 @@
       "logo": "japanese-pokemon-trainer-dao.png",
       "csv": [
         "japanese-pokemon-trainer-dao.csv"
-      ]
-    },
-    {
-      "name": "Mnemonic Club",
-      "slug": "mnemonic-club",
-      "description": "2048 mnemonic seed phrases.",
-      "twitter": "",
-      "chat": "",
-      "website": "",
-      "logo": "mnemonic-club.png",
-      "csv": [
-        "mnemonic-club.csv"
       ]
     },
     {
@@ -617,30 +571,6 @@
       ]
     },
     {
-      "name": "MMDD Club",
-      "slug": "mmdd-club",
-      "description": "0101.eth - 1231.eth",
-      "twitter": "mmddclub",
-      "chat": "",
-      "website": "",
-      "logo": "mmdd-club.png",
-      "csv": [
-        "mmdd-club.csv"
-      ]
-    },
-    {
-      "name": "Substances Club",
-      "slug": "substances-club",
-      "description": "Medicines, recreational drugs, pill imprints, and more.",
-      "twitter": "",
-      "chat": "",
-      "website": "",
-      "logo": "",
-      "csv": [
-        "substances-club.csv"
-      ]
-    },
-    {
       "name": "Male Firstnames",
       "slug": "male-firstnames",
       "description": "Male Firstnames.",
@@ -665,18 +595,6 @@
       ]
     },
     {
-      "name": "Official Playstation Console Series",
-      "slug": "playstation-console-series",
-      "description": "The Official Playstation Console Releases.",
-      "twitter": "",
-      "chat": "",
-      "website": "",
-      "logo": "playstation-console-series.png",
-      "csv": [
-        "playstation-console-series.csv"
-      ]
-    },
-    {
       "name": "Harry Potter",
       "slug": "harry-potter",
       "description": "Harry Potter characters",
@@ -686,18 +604,6 @@
       "logo": "harry-potter.png",
       "csv": [
         "harry-potter.csv"
-      ]
-    },
-    {
-      "name": "Tolkien",
-      "slug": "tolkien",
-      "description": "Characters from the Tolkien Legendarium",
-      "twitter": "TolkienENS",
-      "website": "",
-      "chat": "",
-      "logo": "tolkien.png",
-      "csv": [
-        "tolkien.csv"
       ]
     },
     {
@@ -773,126 +679,6 @@
       ]
     },
     {
-      "name": "GOT Houses Club",
-      "slug": "got-houses-club",
-      "description": "Game of Thrones Houses",
-      "twitter": "GOTHousesClub",
-      "website": "",
-      "chat": "",
-      "logo": "",
-      "csv": [
-        "got-houses-club.csv"
-      ]
-    },
-    {
-      "name": "Poker Club",
-      "slug": "poker-club",
-      "description": "poker names",
-      "twitter": "ENSPokerClub",
-      "website": "",
-      "chat": "",
-      "logo": "poker-club.png",
-      "csv": [
-        "poker-club.csv"
-      ]
-    },
-    {
-      "name": "Marvel Club",
-      "slug": "marvel-club",
-      "description": "Names of Marvel Characters. Top 230.",
-      "twitter": "MarvelENSClub",
-      "website": "",
-      "chat": "",
-      "logo": "marvel-club.png",
-      "csv": [
-        "marvel-club.csv"
-      ]
-    },
-    {
-      "name": "Tamil 999 Club",
-      "slug": "tamil-999-club",
-      "description": "Names with 3 digits, 000-999 in Tamil characters.",
-      "twitter": "https://twitter.com/sin999club",
-      "website": "https://sin999.club",
-      "chat": "https://discord.gg/hEKP9a7G",
-      "logo": "tamil-999-club.png",
-      "csv": [
-        "tamil-999-club.csv"
-      ]
-    },
-    {
-      "name": "Telugu 999 Club",
-      "slug": "telugu-999-club",
-      "description": "Names with 3 digits, 000-999 in Telugu characters.",
-      "twitter": "https://twitter.com/sin999club",
-      "website": "https://sin999.club",
-      "chat": "https://discord.gg/hEKP9a7G",
-      "logo": "telugu-999-club.png",
-      "csv": [
-        "telugu-999-club.csv"
-      ]
-    },
-    {
-      "name": "Kannada 999 Club",
-      "slug": "kannada-999-club",
-      "description": "Names with 3 digits, 000-999 in Kannada characters.",
-      "twitter": "https://twitter.com/sin999club",
-      "website": "https://sin999.club",
-      "chat": "https://discord.gg/hEKP9a7G",
-      "logo": "kannada-999-club.png",
-      "csv": [
-        "kannada-999-club.csv"
-      ]
-    },
-    {
-      "name": "Malayalam 999 Club",
-      "slug": "malayalam-999-club",
-      "description": "Names with 3 digits, 000-999 in Malayalam characters.",
-      "twitter": "https://twitter.com/sin999club",
-      "website": "https://sin999.club",
-      "chat": "https://discord.gg/hEKP9a7G",
-      "logo": "malayalam-999-club.png",
-      "csv": [
-        "malayalam-999-club.csv"
-      ]
-    },
-    {
-      "name": "5 Digit James Bond Club",
-      "slug": "5-digit-james-bond",
-      "description": "Exclusive 5 digit number which contains 007",
-      "twitter": "",
-      "chat": "",
-      "website": "",
-      "logo": "5-digit-james-bond.png",
-      "csv": [
-        "5-digit-james-bond.csv"
-      ]
-    },
-    {
-      "name": "NCAA",
-      "slug": "ncaa",
-      "description": "NCAA college abbreviations",
-      "twitter": "",
-      "chat": "",
-      "website": "",
-      "logo": "",
-      "csv": [
-        "ncaa.csv"
-      ]
-    },
-    {
-      "name": "Nasdaq ens index",
-      "slug": "nasdaq-ens-index",
-      "description": "Nasdaq ens index AABA-ZYNE",
-      "twitter": "nasdaq_ensindex",
-      "chat": "https://discord.gg/5J9xE2X7XH",
-      "website": "",
-      "logo": "nasdaq-ens-index.png",
-      "csv": [
-        "nasdaq-ens-index.csv"
-      ]
-    },
-    {
       "name": "360 Degrees Club",
       "slug": "360-degrees-club",
       "description": "360 Degrees Club",
@@ -902,18 +688,6 @@
       "logo": "360-degrees-club.png",
       "csv": [
         "360-degrees-club.csv"
-      ]
-    },
-    {
-      "name": "999 CN Capitalized Club",
-      "slug": "999-cn-capitalized-club",
-      "description": "零零零 - 玖玖玖 (capitalized)",
-      "twitter": "3dChinese",
-      "website": "",
-      "chat": "https://discord.gg/82fuK42RyV",
-      "logo": "999-cn-capitalized-club.png",
-      "csv": [
-        "999-cn-capitalized-club.csv"
       ]
     },
     {
@@ -938,30 +712,6 @@
       "logo": "3-digits-hebrew-club.png",
       "csv": [
         "3-digits-hebrew-club.csv"
-      ]
-    },
-    {
-      "name": "BIP39 Club",
-      "slug": "bip39-club",
-      "description": "2048 words from the BIP39 English wordlist.",
-      "twitter": "BIP39Club",
-      "website": "https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt",
-      "chat": "",
-      "logo": "bip39-club.png",
-      "csv": [
-        "bip39-club.csv"
-      ]
-    },
-    {
-      "name": "Palindrome cities",
-      "slug": "palindrome-cities",
-      "description": "24 Palindrome Cities",
-      "twitter": "",
-      "website": "",
-      "chat": "",
-      "logo": "palindrome-cities.png",
-      "csv": [
-        "palindrome-cities.csv"
       ]
     },
     {
@@ -1061,54 +811,6 @@
       ]
     },
     {
-      "name": "Persian 999 Club",
-      "slug": "persian-999-club",
-      "description": "Persian numerals 000-999",
-      "twitter": "Persian999Club",
-      "website": "",
-      "chat": "https://discord.gg/8u2v2wS2",
-      "logo": "persian-999-club.png",
-      "csv": [
-        "persian-999-club.csv"
-      ]
-    },
-    {
-      "name": "Jurassic ENS",
-      "slug": "jurassic-ens",
-      "description": "Jurassic Dinosaur ENS names",
-      "twitter": "",
-      "website": "",
-      "chat": "",
-      "logo": "jurassic-ens.png",
-      "csv": [
-        "jurassic-ens.csv"
-      ]
-    },
-    {
-      "name": "languages of the world",
-      "slug": "languages-of-the-world",
-      "description": "ENS names of languages all around the world",
-      "twitter": "",
-      "website": "",
-      "chat": "",
-      "logo": "languages-of-the-world.png",
-      "csv": [
-        "languages-of-the-world.csv"
-      ]
-    },
-    {
-      "name": "The Cents Club",
-      "slug": "the-cents-club",
-      "description": "Ens domains for 1cent to 100cents",
-      "twitter": "TheCentsClub",
-      "website": "",
-      "chat": "https://discord.gg/YbNGdmCNwT",
-      "logo": "the-cents-club.png",
-      "csv": [
-        "the-cents-club.csv"
-      ]
-    },
-    {
       "name": "365 Club",
       "slug": "365-club",
       "description": "Official 365 Club of ENS names January1st.eth - December31st.eth",
@@ -1133,112 +835,6 @@
       ]
     },
     {
-      "name": "PsalmsClub",
-      "slug": "psalms-club",
-      "description": "1st club of NFTs based on Ens domains of religious character in the world.",
-      "twitter": "Psalmsclub",
-      "website": "",
-      "chat": "https://discord.gg/43hTTVFzSC",
-      "logo": "psalms-club.png",
-      "csv": [
-        "psalms-club.csv"
-      ]
-    },
-    {
-      "name": "3 Letter Greek Alphabet",
-      "slug": "3-letter-greek-alphabet",
-      "description": "The 24 letters of the Greek alphabet in 3 characters.",
-      "twitter": "GreekAlphabetClub",
-      "website": "",
-      "chat": "",
-      "logo": "3-letter-greek-alphabet.png",
-      "csv": [
-        "3-letter-greek-alphabet.csv"
-      ]
-    },
-    {
-      "name": "ENS Full Date Club",
-      "slug": "ens-full-date-club",
-      "description": "1January.eth – 31December.eth",
-      "twitter": "EnsFullDateClub",
-      "chat": "https://discord.gg/FnYyqDkmRX",
-      "logo": "ens-full-date-club.png",
-      "csv": [
-        "ens-full-date-club.csv"
-      ]
-    },
-    {
-      "name": "24ClockTimes",
-      "slug": "24-clock-times",
-      "description": "Collection with 1am-12am and 1pm-12pm",
-      "twitter": "24ClockTimes",
-      "website": "",
-      "chat": "https://discord.gg/eWEdvcT5SS",
-      "logo": "24-clock-times.png",
-      "csv": [
-        "24-clock-times.csv"
-      ]
-    },
-    {
-      "name": "Kanye Ens Club",
-      "slug": "kanye-ens-club",
-      "description": "All kanye song titles in Ens format",
-      "twitter": "KanyeEnsClub",
-      "website": "",
-      "chat": "",
-      "logo": "kanye-ens-club.png",
-      "csv": [
-        "kanye-ens-club.csv"
-      ]
-    },
-    {
-      "name": "FlagCountry Club",
-      "slug": "flagcountry-club",
-      "description": "254 flags & 254 countries",
-      "twitter": "flags_with",
-      "website": "",
-      "chat": "",
-      "logo": "flagcountry-club.png",
-      "csv": [
-        "flagcountry-club.csv"
-      ]
-    },
-    {
-      "name": "Single Digit Multiplication",
-      "slug": "single-digit-multiplication",
-      "description": "Single Digit Multiplication 0x0 to 9x9",
-      "twitter": "1_digitx1_digit",
-      "chat": "https://discord.gg/5J9xE2X7XH",
-      "website": "discord.gg/VSFUAYh9dG",
-      "logo": "single-digit-multiplication.png",
-      "csv": [
-        "single-digit-multiplication.csv"
-      ]
-    },
-    {
-      "name": "Punjabi 999 Club",
-      "slug": "punjabi-999-club",
-      "description": "Punjabi numerals 000-999.",
-      "twitter": "999ENSPunjabi",
-      "website": "",
-      "chat": "",
-      "logo": "punjabi-999-club.png",
-      "csv": [
-        "punjabi-999-club.csv"
-      ]
-    },
-    {
-      "name": "Months",
-      "slug": "months",
-      "description": "Months in the Gregorian calendar",
-      "website": "",
-      "chat": "",
-      "logo": "",
-      "csv": [
-        "months.csv"
-      ]
-    },
-    {
       "name": "999 Club ENS Chinese",
       "slug": "999-club-ens-chinese",
       "description": "零零一 - 九百九十九 (001-999) Chinese Club (Simplified)",
@@ -1251,54 +847,6 @@
       ]
     },
     {
-      "name": "Braille 999 Club",
-      "slug": "braille-999-club",
-      "description": "Braille number.ens 000-999",
-      "twitter": "999BrailleClub",
-      "chat": "",
-      "website": "",
-      "logo": "braille-999-club.png",
-      "csv": [
-        "braille-999-club.csv"
-      ]
-    },
-    {
-      "name": "3L Months",
-      "slug": "3l-months",
-      "description": "Months in the Gregorian calendar abbreviated to 3 letters",
-      "twitter": "",
-      "chat": "",
-      "website": "",
-      "logo": "3l-months.png",
-      "csv": [
-        "3l-months.csv"
-      ]
-    },
-    {
-      "name": "99 Temperature Club",
-      "slug": "99-temperature-club",
-      "description": "The temperature range of 1-99 degrees is where water is a liquid. One degree warmer or colder and it boils or freezes. The 99 Temperature Club brings this to ENS: 99 three-digit domains each representing one degree of liquidity.",
-      "twitter": "99_temperature",
-      "website": "N/A",
-      "chat": "N/A",
-      "logo": "99-temperature-club.png",
-      "csv": [
-        "99-temperature-club.csv"
-      ]
-    },
-    {
-      "name": "Hyphens-NNN",
-      "slug": "hyphens-nnn",
-      "description": "Hyphenated N-N-N ENS domains 0-0-0 to 9-9-9",
-      "twitter": "HyphensNNNClub",
-      "chat": "https://discord.com/channels/970489721602080798/970632628652900372",
-      "website": "N/A",
-      "logo": "hyphens-nnn.png",
-      "csv": [
-        "hyphens-nnn.csv"
-      ]
-    },
-    {
       "name": "999th Club",
       "slug": "999th-club",
       "description": "Official Ordinal Club of ENS names 1st.eth - 999th.eth",
@@ -1308,174 +856,6 @@
       "logo": "999th-club.png",
       "csv": [
         "999th-club.csv"
-      ]
-    },
-    {
-      "name": "AUS 999 Club",
-      "slug": "aus-999-club",
-      "description": "AUS Flags with digits, 0-999.",
-      "twitter": "au999passport",
-      "website": "",
-      "chat": "https://discord.com/invite/QqSPHBSu",
-      "logo": "aus-999-club.png",
-      "csv": [
-        "aus-999-club.csv"
-      ]
-    },
-    {
-      "name": "Skateboard Tricks",
-      "slug": "skateboard-tricks",
-      "description": "ENS category of Skateboard Tricks for all Skateboard Lovers!",
-      "twitter": "",
-      "chat": "",
-      "website": "",
-      "logo": "skateboard-tricks.png",
-      "csv": [
-        "skateboard-tricks.csv"
-      ]
-    },
-    {
-      "name": "US 999 Club",
-      "slug": "us-999-club",
-      "description": "US Flags with digits, 0-999.",
-      "twitter": "us999passport",
-      "website": "",
-      "chat": "https://discord.gg/NaTzeU8PNj",
-      "logo": "us-999-club.png",
-      "csv": [
-        "us-999-club.csv"
-      ]
-    },
-    {
-      "name": "DBZ-Characters",
-      "slug": "dbz-characters",
-      "description": "Characters appearing in Dragon Ball Z.",
-      "twitter": "",
-      "website": "",
-      "chat": "",
-      "logo": "dbz-characters.png",
-      "csv": [
-        "dbz-characters.csv"
-      ]
-    },
-    {
-      "name": "Ethmoji 0️x10k Club",
-      "slug": "ethmoji-0x10k-club",
-      "description": "Names with 4 Emoji Digits beginning in 0️⃣❎.",
-      "twitter": "EthmojiClub",
-      "chat": "https://discord.gg/vv6H4Rjuzm",
-      "website": "",
-      "logo": "ethmoji-0x10k-club.png",
-      "csv": [
-        "ethmoji-0x10k-club.csv"
-      ]
-    },
-    {
-      "name": "Ethmoji ID99 Club",
-      "slug": "ethmoji-id-99-club",
-      "description": "Names with 1-2 Emoji Digits beginning in 🆔.",
-      "twitter": "EthmojiClub",
-      "chat": "https://discord.gg/vv6H4Rjuzm",
-      "website": "",
-      "logo": "ethmoji-id-99-club.png",
-      "csv": [
-        "ethmoji-id-99-club.csv"
-      ]
-    },
-    {
-      "name": "Ethmoji 0x999 Club",
-      "slug": "ethmoji-0x999-club",
-      "description": "Names with 3 Emoji Digits beginning in 0️⃣❎.",
-      "twitter": "EthmojiClub",
-      "chat": "https://discord.gg/vv6H4Rjuzm",
-      "website": "",
-      "logo": "ethmoji-0x999-club.png",
-      "csv": [
-        "ethmoji-0x999-club.csv"
-      ]
-    },
-    {
-      "name": "Ethmoji 0x99 Club",
-      "slug": "ethmoji-0x99-club",
-      "description": "Names with 2 Emoji Digits beginning in 0️⃣❎.",
-      "twitter": "EthmojiClub",
-      "chat": "https://discord.gg/vv6H4Rjuzm",
-      "website": "",
-      "logo": "ethmoji-0x99-club.png",
-      "csv": [
-        "ethmoji-0x99-club.csv"
-      ]
-    },
-    {
-      "name": "999 Bubble Club",
-      "slug": "999-bubble-club",
-      "description": "000-999 Bubble Digits!",
-      "twitter": "999BubbleClub",
-      "chat": "",
-      "website": "",
-      "logo": "999-bubble-club.png",
-      "csv": [
-        "999-bubble-club.csv"
-      ]
-    },
-    {
-      "name": "Spanish Nouns",
-      "slug": "spanish-nouns",
-      "description": "Spanish Nouns based off the english nouns list.",
-      "twitter": "EnsSpanishW3W",
-      "chat": "",
-      "website": "",
-      "logo": "spanish-nouns.png",
-      "csv": [
-        "spanish-nouns.csv"
-      ]
-    },
-    {
-      "name": "Spanish Verbs",
-      "slug": "spanish-verbs",
-      "description": "Spanish verbs based off the english verbs list.",
-      "twitter": "EnsSpanishW3W",
-      "chat": "",
-      "website": "",
-      "logo": "spanish-verbs.png",
-      "csv": [
-        "spanish-verbs.csv"
-      ]
-    },
-    {
-      "name": "English Animals",
-      "slug": "english-animals",
-      "description": "Animals in the English language.",
-      "twitter": "EnsSpanishW3W",
-      "chat": "",
-      "website": "",
-      "logo": "english-animals.png",
-      "csv": [
-        "english-animals.csv"
-      ]
-    },
-    {
-      "name": "Spanish Animals",
-      "slug": "spanish-animals",
-      "description": "Animales en Idioma española.",
-      "twitter": "EnsSpanishW3W",
-      "chat": "",
-      "website": "",
-      "logo": "spanish-animals.png",
-      "csv": [
-        "spanish-animals.csv"
-      ]
-    },
-    {
-      "name": "Male Firstname Arabic club",
-      "slug": "male-firstname-arabic-club",
-      "description": "Arabic Male First Names",
-      "twitter": "ArabicMfn",
-      "website": "",
-      "chat": "",
-      "logo": "male-firstname-arabic-club.png",
-      "csv": [
-        "male-firstname-arabic-club.csv"
       ]
     },
     {
@@ -1527,18 +907,6 @@
       ]
     },
     {
-      "name": "5 Letter Palindromes",
-      "slug": "5-letter-palindromes",
-      "description": "Palindromes with 5 letters.",
-      "twitter": "",
-      "chat": "",
-      "website": "",
-      "logo": "5-letter-palindromes.png",
-      "csv": [
-        "5-letter-palindromes.csv"
-      ]
-    },
-    {
       "name": "4 Letter Palindromes",
       "slug": "4-letter-palindromes",
       "description": "Palindromes with 4 letters.",
@@ -1548,18 +916,6 @@
       "logo": "4-letter-palindromes.png",
       "csv": [
         "4-letter-palindromes.csv"
-      ]
-    },
-    {
-      "name": "6 Letter Palindromes",
-      "slug": "6-letter-palindromes",
-      "description": "Palindromes with 6 letters.",
-      "twitter": "",
-      "chat": "",
-      "website": "",
-      "logo": "6-letter-palindromes.png",
-      "csv": [
-        "6-letter-palindromes.csv"
       ]
     },
     {
@@ -1692,6 +1048,66 @@
       "logo": "1k-forebears-first-names.png",
       "csv": [
         "1k-forebears-first-names.csv"
+      ]
+    },
+    {
+      "name": "Star Wars Universe",
+      "slug": "star-wars-universe",
+      "description": "Star Wars galaxy collection of a wide array of characters and iconic elements from the legendary series.",
+      "twitter": "",
+      "website": "https://starwars.fandom.com/wiki/Main_Page",
+      "chat": "",
+      "logo": "star-wars-universe.png",
+      "csv": [
+        "star-wars-universe.csv"
+      ]
+    },
+    {
+      "name": "Star Wars VHP",
+      "slug": "star-wars-vhp",
+      "description": "Curated for true fans, this vision handpicked selection spotlights the most iconic and beloved characters and elements from the Star Wars universe.",
+      "twitter": "",
+      "website": "",
+      "chat": "",
+      "logo": "star-wars-vhp.png",
+      "csv": [
+        "star-wars-vhp.csv"
+      ]
+    },
+    {
+      "name": "League of Legends Characters",
+      "slug": "league-of-legends-characters",
+      "description": "Explore the League of Legends universe, showcasing a variety of champions and their unique lore.",
+      "twitter": "",
+      "website": "https://www.leagueoflegends.com/en-us/champions/",
+      "chat": "",
+      "logo": "league-of-legends-characters.png",
+      "csv": [
+        "league-of-legends-characters.csv"
+      ]
+    },
+    {
+      "name": "DOTA Characters",
+      "slug": "dota-characters",
+      "description": "Experience the rich world of DOTA, featuring its heroes, villains, and mythical beings from the celebrated MOBA game.",
+      "twitter": "",
+      "website": "https://liquipedia.net/dota2/Portal:Heroes",
+      "chat": "",
+      "logo": "dota-characters.png",
+      "csv": [
+        "dota-characters.csv"
+      ]
+    },
+    {
+      "name": "Disney Princesses",
+      "slug": "disney-princesses",
+      "description": "Rediscover the enchantment with our Disney Princesses collection, celebrating timeless characters known for their courage and dreams.",
+      "twitter": "",
+      "website": "https://disneyprincess.fandom.com/wiki/List_of_Disney_Princesses#Official_Princesses",
+      "chat": "",
+      "logo": "disney-princesses.png",
+      "csv": [
+        "disney-princesses.csv"
       ]
     }
   ]

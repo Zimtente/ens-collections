@@ -1109,6 +1109,78 @@
       "csv": [
         "disney-princesses.csv"
       ]
+    },
+    {
+      "name": "Legendary Pokemon",
+      "slug": "legendary-pokemon",
+      "description": "Highly sought-after for their power and rarity, these Pokémon are among the strongest and most respected.",
+      "twitter": "",
+      "website": "https://www.serebii.net/pokemon/legendary.shtml#legend",
+      "chat": "",
+      "logo": "legendary-pokemon.png",
+      "csv": [
+        "legendary-pokemon.csv"
+      ]
+    },
+    {
+      "name": "Sub-Legendary Pokemon",
+      "slug": "sub-legendary-pokemon",
+      "description": "Rare and powerful, these Pokémon have unique abilities that distinguish them, though they're not quite legendary.",
+      "twitter": "",
+      "website": "https://www.serebii.net/pokemon/legendary.shtml#sublegends",
+      "chat": "",
+      "logo": "sub-legendary-pokemon.png",
+      "csv": [
+        "sub-legendary-pokemon.csv"
+      ]
+    },
+    {
+      "name": "Mythical Pokemon",
+      "slug": "mythical-pokemon",
+      "description": "Rare and often only available through special events, Mythical Pokémon are surrounded by mystery and lore.",
+      "twitter": "",
+      "website": "https://www.serebii.net/pokemon/legendary.shtml#mythical",
+      "chat": "",
+      "logo": "mythical-pokemon.png",
+      "csv": [
+        "mythical-pokemon.csv"
+      ]
+    },
+    {
+      "name": "Studio Ghibli - VHP",
+      "slug": "studio-ghibli-vhp",
+      "description": "Handpicked collection of renowned characters from legendary films like Spirited Away and My Neighbor Totoro, embodying Ghibli's magical storytelling.",
+      "twitter": "",
+      "website": "https://ghibli.fandom.com/wiki/List_of_characters",
+      "chat": "",
+      "logo": "studio-ghibli-vhp.png",
+      "csv": [
+        "studio-ghibli-vhp.csv"
+      ]
+    },
+    {
+      "name": "Nintendo Friends - VHP",
+      "slug": "nintendo-friends-vhp",
+      "description": "Iconic characters from Nintendo's universe.",
+      "twitter": "",
+      "website": "https://play.nintendo.com/themes/friends/",
+      "chat": "",
+      "logo": "nintendo-friends-vhp.png",
+      "csv": [
+        "nintendo-friends-vhp.csv"
+      ]
+    },
+    {
+      "name": "World of Warcraft - VHP",
+      "slug": "world-of-warcraft-vhp",
+      "description": "A deep dive into the sprawling fantasy world of Azeroth, featuring characters, spells and iconic words from the beloved MMORPG, World of Warcraft.",
+      "twitter": "",
+      "website": "https://wowpedia.fandom.com/wiki/The_Characters_of_Warcraft",
+      "chat": "",
+      "logo": "world-of-warcraft-vhp.png",
+      "csv": [
+        "world-of-warcraft-vhp.csv"
+      ]
     }
   ]
 }

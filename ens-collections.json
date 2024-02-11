@@ -1181,6 +1181,18 @@
       "csv": [
         "world-of-warcraft-vhp.csv"
       ]
+    },
+    {
+      "name": "Quint Ethmoji",
+      "slug": "quint-ethmoji",
+      "description": "Names with True Quint Emojis",
+      "twitter": "EthmojiClub",
+      "website": "",
+      "chat": "https://discord.com/invite/vv6H4Rjuzm",
+      "logo": "quint-ethmoji.png",
+      "csv": [
+        "quint-ethmoji.csv"
+      ]
     }
   ]
 }

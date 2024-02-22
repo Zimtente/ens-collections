@@ -1193,6 +1193,78 @@
       "csv": [
         "quint-ethmoji.csv"
       ]
+    },
+	{
+      "name": "Dragon Ball - VHP",
+      "slug": "dragon-ball-vhp",
+      "description": "Handpicked collection of the most iconic characters and epic moments from the Dragon Ball saga.",
+      "twitter": "",
+      "website": "https://dragonball.fandom.com/wiki",
+      "chat": "",
+      "logo": "dragon-ball-vhp.png",
+      "csv": [
+        "dragon-ball-vhp.csv"
+      ]
+    },
+	{
+      "name": "Marvel / DC - VHP",
+      "slug": "marvel-dc-vhp",
+      "description": "Handpicked collection of iconic heroes and villains from the Marvel and DC universes.",
+      "twitter": "",
+      "website": "https://www.marvel.com/characters",
+      "chat": "",
+      "logo": "marvel-dc-vhp.png",
+      "csv": [
+        "marvel-dc-vhp.csv"
+      ]
+    },
+	{
+      "name": "Marvel Snap",
+      "slug": "marvel-snap",
+      "description": "A vibrant collection dedicated to the characters featured in the Marvel Snap card game.",
+      "twitter": "",
+      "website": "https://marvelsnapzone.com/cards/",
+      "chat": "",
+      "logo": "marvel-snap.png",
+      "csv": [
+        "marvel-snap.csv"
+      ]
+    },
+	{
+      "name": "Fortnite",
+      "slug": "fortnite",
+      "description": "Dive into Fortnite's latest saga with characters from Chapters 2.5 and 2.6.",
+      "twitter": "",
+      "website": "https://fortnite-archive.fandom.com/wiki/Characters",
+      "chat": "",
+      "logo": "fortnite.png",
+      "csv": [
+        "fortnite.csv"
+      ]
+    },
+	{
+      "name": "Overwatch",
+      "slug": "overwatch",
+      "description": "All heroes from the acclaimed team-based shooter game, united in action.",
+      "twitter": "",
+      "website": "https://overwatch.blizzard.com/en-us/heroes/",
+      "chat": "",
+      "logo": "overwatch.png",
+      "csv": [
+        "overwatch.csv"
+      ]
+    },
+	{
+      "name": "Halo - VHP",
+      "slug": "halo-vhp",
+      "description": "A handpicked, curated selection of Halo's most iconic characters, pivotal terms, and legendary lore.",
+      "twitter": "",
+      "website": "https://www.halopedia.org/
+      "chat": "",
+      "logo": "halo-vhp.png",
+      "csv": [
+        "halo-vhp.csv"
+      ]
     }
   ]
 }

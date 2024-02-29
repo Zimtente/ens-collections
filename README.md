@@ -3,7 +3,7 @@
 
 ENS Collections are categories of ENS names based on specific patterns or predefined lists. This repository is an effort towards bringing all collections together into one place and standardizing their definition in order to facilitate consistent integrations across platforms and marketplaces.
 
-This repo is maintained by: [@zimtente](https://twitter.com/zimtente) ([ENS.Vision](https://ens.vision)) and [@aoxborrow](https://twitter.com/aoxborrow) ([ENS.Tools](https://ens.tools))
+This repo is maintained by: [@zimtente](https://twitter.com/zimtente) ([ENS.Vision](https://ens.vision))
 
 
 ### Metadata

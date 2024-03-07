@@ -1265,6 +1265,28 @@
       "csv": [
         "halo-vhp.csv"
       ]
-    }
+    },
+	{
+      "name": "Fortnite - VHP",
+      "slug": "fortnite-vhp",
+      "description": "A handpicked, curated selection of Fortnite's most iconic characters, skins and terms.",
+      "twitter": "",
+      "website": "https://fortnite.fandom.com/wiki/Fortnite_Wiki",
+      "chat": "",
+      "logo": "fortnite-vhp.png",
+      "csv": [
+        "fortnite-vhp.csv"
+      ]
+    },
+	{
+      "name": "Valorant",
+      "slug": "valorant",
+      "description": "All agents from the tactical FPS, showcasing their unique skills and strategies (including scrapped agents)."
+      "twitter": "",
+      "website": "https://www.rivalry.com/news/valorant-tier-list-best-valorant-agents",
+      "chat": "",
+      "logo": "valorant.png",
+      "csv": [
+        "valorant.csv"
   ]
 }

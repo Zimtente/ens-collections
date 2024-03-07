@@ -1288,5 +1288,15 @@
       "logo": "valorant.png",
       "csv": [
         "valorant.csv"
-  ]
-}
+      ]
+    },
+	{
+      "name": "LOTR - Tolkien - VHP",
+      "slug": "tolkien-vhp",
+      "description": "Handpicked compilation of important elements from Tolkien's works, offering a broad overview that includes characters, geographical locations, races, and significant terms."
+      "twitter": "",
+      "website": "https://lotr.fandom.com/",
+      "chat": "",
+      "logo": "tolkien-vhp.png",
+      "csv": [
+        "tolkien-vhp.csv"

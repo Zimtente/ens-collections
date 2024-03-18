@@ -1300,3 +1300,15 @@
       "logo": "tolkien-vhp.png",
       "csv": [
         "tolkien-vhp.csv"
+		 ]
+    },
+	{
+      "name": "Game of Thrones - VHP",
+      "slug": "game-of-thrones-vhp",
+      "description": "Handpicked compilation from the icy North to the fiery East, capture the essence of beloved characters, fearsome creatures, and noble houses."
+      "twitter": "",
+      "website": "https://gameofthrones.fandom.com/wiki/Wiki_of_Westeros",
+      "chat": "",
+      "logo": "game-of-thrones-vhp.png",
+      "csv": [
+        "game-of-thrones-vhp.csv"

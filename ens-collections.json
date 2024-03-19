@@ -1312,3 +1312,15 @@
       "logo": "game-of-thrones-vhp.png",
       "csv": [
         "game-of-thrones-vhp.csv"
+		 ]
+    },
+	{
+      "name": "Star Trek - VHP",
+      "slug": "star-trek-vhp",
+      "description": "Handpicked compilation of characters, cultures, tech and terms that define the Star Trek universe. A tribute to the galaxy where adventure awaits at warp speed."
+      "twitter": "",
+      "website": "https://memory-alpha.fandom.com/wiki/Portal:Main",
+      "chat": "",
+      "logo": "star-trek-vhp.png",
+      "csv": [
+        "star-trek-vhp.csv"
